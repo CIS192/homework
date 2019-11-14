@@ -23,7 +23,9 @@ You should also write the URLs and views to simply render the templates too, in 
 Once you have a working accounts system, the entire flow of development will be completely different. Django’s authentication system lets us implement this very easily (refer to Week 7’s lecture notes for more information). It is not necessary to extend the user model (e.g. bio, profile picture etc.), but extra credit will be given where due!
 
 ## Milestone 3: Model Definitions
-The only two models that you need to implement are a `Tweet` model and a `Hashtag` model. Be sure to make use of SQL relationships (namely the `foreign_key` and `ManyToMany` relationships). Tweets must contain a timestamp and their associated author. In addition, tweets must supporting the “liking” feature such that each user can like and unlike tweets.
+The only two models that you need to implement are a `Tweet` model and a `Hashtag` model. Be sure to make use of SQL relationships, namely the `foreign_key` and `ManyToMany` relationships. In class we've seen foreign keys, in which we relate two objects together. The `ManyToMany` relationship is an extension of the foreign key, where an object can be associated with a set of relationships to object of the same type (think Facebook posts having a `ManyToMany` relationship with comments).
+
+Tweets must contain a timestamp and their associated author. In addition, tweets must supporting the “liking” feature such that each user can like and unlike tweets.
 
 Be sure to create a user using `createsuperuser` and use the admin page to test out your models before moving onto implementing your views.
 
