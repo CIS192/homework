@@ -30,10 +30,10 @@ Be sure to create a user using `createsuperuser` and use the admin page to test 
 **HALF WAY POINT ([https://www.youtube.com/watch?v=EBZp9IZFdTU](https://www.youtube.com/watch?v=EBZp9IZFdTU))**
 
 ## Milestone 3: Views
-It’s time to put everything together and make your application functional! Create the associated views that correspond to the templates and forms that you wrote in your HTML.
+It’s time to put everything together and make your application functional! Create the associated views that correspond to the templates and forms that you wrote in your HTML. Think hard about how to parse hashtags in the body of POSTed tweets. Look into regular expressions, or feel free to implement your own string search.
 
 ## Submission and Grading
-This assignment will be graded manually and will be evaluated on correctness and overall project design (including style). Create a file named `README.md` in the root directory of your project. This README file should document your routes, any design considerations you made, any collaborators, and any extra credit. The README file should also include information on how to run the server. Be sure to  `pip freeze` into  `requirements.txt` so the staff know what third party packages are used.
+This assignment will be graded manually and will be evaluated on correctness and overall project design (including style). Create a file named `README.md` in the root directory of your project. This README file should document your routes, any design considerations you made, any collaborators, and any extra credit. The README file should also include information on how to run the server. Be sure to  `pip freeze` into  `requirements.txt` using `pip freeze > requirements.txt` so the staff know what third party packages are used.
 
 Finally, zip the project and submit through the Canvas site.
 
