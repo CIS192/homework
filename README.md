@@ -1,4 +1,4 @@
-# Python Homework
+# CIS 192 Homework
 
 Homework for CIS 192: Python Programming at the University of Pennsylvania.
 
