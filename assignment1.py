@@ -88,7 +88,7 @@ def common_chars(seq, k):
 
     Example:
     >>> common_chars("cat in a hat", 2)
-    {("a", 3)}
+    {("a", 3), (" ", 3)}
     """
     pass
 
