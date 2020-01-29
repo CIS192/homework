@@ -4,7 +4,7 @@
 
 def all_factors(num):
     """ Return the set of factors of n (including 1 and n).
-    You may assume n is a positive integer. Do this in one line for full credit.
+    You may assume n is a positive integer. Do this in one line for extra credit.
 
     Example:
     >>> all_factors(24)
@@ -59,7 +59,7 @@ def substrings(seq):
 
 def many_any(lst, k):
     """ Returns True if at least k elements of lst are True;
-    otherwise False. Do this in one line for full credit.
+    otherwise False. Do this in one line for extra credit.
     Hint: use a list comprehension.
 
     Example:
