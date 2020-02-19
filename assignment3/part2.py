@@ -8,14 +8,15 @@ import gzip
 '''
 # 1. Evaluation Metrics
 
-Input: y_pred, a list of length n with the predicted labels,
-y_true, a list of length n with the true labels
+Input: 
+predictions (a list of length n with the predicted labels),
+labels (a list of length n with the true labels)
 '''
 
-
-def get_accuracy(y_pred, y_true):
+def get_accuracy(predictions, labels):
     # Write your code to calculate accuracy of the predicted labels
     pass
+
 
 '''
 # 2. Baseline Models
@@ -40,15 +41,11 @@ def load_file(data_file):
 
 '''
 # 2.1 All Complex
-In the following functions, you will implement 3 baseline models: one that classifies all the words 
-as complex and one that uses word length thresholding.
+In the following functions, you will implement 3 baseline models. The first 
+classifies ALL words as complex (think back to the coin-flipping example from class). 
+The second uses word length thresholding: if a word is longer than the given threshold, 
+we consider to be complex, and vice versa.
 '''
-
-
-def all_complex_feature(words):
-    # Write your code here to labels every word complex and returns the feature matrix for all complex
-    pass
-
 
 def all_complex(data_file):
     # Write your code here to return the accuracy performance score of the all_complex baseline model 
@@ -59,20 +56,15 @@ def all_complex(data_file):
 # 2.2 Length threshold
 '''
 
-
-def length_threshold_feature(words, threshold):
+def word_length_threshold(training_file, test_file):
     # Write your code here to makes feature matrix for word_length_threshold
     # e.g. if the threshold is 9, any words with less than 9 characters will be labeled simple,
     # and any words with 9 characters or more will be labeled complex.
-    pass
-
-
-def word_length_threshold(training_file, development_file):
+    
     # Write your code to return the training and development accuracy score. Your code should find
-    # the best length threshold by accuracy, and uses this threshold to classify the training and development set
-    training_performance = taccuracy
-    development_performance = daccuracy
-    return training_performance, development_performance
+    # the best length threshold by accuracy, and uses this threshold to classify the training and test set
+
+    return training_performance, test_performance
 
 
 '''
@@ -92,17 +84,11 @@ def load_ngram_counts(ngram_counts_file):
     return counts
 
 
-def frequency_threshold_feature(words, threshold, counts):
-    # Write your code here to make feature matrix for word_frequency_threshold
-    pass
-
-
-def word_frequency_threshold(training_file, development_file, counts):
+def word_frequency_threshold(training_file, test_file, counts):
     # Write your code to return the training and development accuracy score. Your code should find
     # the best frequency threshold by accuracy, and uses this threshold to classify the
     # training and development set
-    training_performance = test_accuracy
-    development_performance = development_accuracy
+
     return training_performance, development_performance
 
 
@@ -133,18 +119,13 @@ def naive_bayes(training_file, test_file, counts):
     # TODO: train a Naive Bayes classification model
     # using word length and word frequency as features
 
-    training_performance = training_accuracy
-    test_performance = test_accuracy
     return training_performance, test_performance
 
 # Trains a Logistic Regression classifier using length and frequency features
 
-
-def logistic_regression(training_file, development_file, counts):
+def logistic_regression(training_file, test_file, counts):
     # TODO: train a Logistic Regression classification model
 
-    training_performance = training_accuracy
-    test_performance = test_accuracy
     return training_performance, test_performance
 
 
