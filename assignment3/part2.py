@@ -64,12 +64,6 @@ def word_length_threshold(train_file, test_file):
     # less than 9 characters will be labeled simple, and any words with 9
     #  characters or more will be labeled complex.
 
-    
-def word_length_threshold(train_file, test_file):
-    # Write your code here to classify words based on their length and a given threshold.
-    # e.g. if the threshold is 9, any words with less than 9 characters will be labeled simple,
-    # and any words with 9 characters or more will be labeled complex.
-    
     # Write your code to return the training and testing accuracy score. Your
     # code should find the best length threshold by accuracy, and uses this
     # threshold to classify the training and test set.
@@ -83,7 +77,7 @@ def word_frequency_threshold(train_file, test_file, counts):
     # accuracy, and uses this threshold to classify the training
     # and testing set.
 
-    return training_performance, test_performance
+    return training_performance, development_performance
 
 
 """
@@ -93,7 +87,7 @@ def word_frequency_threshold(train_file, test_file, counts):
 
 def naive_bayes(train_file, test_file, counts):
     # TODO: train a Naive Bayes classification model
-    
+
     return training_performance, test_performance
 
 
