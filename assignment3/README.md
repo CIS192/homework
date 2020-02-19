@@ -2,7 +2,10 @@
 > Due March 3rd, 2020 at 11:59 PM. You may work in groups of up to 2 people.
 
 ## Part 1: NLP Basics
-
+For the first part of the homework you will be implementing a couple of basic NLP tasks, including raw text
+analysis with CSV, text tokenizing, and word importance with a score called TF-IDF. The data file
+`raven.txt` is located in the `data folder`, so make sure to unzip it! The other files will be used for 
+Part 2.
 
 ## Part 2: Text Classification with Sci-Kit Learn
 > Adapted from CIS 530 - Computational Linguistics

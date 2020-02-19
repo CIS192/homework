@@ -78,7 +78,7 @@ def word_length_threshold(training_file, test_file):
     # e.g. if the threshold is 9, any words with less than 9 characters will be labeled simple,
     # and any words with 9 characters or more will be labeled complex.
     
-    # Write your code to return the training and development accuracy score. Your code should find
+    # Write your code to return the training and test accuracy score. Your code should find
     # the best length threshold by accuracy, and uses this threshold to classify the training and test set
 
     return training_performance, test_performance
@@ -90,11 +90,11 @@ def word_length_threshold(training_file, test_file):
 '''
 
 def word_frequency_threshold(training_file, test_file, counts):
-    # Write your code to return the training and development accuracy score. Your code should find
+    # Write your code to return the training and test accuracy score. Your code should find
     # the best frequency threshold by accuracy, and uses this threshold to classify the
-    # training and development set
+    # training and test set
 
-    return training_performance, development_performance
+    return training_performance, test_performance
 
 
 '''
@@ -137,8 +137,7 @@ Additionally, write code below to print out the testing performance for all 5 mo
 
 if __name__ == "__main__":
     training_file = "data/complex_words_training.txt"
-    development_file = "data/complex_words_development.txt"
-    test_file = "data/complex_words_test_unlabeled.txt"
+    test_file = "data/complex_words_test.txt"
 
     train_data = load_file(training_file)
 
