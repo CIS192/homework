@@ -1,8 +1,17 @@
-# Homework 2: Natural Language Processing
+---
+path: "/assignments/3"
+---
+
+# Assignment 3: Learning Machine Learning
 In our third assignment, we will be exploring the field of computational linguistics, otherwise known as **Natural Language Processing**. The goal of this assignment is to have you become familiar with working with reading/writing to files, and working with third party packages. We'll explore these Python ideas through the lens of Data Science and Machine Learning.
 
+## Part 0: Setup
+Skim through the assignment and install the relevant packages for this assignment through pip (e.g. [Sci-Kit Learn](https://github.com/scikit-learn/scikit-learn) and [NumPy](https://github.com/numpy/numpy)). Next, download the homework datasets [here](https://github.com/CIS192/homework/raw/master/assignment3/data.zip) (or from the GitHub repository). Finally, download the skeleton code, as well as the report template from the [assignment's GitHub repository](https://github.com/CIS192/homework/tree/master/assignment3).
+
 ## Part 1: NLP Basics
-For the first part of the homework you will be implementing a couple of basic NLP tasks in `part1.py`, including raw text analysis with CSV, text tokenizing, and word importance with a score called TF-IDF. The data file `raven.txt` is located in the `data.zip` file, so make sure to unzip it to `/data`! The other files will be used for Part 2.
+For the first part of the homework you will be implementing a couple of basic NLP tasks in `part1.py`, including raw text analysis with CSV, text tokenizing, and word importance with a score called TF-IDF. The data file `raven.txt` is located in the `data.zip` file, so make sure to unzip it to `/data`! The remaining dataset files will be used for Part 2, so be sure to keep those handy.
+
+**TODO:** Implement the incomplete stubs in `part1.py`.
 
 ## Part 2: Classification with Sci-Kit Learn
 > Adapted from CIS 530 - Computational Linguistics
