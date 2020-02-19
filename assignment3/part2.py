@@ -58,7 +58,7 @@ def all_complex(test_file):
     pass
 
 
-def word_length_threshold(training_file, test_file):
+def word_length_threshold(train_file, test_file):
     # TODO: write your code here to classify words based on their length
     # and a given threshold. e.g. if the threshold is 9, any words with
     # less than 9 characters will be labeled simple, and any words with 9
@@ -71,7 +71,7 @@ def word_length_threshold(training_file, test_file):
     return training_performance, test_performance
 
 
-def word_frequency_threshold(training_file, test_file, counts):
+def word_frequency_threshold(train_file, test_file, counts):
     # TODO: write your code to return the training and development
     # accuracy score. Your code should find the best frequency threshold by
     # accuracy, and uses this threshold to classify the training
@@ -85,22 +85,22 @@ def word_frequency_threshold(training_file, test_file, counts):
 """
 
 
-def naive_bayes(training_file, test_file, counts):
+def naive_bayes(train_file, test_file, counts):
     # TODO: train a Naive Bayes classification model
     return training_performance, test_performance
 
 
-def logistic_regression(training_file, test_file, counts):
+def logistic_regression(train_file, test_file, counts):
     # TODO: train a Logistic Regression classification model
     return training_performance, test_performance
 
 
 if __name__ == "__main__":
-    training_file = "data/complex_words_training.txt"
-    development_file = "data/complex_words_development.txt"
-    test_file = "data/complex_words_test_unlabeled.txt"
+    train_file = "data/complex_words_training.txt"
+    test_file = "data/complex_words_test.txt"
 
     train_data = load_file(training_file)
+    test_file = load_file(test_file)
 
     # should take around 20 seconds due to size
     ngram_counts_file = "data/ngram_counts.txt.gz"
