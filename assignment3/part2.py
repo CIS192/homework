@@ -6,24 +6,13 @@ from collections import defaultdict
 import gzip
 
 '''
-# 1. Evaluation Metrics
-
-Input: 
-predictions (a list of length n with the predicted labels),
-labels (a list of length n with the true labels)
-'''
-
-def get_accuracy(predictions, labels):
-    # Write your code to calculate accuracy of the predicted labels
-    pass
-
-
-'''
-# 2. Baseline Models
+# 0. Data
 We have provided the function below that takes in the file name `data_file` of one of the datasets 
-and loads in the words and labels of that dataset.
-'''
+and returns the words and labels of that dataset.
 
+The second provided helper function loads Google N-Gram counts from our provided file `ngram_counts.txt` as 
+a dictionary of word frequencies.
+'''
 
 def load_file(data_file):
     words = []
@@ -38,13 +27,41 @@ def load_file(data_file):
             i += 1
     return words, labels
 
+def load_ngram_counts(ngram_counts_file):
+    counts = defaultdict(int)
+    with gzip.open(ngram_counts_file, 'rt') as f:
+        for line in f:
+            token, count = line.strip().split('\t')
+            if token[0].islower():
+                counts[token] = int(count)
+    return counts
 
 '''
-# 2.1 All Complex
+# 1. Evaluation Metrics
+
+Input: 
+predictions (a list of length n with the predicted labels),
+labels (a list of length n with the true labels)
+'''
+
+def get_accuracy(predictions, labels):
+    # Write your code to calculate accuracy of the predicted labels
+    pass
+
+
+'''
+# 2. Baseline Models
+
 In the following functions, you will implement 3 baseline models. The first 
 classifies ALL words as complex (think back to the coin-flipping example from class). 
 The second uses word length thresholding: if a word is longer than the given threshold, 
-we consider to be complex, and vice versa.
+we consider to be complex, and vice versa. The third baseline is similar to the second,
+but we will use frequencies from the Google N-Gram counts dataset as the metric
+to threshold against.
+'''
+
+'''
+# 2.1 All Complex
 '''
 
 def all_complex(data_file):
@@ -57,7 +74,7 @@ def all_complex(data_file):
 '''
 
 def word_length_threshold(training_file, test_file):
-    # Write your code here to makes feature matrix for word_length_threshold
+    # Write your code here to classify words based on their length and a given threshold.
     # e.g. if the threshold is 9, any words with less than 9 characters will be labeled simple,
     # and any words with 9 characters or more will be labeled complex.
     
@@ -69,20 +86,8 @@ def word_length_threshold(training_file, test_file):
 
 '''
 # 2.3 Frequency threshold
-The provided helper function loads Google NGram counts from our provided file `ngram_counts.txt` as 
-a dictionary of word frequencies.
+
 '''
-
-
-def load_ngram_counts(ngram_counts_file):
-    counts = defaultdict(int)
-    with gzip.open(ngram_counts_file, 'rt') as f:
-        for line in f:
-            token, count = line.strip().split('\t')
-            if token[0].islower():
-                counts[token] = int(count)
-    return counts
-
 
 def word_frequency_threshold(training_file, test_file, counts):
     # Write your code to return the training and development accuracy score. Your code should find
@@ -99,21 +104,15 @@ a classifier. Refer to the sklearn documentation:
 https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html
 
 Some important notes:
--- Since sklearn classifiers take in numpy arrays, convert your lists liks this: `X = np.array([1,2,3,4,5])`
--- Make sure you use this import: `from sklearn.naive_bayes import GaussianNB`
+-- Make sure you use these imports: `from sklearn.naive_bayes import GaussianNB`
     and `from sklearn.linear_model import LogisticRegression`
 -- To train a classifier, you need two numpy arrays:
-    1. X_train (m x n), where m is the number of words and n is the nubmer of features for each word
-    2. Y (m x 1) for the labels of each of the m words
--- Before training and testing a classifier, it is generally important to normalize your features. 
-    This means that you need to find the mean and standard deviation (sd) of a feature. 
-    Then, for each row, perform the following transformation:
-    X_scaled = (X_original - mean)/sd
-    Be sure to always use the means and standard deviations from the training data
+    1. X_train: (m x n), where m is the number of words and n is the nubmer of features for each word
+    2. Y: (m x 1) for the labels of each of the m words
+-- Since sklearn classifiers take in numpy arrays, always wrap your lists in a `np.array`: `X = np.array([1, 2, 3, 4, 5])`
 '''
 
 # Trains a Naive Bayes classifier using length and frequency features
-
 
 def naive_bayes(training_file, test_file, counts):
     # TODO: train a Naive Bayes classification model
