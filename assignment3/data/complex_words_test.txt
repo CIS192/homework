@@ -1,0 +1,1001 @@
+WORD	LABEL	ANNOTATORS	SENTENCE	SENTENCE_INDEX
+hammer	0	0	How about a Lottie astronomer doll complete with a telescope , tripod and fact sheet about notable women stargazers , or a fossil hunter armed with a magnifying glass , geology hammer and ammonite fossils ?	31
+renewable	1	8	The curriculums , taking hold as school budgets tighten and the numbers of farms in the United States decline , are rich in science and touted as stepping stones for college-bound students considering careers in everything from urban forestry to renewable natural resources and genetic engineering of crops , perhaps for giant agribusiness companies such as Monsanto , Dow , DuPont and Pioneer .	40
+showings	0	0	Longtime coaches Rega Wesley-Stewart and Jackie Allen want to keep up the momentum of the competition dance team at McCluer High after strong showings in recent years , including first place in two categories at a recent competition against 40 area teams .	23
+Academy	0	0	`` Glory '' won best original song at the Academy Awards on Sunday .	9
+continues	0	0	And as the number of `` buddy '' or `` inclusion companion '' sporting opportunities continues to proliferate across the country , advocates for children with special needs say young people today are growing up with a better understanding and openness toward people with disabilities than the generations before them .	15
+exceed	0	0	`` These temperatures exceed what we are expecting anywhere else in the world in the tropics over the next century , '' says John Burt , a marine biologist at a branch of New York University in the Emirates , who led the reef tour in 2012 .	3
+conventional	1	7	Emanuel 's decision to draw attention to a single issue is less conventional .	12
+surprisingly	1	5	The Chinese capital was awarded the 2022 Winter Olympics on Friday , beating Kazakh rival Almaty 44-40 in a surprisingly close vote marred by technical problems , taking the Olympic Games back to the city that hosted the summer version in 2008 .	19
+coup	1	7	Muslim Brotherhood officials , who are supporting ousted Islamist President Mohamed Morsi , said security forces raided their encampment outside the Republican Guard compound with tear gas and gunfire about 4 a.m. Supporters of Morsi have camped there for days demanding the release of the former leader , who has been under arrest since a military coup last week .	56
+combed	0	0	The authors of the latest research combed through a national database of Americans ' health and nutrition behaviors and grouped 4,466 American kids -- from ages 2 to 18 -- according to what they ate when they were not eating food purchased at a fast-food restaurant .	6
+plummeted	1	9	While illicit border crossings in this southern Arizona corridor have plummeted , deaths are at an all-time high .	10
+retailers	1	3	As electronic devices proliferate , retailers are seeing record numbers of used laptops , smartphones and tablets being sold for quick cash or credit .	5
+sled	0	0	After a mostly snowless winter , the Overland Park , Kansas , man enjoyed finally getting to sled with his children on the Presidents Day holiday .	17
+sure	0	0	CHICAGO -- The first three times they were together , Nicole Giambalvo was n't sure she 'd be able to make a connection with Kathryn Dungan .	14
+lilting	1	6	`` Kadra , it 's you , '' he says in the lilting Somali language .	12
+go-ahead	0	0	Another person connected to the case had said earlier that the union was `` ready to go once he -LSB- Brady -RSB- gives the go-ahead . ''	24
+scholarships	1	6	She said the money will help build more than a dozen schools , rehabilitate hundreds of facilities and provide training and scholarships to help Pakistani girls `` fulfill their promise '' to become the next generation of doctors , teachers and entrepreneurs .	21
+evolving	1	7	He defended his record -- and implicitly urged the public to elect another Democratic president to build on it -- but acknowledged the persistent anxieties of Americans who feel shut out of a changing economy or at risk from an evolving terror threat .	40
+toughest	1	3	It was time to adopt the toughest rationing measures they could .	6
+unfounded	1	4	`` As long as there is no evidence , it is difficult to consider the accusations , which appear rather unfounded , '' said Putin spokesman Dmitry Peskov .	20
+media	0	0	It will also be a wink to his craft , the one he uses to capture this city , his `` beautiful ghetto , '' in powerful black-and-white photos that have made him a surprise media sensation .	35
+seed	0	0	A single can contained 240 milligrams of caffeine and 2,000 mg of taurine , along with guarana seed , ginseng root and milk thistle extracts .	17
+evaded	1	5	The shooter , Ataullah Khan , is one of four suspects who have evaded capture .	13
+seats	0	0	Surveys show that uncomfortable seats and shrinking legroom have become the top gripes of travelers , surpassing ticket prices and security lines .	4
+recruit	1	5	Home Depot is one of a number of companies that have stepped up their efforts to recruit U.S. military veterans , helping ex-service members such as Miranda who have struggled to find work and to adjust to life back home .	16
+nobody	0	0	`` It 's nobody else 's business , '' Christie said , adding that it became public only because a reporter from the New York Post asked him a direct question about the procedure .	3
+inaccurate	1	7	Only two of the 10 men tried were convicted , but the officials chose not to clear up confusion caused by inaccurate media reporting in April -- probably to gain political mileage for acting decisively against Malala 's attackers .	21
+world	0	0	Proponents of the requirement argued that American children were falling behind in financial literacy and that the increasingly complex world of consumer banking demanded a new kind of education .	19
+trial	0	0	But after a trial run in New Zealand earlier this year , DeVaul and other engineers on the project say they believe a global network of low-cost , high-altitude balloons could carry enough wireless transponders to beam Internet connections to remote parts of Africa , Asia and other developing regions .	3
+textile	1	4	The new evidence , published in the journal PLOS One , comes from funerary textile remnants collected from two of the earliest known Egyptian cemeteries that date to 4500 B.C. .	14
+Spotify	0	0	WASHINGTON -- Whether belting out lyrics to Al Green 's `` Let 's Stay Together , '' leading a mournful congregation through `` Amazing Grace , '' or tweeting his Spotify music playlist that includes Stevie Wonder and Nina Simone , President Barack Obama has shown that he 's a pretty soulful guy .	30
+cooperation	1	3	Instead , he spoke of a `` new model of major country cooperation , '' saying U.S.-China relations must hinge on trust and a positive notion of each other 's motives .	12
+kinky	1	6	The nearly 20 girls unanimously agreed that if a woman had short , kinky hair , she was not beautiful .	13
+showed	0	0	Results from the 2012 Program of International Student Assessment showed that U.S. teenagers were in the bottom half for financial literacy among the 18 countries that participated , ahead of France and Spain , but below Latvia , Russia and China .	9
+hockey	0	0	The lawsuit , which is similar to one brought by former football players against the NFL , joins others filed by hockey players in Washington and New York and seeks monetary damages and increased medical monitoring .	21
+overthrown	0	0	Born in Rome on Jan. 5 , 1938 , Juan Carlos was the son of Don Juan of Bourbon and Battenberg , the heir to the throne of the Bourbon dynasty , which had been overthrown in 1931 .	35
+centerpiece	1	7	In the midst of the stirring `` Glory , '' the musical centerpiece of the Oscar-nominated movie `` Selma , '' Chicago rapper Common delivers a terse summation of how words , melody and a protest merged during the civil-rights movement .	12
+warnings	0	0	Despite warnings that the demonstrations could cause serious damage to Hong Kong 's economy and reputation as a stable Asian financial hub , the city 's stock exchange seemed to take the day 's activities in stride , falling less than 2 percent .	1
+Peace	0	0	Peace !	0
+ideology	1	9	The problems Ryan identified had less to do with partisan gridlock between Republicans and Democrats and more to do with divisions within his own party stoked by difference over tactics and ideology .	31
+secure	1	3	Beijing was seen by the International Olympic Committee as a secure , reliable choice that also offered vast commercial opportunities in a new winter sports market of more than 300 million people in northern China .	10
+bay	0	0	But unlike the other whales , the 25-foot-long young adult stuck near the surface -- and it did n't dive down to feast on the blooms of krill that attract humpbacks to the bay .	33
+self-imposed	1	4	`` We took it upon ourselves to really promote the sport at a time when it was a big time taboo ... when there was a self-imposed censorship on women 's sports . ''	26
+personal	0	0	`` I have nothing anymore , nowhere to go , no apartment ... and all my documents and personal belongings were burned , '' Poludnitsina , 25 , said as she sat in a tent she shares with a family of four .	18
+arguing	0	0	They 're arguing that as sea ice continues to melt in the Arctic , passageways are opening for certain animals - heretofore restricted by the ice - to start moving through , enabling them to cross into new territories .	2
+fled	0	0	The couple , who fled Iraq 's second-largest city of Mosul after it was captured by Sunni extremists earlier this month , has always been poor .	4
+directive	1	7	The president 's directive comes along with the release of a new White House review that found the so-called `` surplus '' programs of the Department of Defense and other federal agencies to be a mishmash of rules and practices , with no clear sign that all police are properly trained and certified to use the military-grade equipment they receive .	3
+requirements	1	7	The School Nutrition Association is calling on Congress and the U.S. Department of Agriculture to ease up on the next round of federal healthy food requirements , due July 1 .	25
+firefighters	0	0	The firefighters went missing while fighting the Yarnell Hill fire , an out-of-control blaze that had engulfed the evacuated community of Yarnell , population 649 , burning down much of the town , officials said .	1
+math	0	0	To patch up some weakness he saw in his own math skills , he took a course , `` Numerical Analysis , '' offered online by the Ecole Polytechnique Federale de Lausanne in Switzerland .	10
+attempting	1	5	`` I 'm not attempting to tell a narrative , '' Bunch said .	4
+concept	1	4	`` We 're taking the Iron Man concept and bringing it closer to reality , '' said Dowling , referring to the Marvel Comics character Tony Stark , an industrialist and master engineer who builds a rocket-powered exoskeleton , turning himself into a superhero .	7
+doctorate	1	6	He received 34 scholarships worth $ 1.3 million -- enough to get his bachelor 's , his master 's , and his doctorate , plus cover his living expenses with some left over to invest .	22
+water	0	0	Less ice means more open water to generate large waves -- creating a feedback loop that could doom the ice cap .	5
+fitted	0	0	Women are bound by strict rules when it comes to their attire , so they can not be seen by men while jogging in sweat pants , much less wearing fitted or revealing shorts .	30
+praising	0	0	`` Children giving to children is really valuable , '' Oppenheimer said , praising Kyle 's ability not only to appeal to his peers but to motivate students in lower grades to be part of the project .	13
+mollusks	1	6	Paleontologists have recovered mollusks , asphalt-saturated sand dollars , pieces of driftwood and Monterey cypress cones .	3
+scuffle	1	9	The third time he got into a scuffle , something different happened : A counselor at Augustus Hawkins High School in South Los Angeles pulled Banks and the other teen aside and told them they needed to talk .	7
+friction	1	7	BEIJING -- In a sharp rebuff , China accused Washington on Wednesday of taking Japan 's side in a tense clash over disputed islands in the East China Sea , underscoring rising regional friction as visiting Vice President Joe Biden met with Beijing 's leaders .	33
+Given	0	0	`` Given the way the meeting transpired , '' Ray Halbritter , an Oneida representative and leader of the `` Change the Mascot Campaign , '' said Wednesday , `` it became somewhat evident they were defending the continued use of the name .	1
+Rule	0	0	`` It 's like they had to make a mental readjustment , '' said Brumfield , founder of the non-profit Girls Rule !	21
+lifelike	1	3	The software , called Hyperion , simulates the physics of light , which can make animated films more lifelike or give them an otherworldly look .	18
+opened	0	0	When she opened her credit card statement , she saw a slew of charges from Apple , totaling $ 600 in one day .	2
+fathers	0	0	Bailey and his daughter were among dozens of father-daughter couples gathered on Chicago 's South Side recently at a party designed to spotlight the role of black fathers in their daughter 's lives .	27
+injury	0	0	In late April , the then-26-year-old shot his Fuji X-T1 over and over again as demonstrators took to the streets to protest the death of Freddie Gray , who suffered a fatal injury in police custody .	32
+bread	0	0	One would require all grain servings to be rich in whole grains -- or more than 50 percent whole-grain -- affecting such items as pastas , bread , rolls and pizza crusts .	26
+jolted	1	7	Some of the roughly 150 passengers on the early morning Metro-North train from Poughkeepsie to Manhattan were jolted from sleep around 7:20 a.m. to screams and the frightening sensation of their compartment rolling over on a bend in the Bronx where the Hudson and Harlem rivers meet .	17
+spent	0	0	ANCHORAGE , Alaska -- Many middle school students in south-central Alaska spent spring break playing video games , skiing in what little snow has fallen or just enjoying a lazy week away from school .	11
+steamy	1	3	-LSB- -RSB- -LRB- https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/AP93848837894.jpg -RRB- It was a steamy August morning , one of those tongue-dragging days when you ca n't stop imagining how good a mouthful of ice would feel .	8
+hands	0	0	For golfers , it 's an uncontrollable spasm that occurs in the hands right before impact , says Dr. Debbie Crews , a sports psychology consultant for the Arizona State University women 's golf team and a faculty research assistant in the professional golf management program .	12
+mixed	0	0	The sweeping , unanimous decision Tuesday by a three-judge panel of the 9th U.S. Circuit Court of Appeals overturned a mixed jury verdict in an antitrust case involving an AIDS drug .	20
+journal	0	0	The findings , described in the journal Science Advances , reveals another complexity of the effects of climate change -- both the effects it has on animal populations and the way it affects human disease , in the context of socioeconomic disparities .	6
+watch	0	0	The Nizards complain that Sacha has lost his bearings , and that their leisurely Tuesday evenings , when the family could go out to dinner or Sacha could watch TV without worrying about class the next morning , have been sabotaged .	28
+confessions	1	4	Local tribunals called gacaca courts have allowed many offenders to be released from prison in return for confessions and expressions of remorse .	17
+moved	0	0	Virginia was one of many states that moved to offer more personal-finance courses on the heels of the Great Recession , hoping to instill practical money-management skills to help the next generation avoid the pitfalls that many of their parents experienced .	7
+earliest	0	0	The new evidence , published in the journal PLOS One , comes from funerary textile remnants collected from two of the earliest known Egyptian cemeteries that date to 4500 B.C. .	21
+Humans	0	0	Humans and other primates are more susceptible to contagious yawning when they are around those with which they share `` a close social bond . ''	0
+grains	0	0	One would require all grain servings to be rich in whole grains -- or more than 50 percent whole-grain -- affecting such items as pastas , bread , rolls and pizza crusts .	11
+furious	1	4	After a furious firefight , the two men were rescued , but that episode in 2006 would change Dowling 's life .	2
+police	0	0	It should be no surprise then that young children play `` police and Taliban , '' chasing each other around with toy guns and weaponry designed to mimic the real thing .	11
+gift	0	0	Parents , perhaps mindful of their daughters ' futures , are helping to make STEM dolls a `` burgeoning category , '' said Jackie Breyer , editor-in-chief for gift guide Toy Insider .	28
+15-nation	0	0	With the start of the region 's high tourism season a few months away , some officials are calling for an emergency meeting of the 15-nation Caribbean Community , worried that the worsening seaweed influx could become a chronic dilemma for the globe 's most tourism-dependent region .	25
+weakness	1	4	To patch up some weakness he saw in his own math skills , he took a course , `` Numerical Analysis , '' offered online by the Ecole Polytechnique Federale de Lausanne in Switzerland .	4
+28-nation	0	0	The 28-nation bloc has been at odds with itself for months on how to deal with the influx that has seen more than 332,000 migrants enter so far this year .	1
+pool	0	0	Organizers say the girls ' five-year friendship -- which spills over from the baseball field to Taylor Swift concerts , trips to the local swimming pool and other activities -- is an inspiring example of the meaningful bonds formed in programs like Buddy Baseball , in which young people with special needs are exposed to sports with the help of kids without similar challenges .	25
+fatal	0	0	The infection is almost universally fatal : it kills more than 97 percent of its victims within days .	5
+Earlier	0	0	Earlier , he paid special tribute to U.S. soldiers buried at the Normandy American Cemetery .	0
+seat	0	0	She reclined her seat -- smacking Fine 's head and sparking an emotional explosion .	3
+choose	0	0	Castañeda does n't choose participants based on grade-point average .	3
+track	0	0	Scientists hope this collection , gathered over the past half-century , will help them track the health of fish populations and ocean conditions up and down the West Coast .	14
+pitted	1	5	Neither Biden nor Xi made public mention of the clash over disputed territory that has pitted China against the United States and its Asian allies .	15
+rains	0	0	`` Dry farming would be a hard life because you 're at the whim of the rains , '' said Jay Lund , director of the Center for Watershed Sciences at the University of California-Davis .	16
+retained	1	7	Obama retained strong support among Democrats -- 77-18 percent approval -- and disdain from Republicans -- 90-8 percent disapproval .	1
+marveled	1	6	Ray Yurkewycz perched on the rim of the Northwest 's most restless volcano and marveled at the primordial forces at work .	14
+licenses	0	0	There is no specific law to prevent women from driving in the kingdom , but they can not apply for driving licenses and have previously been arrested on charges relating to public order or political protest after getting behind the wheel .	21
+freshman	1	5	`` My mom thought it was a scam , '' said Michaeu , a 20-year-old freshman from Olympia , Washington .	15
+merchant	1	3	At 22 , Mohamed is a newly minted cop on the beat , a community liaison officer making a courtesy call to a local merchant -- a time-tested neighborhood policing method .	24
+spokesman	1	3	tweeted Muslim Brotherhood spokesman Gehad Haddad .	3
+rehabilitate	1	9	She said the money will help build more than a dozen schools , rehabilitate hundreds of facilities and provide training and scholarships to help Pakistani girls `` fulfill their promise '' to become the next generation of doctors , teachers and entrepreneurs .	13
+painfully	1	4	Nowhere was this more painfully obvious than in Japan four years ago , after a small squadron of robots was sent to assist workers at the devastated Fukushima Daiichi nuclear plant .	4
+pups	0	0	The pups , hungry , struck out prematurely that winter .	1
+Prior	0	0	Prior to 2010 , more than half of the cases came from Florida , Texas and other Southern states .	0
+richer	0	0	Their gnawing and nesting promotes richer soil and slows down water , improving imperiled fish habitat .	5
+signs	0	0	WASHINGTON -- They walk in front of cars , and into tree limbs and street signs .	15
+talked	0	0	`` If I had a choice , I would n't have ever talked about it , '' Christie said on Tuesday , confirming a news report that detailed his surgery nearly three months ago .	12
+give	0	0	The software , called Hyperion , simulates the physics of light , which can make animated films more lifelike or give them an otherworldly look .	20
+Hand	0	0	`` Dropped another prospect this AM due to his social media presence ... Actually glad I got to see the ` real ' person before we offered him , '' Hand tweeted .	30
+enthralled	1	9	It comes after sales slowed and sometimes declined in the past 10 years as children -- much like their parents -- became more enthralled with technology .	23
+biosphere	1	8	The high seas -- the vast roiling ocean that reaches beyond a coastal state 's 320-kilometer exclusive economic zone , or EEZ -- is Earth 's largest biosphere .	27
+premature	1	7	He and other scientists at rural , high-altitude sites across the western U.S. have been documenting rising levels of ozone , which can trigger asthma attacks , worsen heart and lung disease and lead to premature deaths , even as emissions have plummeted nationwide over the last few decades .	35
+Look	0	0	-LRB- `` Look ! '' -RRB-	2
+show	0	0	But he was back in Lexington this month to open a show of his work at Mulberry &amp; Lime , a downtown home furnishings and gift shop that also sells work by local artists .	11
+abandoned	1	8	Yan is one of a rapidly growing number of self-described `` orphan grandparents '' who feel personally or financially abandoned in a society that traditionally has treated its elders with a respect bordering on reverence .	19
+cookies	0	0	NEW YORK -- As the Girl Scouts ' membership continues a sharp decline , its leaders are betting on technology to reverse the trend , including a major expansion of its year-old program enabling Girl Scout cookies to be sold via mobile apps and the girls ' personalized websites .	36
+protester-erected	1	8	Violence broke out in more than 10 cities late Thursday and early Friday , and an 18-year-old man was killed and three people injured when they were hit by a car trying to drive around a protester-erected barricade in Ribeirao Preto , 185 miles north of Sao Paolo .	36
+miles	0	0	ARIVACA , Ariz. -- There was a time when Maggie Milinovitch and her husband did n't agree on whether to give food and water to the weary border crossers who traversed the couple 's desert land a few miles north of the Mexico border in southern Arizona .	38
+Clipper	0	0	&lt;img class="pull-right" src="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140526_HUMPBACK_FREED_1.jpg" /&gt; SAN JOSE , Calif. -- After a morning spent whale watching in Monterey Bay , the passengers on the Point Sur Clipper on April 27 did n't notice anything amiss when they first spotted the humpback .	22
+worded	1	3	Other cities , including Des Moines , Iowa ; Montville , New Jersey ; Lincoln , Nebraska ; and Columbia City , Indiana , have taken less drastic measures , banning sledding only on the most dangerous hills , requiring helmets , outlawing jumping ramps and thin sledding sheets or posting sternly worded warning signs that inform thrill seekers that they are sledding at their own risk .	52
+curriculums	1	9	The curriculums , taking hold as school budgets tighten and the numbers of farms in the United States decline , are rich in science and touted as stepping stones for college-bound students considering careers in everything from urban forestry to renewable natural resources and genetic engineering of crops , perhaps for giant agribusiness companies such as Monsanto , Dow , DuPont and Pioneer .	1
+research	1	3	The chance encounter of a Norwegian research vessel with the largest waves ever recorded amid floating packs of Arctic ice shows how such rollers could reroute shipping , damage oil platforms and threaten coastal communities with erosion .	6
+Ebola	0	0	In the wake of the confusion and missteps that surrounded the first U.S. Ebola diagnoses in Dallas last month , public health officials in New York were ready .	13
+Air	0	0	`` What I 'd like to do is to see the first two years of community college free for everybody who is willing to work for it , '' Obama said in a video shot on Air Force One and posted Thursday on Facebook , ahead of his planned visit Friday to a community college and technical center in Knoxville , Tennessee , as part of a trip designed to preview his policy plans for 2015 .	36
+cyberbullying	1	5	It 's been linked with violence , cyberbullying , school woes , obesity , lack of sleep and a host of other problems .	7
+wizards	0	0	The stamps display images from some of the eight wildly popular films , including Harry reading his acceptance letter to Hogwarts , the school for young witches and wizards , and firing his wand in battle .	28
+thumbs-up	0	0	One clip , dated Wednesday , showed a woman driving in the traditional veil , with only her eyes showing , as other motorists slowed and gave a thumbs-up sign .	28
+learns	0	0	ARLINGTON , Va. -- Teacher Michael Coughlin sometimes learns about his students ' harrowing trips across the border alone and what they left behind from the essays they write .	8
+determined	1	7	Most of these students at H-B Woodlawn Secondary Program are determined , he says , but `` they are also very scared because they do n't have certainty for their future here . ''	10
+fashioned	1	4	He has fashioned himself as a populist who stands apart from a political class known for its exorbitant tastes and high-profile corruption scandals .	2
+dexterity	1	9	Emergency-response robots have long suffered from having a range of mobility and dexterity comparable to a 1-year-old child and a level of autonomy generally limited to completing a single task at a time .	12
+economist	1	8	`` It does n't take very much to destroy confidence , but it takes an awful lot to build it back , '' says Ian Bright , senior economist at ING , a global bank based in Amsterdam .	28
+best-selling	0	0	She has authored a best-selling memoir , was featured this year on the cover of Time magazine 's `` 100 Most Influential People , '' and has starred in a viral Under Armour ad , twirling amid the reading of a rejection letter declaring she has `` the wrong body for ballet . ''	4
+save	0	0	BERKELEY , Calif. -- To save their classmate who was deported to Mexico , the fourth-graders devised an epic plan .	5
+saw	0	0	When she opened her credit card statement , she saw a slew of charges from Apple , totaling $ 600 in one day .	9
+elementary	0	0	At a local elementary school this month , Kyle moved boxes crammed with pens , pencils , crayons , markers and mechanical pencils with his mom 's help .	3
+knife	0	0	Julia A. Pierson , the first woman to hold the post , stepped down hours after an Army veteran who is accused of running into the White House with a knife in his pocket on Sept. 19 , pleaded not guilty to three criminal charges in federal court .	30
+participates	1	6	The 17-year-old participates in an after-school program called Tech Connect in Orosi that teaches computer repair , tax preparation and community service .	2
+bigger	0	0	`` This league is far bigger than any one owner , any one coach and any one player , '' Silver said .	5
+raps	0	0	`` We sing , our music is the cuts that we bleed through , '' he raps .	16
+plagued	1	7	Castro is among those experienced golfers plagued by an inexplicable phenomenon known as the yips .	6
+facing	0	0	In an address transmitted on Brazilian television and radio Friday night , Rousseff asked for understanding about `` the political and economic limitations '' the country is facing and beseeched Brazilians not `` to put at risk all that we 've achieved .	27
+televised	1	6	`` We think we 've got a great case to make , '' the Humane Society 's chief executive , Wayne Pacelle , said in a heated televised debate Oct. 14 .	27
+interim	0	0	Hours earlier , Egypt 's new interim leadership had narrowed in on a compromise candidate to serve as the next prime minister .	6
+white	0	0	Copeland , 32 , has become one of America 's most famous female athletes , revered for her unlikely ascendance in an arts world notorious for showcasing only lithe white ballerinas .	29
+Attorney	0	0	Attorney General Eric Holder said the North Carolina law imposes several `` troubling new restrictions '' on voters including reducing early voting days , eliminating same-day registration during the early-voting period and imposing a restrictive photo-identification requirement for in-person voting .	0
+subdued	1	7	Emerging from a private meeting with President Xi Jinping that went considerably longer than scheduled , Biden appeared somber and subdued .	20
+bachelor	1	5	He received 34 scholarships worth $ 1.3 million -- enough to get his bachelor 's , his master 's , and his doctorate , plus cover his living expenses with some left over to invest .	13
+landscapes	1	3	Nudged by local governments worried about water shortages , home builders and homeowners associations are showing increased willingness to embrace the drought-tolerant landscapes that more naturally suit California .	22
+share	0	0	There were too many agencies and politicians with rules that did n't seem to share their urgency .	14
+grooms	1	3	For the people on the Solomon Islands , it 's long been about the teeth : Necklaces made of dolphin teeth are `` bride prizes , '' given by grooms to their betrothed .	29
+gang	0	0	`` The entire gang involved in the murder attempt ... has been busted , '' Bajwa said , adding that the `` terrorists '' were part of Tehrik-e-Taliban , an umbrella group encompassing militant organizations across the tribal areas .	3
+businesses	0	0	The majority of that is due to consumers -LRB- both families and food businesses -RRB- , who buy fresh and frozen fish , but never end up eating it or selling it .	13
+failure	0	0	Toyoda , a cousin of the Japanese automaker 's founder Kiichiro Toyoda , died of heart failure at Toyota Memorial Hospital in Toyota city , central Japan .	16
+shipwreck	1	3	Now an iron ballast and a wooden pulley block retrieved from the shipwreck of the São José-Paquete de Africa are coming to Washington , where next year they will be on view in an exhibition on slavery in the new National Museum of African American History and Culture .	12
+foremost	1	8	The visit by a member of Japan 's foremost manufacturing family changed the way Toyota Motor Corp. produced cars , altering the global auto industry .	8
+same-day	0	0	Attorney General Eric Holder said the North Carolina law imposes several `` troubling new restrictions '' on voters including reducing early voting days , eliminating same-day registration during the early-voting period and imposing a restrictive photo-identification requirement for in-person voting .	25
+material	1	3	As the gap between the world 's top 1 percent and the rest has increased to historic highs in recent years , fairness in material payoffs or inequality has become one of the most important issues of our time .	24
+firearm	1	3	`` It was clear that she was a beginner , and you do n't start a beginner in that type of firearm , '' said Jensen , who watched a widely circulated video of the fatal lesson .	21
+mileage	1	6	Only two of the 10 men tried were convicted , but the officials chose not to clear up confusion caused by inaccurate media reporting in April -- probably to gain political mileage for acting decisively against Malala 's attackers .	31
+responsibility	1	4	-LRB- Felipe -RRB- is mature , well-prepared and has the sense of responsibility necessary to become head of state and launch a new stage of hope , '' Juan Carlos said .	12
+minister	0	0	Hours earlier , Egypt 's new interim leadership had narrowed in on a compromise candidate to serve as the next prime minister .	21
+laughter	0	0	Yet only in recent years has the significance of Twain 's time in the Mother Lode come into sharper relief , in particular the transformative role the friendships he developed here played in his decision to abandon youthful dreams of a career piloting paddleboats down the mighty Mississippi River and instead `` excite the laughter of God 's creatures . ''	54
+threatened	0	0	The International Union for Conservation of Nature Red List of Threatened Species considers 12 percent of grouper , 11 percent of tuna and billfish and 24 percent of shark and ray species to be threatened with extinction .	34
+sensation	1	9	It will also be a wink to his craft , the one he uses to capture this city , his `` beautiful ghetto , '' in powerful black-and-white photos that have made him a surprise media sensation .	36
+grant	0	0	That issue will dominate much of Emanuel 's time in the coming weeks , as he works to persuade state lawmakers in Springfield to grant the city pension relief and a Chicago-owned casino to help stabilize the city 's finances .	24
+seeking	0	0	So precious was that newfound freedom that on Nov. 24 he applied for asylum in the United States , joining a surge of Iraqis seeking asylum since the extremist Islamic State group 's rise .	24
+Type	0	0	Carroll has Type 1 diabetes and wears a pump that delivers insulin directly into his body .	2
+condition	0	0	The name might make the condition sound trivial , but the yips can ruin a professional athlete 's career .	5
+associations	1	4	The capital 's turf tradition is deeply rooted and is even enshrined in the bylaws of various homeowners associations .	18
+offers	0	0	The movie is being made in Louisiana largely because the state offers unlimited tax credits to entice film companies to shoot on location there .	11
+deer	0	0	Their dams raise water tables , nourishing shrubbery alongside streams that stabilize eroding banks , and add habitat for birds and deer .	21
+spreading	1	6	The McCluer Pommies , a team of 12 at McCluer High School in suburban Florissant , near Ferguson , Missouri , take their job of spreading spirit at the high school and in the community seriously .	25
+movement	0	0	The media attention helped turn scattered protests into a nationwide movement .	10
+doctoral	1	5	Now a doctoral candidate in the University of Houston 's Language Arts program , she has spent much of her life thinking about the power and dangers of nuanced language .	2
+pizza	0	0	One would require all grain servings to be rich in whole grains -- or more than 50 percent whole-grain -- affecting such items as pastas , bread , rolls and pizza crusts .	30
+hosts	0	0	The world will see just how far robots have advanced in the subsequent years when the U.S. Defense Advanced Research Projects Agency -LRB- DARPA -RRB- hosts the final round of a robotics competition aimed at building autonomous machines that can step -- or roll -- in when disasters strike .	25
+agility	1	6	The act of walking may not seem like a feat of agility , balance , strength and brainpower .	11
+cheeseburgers	0	0	Because if you shut off the supply of 24-ounce fountain drinks , bacon cheeseburgers , fried chicken and stuffed tacos , the children who frequently eat at fast-food restaurants will go home and do what they generally do when not eating at a fast-food restaurant : They 'll snarf cookies and chips , chug sugar-sweetened soda from a bottle , and heat up frozen pizzas .	13
+state	0	0	The states could become the first to pass such a referendum ; Washington state and California rejected similar measures after expensive campaigns in 2013 and 2012 , respectively .	13
+forced	0	0	The downpour forced him to cancel a meeting at his favorite coffee shop because his van had broken down the day before .	2
+fallen	0	0	ANCHORAGE , Alaska -- Many middle school students in south-central Alaska spent spring break playing video games , skiing in what little snow has fallen or just enjoying a lazy week away from school .	24
+delivers	0	0	In the midst of the stirring `` Glory , '' the musical centerpiece of the Oscar-nominated movie `` Selma , '' Chicago rapper Common delivers a terse summation of how words , melody and a protest merged during the civil-rights movement .	24
+streaming	1	4	The gaming industry has exploded in recent years , with streaming sites such as Twitch and YouTube creating celebrities out of the best players and launching careers for people who are expert at talking about the games .	10
+real-world	0	0	The lack of any tangible clue to its fate was eerie , unsettling , bizarre -- a real-world echo of the TV show `` Lost '' and the wayward-jetliner mystery at the heart of its story .	17
+due	0	0	For the roughly 1 million Americans who have lost a leg or part of one due to injury or disease , Vawter and his robotic leg offer the hope that future prosthetics might return the feel of a natural gait , kicking a soccer ball or climbing into a car without hoisting an inert artificial limb into the vehicle .	15
+deliberately	1	6	As an added challenge , DARPA will deliberately degrade communication links between robots and operators for each team as it competes in order to create a scenario closer to the one responders experienced in Fukushima .	7
+severely	1	4	The archaeological site , which was severely destroyed during railroad construction , hosted both Neanderthals and humans .	6
+long-term	0	0	`` These will be part of the list of ` I 've got to see this , ' '' predicted Lonnie Bunch , the museum 's founding director , who was in South Africa for a formal announcement Monday of the long-term loan of the objects from the Iziko Museums .	41
+briefing	0	0	In the latest potential threat , officials said , a private security guard armed with a pistol rode in an elevator with the president during a Sept. 16 visit to the Centers for Disease Control and Prevention in Atlanta for a briefing on Ebola , surprising Secret Service agents and violating agency rules over who can carry a weapon near him .	41
+differentiate	1	6	There is a scientific belief that the cerebral cortex is the part of the brain that `` makes us human , '' and that the two hemispheres of the cortex differentiate the creative thinkers from the logical thinkers -LRB- the `` right-brained '' from the `` left-brained '' -RRB- .	30
+revelers	1	8	Motorcycles rest on kickstands beside an ancient lava flow while revelers talk excitedly about alien worlds , teleportation and the creation of life .	10
+dubbed	0	0	Now , Gray -- since dubbed `` the Million Dollar Scholar '' -- has found a way to help other teens find scholarship money .	5
+selling	0	0	The majority of that is due to consumers -LRB- both families and food businesses -RRB- , who buy fresh and frozen fish , but never end up eating it or selling it .	30
+manipulating	0	0	Environmental and fishery groups say agriculture is manipulating the drought crisis to extract delta water , exposing even non-threatened fish and the fishing industry to catastrophic losses .	7
+handprints	0	0	Since most modern humans will never get to see the masterpieces in what is widely known as the Chauvet Cave , scientists , artists and the French government have spent 56 million euros -LRB- about $ 60 million -RRB- and several years creating the next best thing : a near-exact replica of the cave about 2 kilometers -LRB- 1.2 miles -RRB- away , including more than 400 paintings of horses , bears , rhinoceros and mammoths , handprints and carvings .	77
+unconscious	1	8	Egyptian television showed chaotic scenes of bloodied , unconscious protesters lying in makeshift triage facilities .	8
+midsummer	1	7	Ice was part of Aja Evans ' midsummer day 's dream too .	7
+gymnasium	1	6	Reporters had covered King 's 55-minute speech at a high school gymnasium in Rocky Mount on Nov. 27 , 1962 , but a recording was n't known to exist until English professor Jason Miller found an aging reel-to-reel tape in a town library .	11
+spontaneous	0	0	No one seemed sure what would happen next -- in part because the movement has become diffuse and spontaneous , attracting a wide cross section of participants .	18
+Sur	0	0	&lt;img class="pull-right" src="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140526_HUMPBACK_FREED_1.jpg" /&gt; SAN JOSE , Calif. -- After a morning spent whale watching in Monterey Bay , the passengers on the Point Sur Clipper on April 27 did n't notice anything amiss when they first spotted the humpback .	21
+atomic	1	6	SEATTLE -- A tiny white sliver inside the heads of fish could hold evidence of a century 's worth of humans wrecking the environment : atomic bombs , overfishing , even climate change .	25
+fireworks	0	0	Scattered violence was reported as fireworks and lasers lighted the Sunday night sky .	5
+task	0	0	But doing that is a monumental task .	6
+prisons	0	0	The acquittals were revealed Friday by the popular British tabloid The Mirror , after its reporters looked for the 10 men in prisons across Pakistan and only found two .	22
+chose	0	0	Only two of the 10 men tried were convicted , but the officials chose not to clear up confusion caused by inaccurate media reporting in April -- probably to gain political mileage for acting decisively against Malala 's attackers .	13
+confirmed	1	3	It is unclear how many of them are ethnic Russians , but local humanitarian workers confirmed that most aid recipients appeared to have ethnic or family ties to Russia .	15
+proliferate	0	0	And as the number of `` buddy '' or `` inclusion companion '' sporting opportunities continues to proliferate across the country , advocates for children with special needs say young people today are growing up with a better understanding and openness toward people with disabilities than the generations before them .	17
+financially	1	4	Yan is one of a rapidly growing number of self-described `` orphan grandparents '' who feel personally or financially abandoned in a society that traditionally has treated its elders with a respect bordering on reverence .	18
+favoring	1	3	Some philatelists say the committee that helps the postmaster general pick new stamps is favoring pop celebrities and fictional characters over cultural sites and historical figures , undermining a long tradition .	14
+thoughts	0	0	But it is Vawter 's ability to control the prosthetic with his thoughts that makes the latest case remarkable .	12
+Environmental	0	0	Environmental and fishery groups say agriculture is manipulating the drought crisis to extract delta water , exposing even non-threatened fish and the fishing industry to catastrophic losses .	0
+seizures	1	6	Saurer got involved with the nurse issue in the Charlotte-Mecklenburg Schools because her younger daughter , Hannah , has a history of seizures and serious food allergies .	22
+unarmed	0	0	In the months after the outrage stirred by the deaths of Brown and another unarmed African-American , Eric Garner , in New York , singer D'Angelo released his first album in more than a decade , `` Black Messiah , '' which included references both glancing and startlingly direct to the chain of events between Selma and Ferguson .	14
+idled	1	6	But crab pots are sitting empty on docks , boats are idled and fishermen are anxiously waiting for California authorities to open the lucrative Dungeness crab season .	11
+soon	0	0	`` The highest rank in a democracy is citizen , not Senate president , so soon along with many of you , I will hold that rank and there 's nothing citizens ca n't accomplish when they put their minds to accomplishing it , '' Morse told disconsolate supporters at a party that turned into a political wake .	15
+piloted	1	3	A third piloted Black Hawk helicopters in Iraq .	2
+provincial	1	6	Non-governmental organizations , nursing homes and provincial governments increasingly are picking up the slack , said Robert Stowe England , an expert on population aging who 's the author of the 2005 book `` Aging China . ''	6
+perhaps	0	0	The curriculums , taking hold as school budgets tighten and the numbers of farms in the United States decline , are rich in science and touted as stepping stones for college-bound students considering careers in everything from urban forestry to renewable natural resources and genetic engineering of crops , perhaps for giant agribusiness companies such as Monsanto , Dow , DuPont and Pioneer .	49
+fear	0	0	Miscommunication , confusion and fear have long been the common threads as the problem grew to what some officials consider crisis-level proportions .	4
+prompt	1	5	The recommendations are bound to prompt eye-rolling and LOLs from many teens but an influential pediatricians group says parents need to know that unrestricted media use can have serious consequences .	5
+chief	0	0	`` There 's a shortage of workers in a number of careers , and the numbers of those jobs are staggering , '' said Harley Hepner , the Illinois State Board of Education 's chief consultant for ag education .	34
+presents	0	0	In South Carolina , the investigating agency typically presents the case to a grand jury , not the prosecutor .	8
+directed	0	0	Goodell kept the suspension intact after hearing Brady 's appeal , and revealed Tuesday the league had learned that Brady had directed that his cellphone be destroyed shortly before meeting with the NFL 's investigators in March .	21
+cover	0	0	In a March report in Geophysical Research Letters , scientists at the U.S. Naval Research Laboratory -LRB- NRL -RRB- describe how large waves can penetrate more deeply into ice cover and break it up faster and more completely than anyone had suspected .	29
+resettlement	1	9	After all , Japan has offered zero resettlement places for refugees from Syria , according to Amnesty International , although the Japan Association for Refugees says three were granted refugee status in 2013 .	7
+venture	1	9	And on Tuesday , Intel Capital , the company 's global investment arm , will announce it has invested in the teenager 's company , making Shubham the world 's youngest tech entrepreneur to receive venture capital funding .	35
+attached	0	0	Philae separated from the Rosetta orbiter at 3:35 a.m. EST Wednesday , after a decade of being attached to the spacecraft .	17
+nonpartisan	1	9	`` They have their hearts in the right places , but it 's a difficult task , '' said Randy Capps , director of research for U.S. programs at the Migration Policy Institute , a nonpartisan Washington think tank .	35
+community	1	5	THREE RIVERS , Calif. -- Black bears are a cherished part of the community here , a woodsy gateway town that funnels tourists to Sequoia and Kings Canyon national parks , where the first question many visitors ask of rangers is `` Where can I see a bear ? ''	13
+Panera	0	0	Chains offering online ordering include Panera Bread and , for to-go orders , Olive Garden .	5
+foodies	0	0	In its most basic terms , the ballot measures pit coalitions of foodies , organic farmers and nutrition activists against many of the nation 's leading manufacturers including the biotechnology company Monsanto , Kraft Foods and Coca-Cola .	12
+blockade	1	9	Shippers fear the blockade could prove costly if passages are n't opened fast enough .	3
+Country	0	0	ANGELS CAMP , Calif. -- In the humble-looking notebook of a luckless prospector staying in a cabin on Jackass Hill near here in California 's Gold Country a century and a half ago , there 's an entry barely longer than a tweet .	26
+development	1	4	One of Disney 's rivals , DreamWorks Animation , had a research and development group of about 120 people as of last year -- among them nearly a dozen former employees of NASA 's Jet Propulsion Laboratory in Pasadena .	13
+traversed	1	7	ARIVACA , Ariz. -- There was a time when Maggie Milinovitch and her husband did n't agree on whether to give food and water to the weary border crossers who traversed the couple 's desert land a few miles north of the Mexico border in southern Arizona .	30
+island	0	0	With the Malaysian prime minister 's announcement Thursday that a wing fragment found on an Indian Ocean island belongs to the missing plane , the mystery has changed .	17
+screen	0	0	It expands the academy 's longstanding recommendations on banning televisions from children 's and teens ' bedrooms and limiting entertainment screen time to no more than two hours daily .	20
+resisted	1	3	`` I was very good at putting up a facade , '' said the Los Altos High student , now a senior , who later was diagnosed with major depression and attention deficit hyperactivity disorder , a diagnosis that her parents resisted for six months and that many who knew her could n't believe .	41
+infections	0	0	Although deadly , infections are exceedingly uncommon -- there were only 34 reported in the United States during the past 10 years -- but evidence suggests they may be increasing .	3
+clamped	1	5	The afflicted physician , Craig Allen Spencer , was whisked into isolation , his fiancee and friends were clamped into quarantine , and his apartment was sealed and decontaminated by a biohazard crew .	18
+widely	0	0	Since most modern humans will never get to see the masterpieces in what is widely known as the Chauvet Cave , scientists , artists and the French government have spent 56 million euros -LRB- about $ 60 million -RRB- and several years creating the next best thing : a near-exact replica of the cave about 2 kilometers -LRB- 1.2 miles -RRB- away , including more than 400 paintings of horses , bears , rhinoceros and mammoths , handprints and carvings .	14
+caffeine	0	0	None of them were on medications , and none had consumed alcohol or caffeine in the 24 hours before each test .	13
+erosion	1	5	The chance encounter of a Norwegian research vessel with the largest waves ever recorded amid floating packs of Arctic ice shows how such rollers could reroute shipping , damage oil platforms and threaten coastal communities with erosion .	36
+plucky	1	8	And even jaded New Yorkers were both disgusted and a little impressed by `` Pizza Rat , '' the plucky rodent in a recent viral YouTube clip seen dragging a large cheese slice down a subway stairwell .	19
+Letters	0	0	The population of seven of those species declined by at least 80 percent in the past 50 years , according to a study published this year in the journal Conservation Letters .	30
+deployed	1	5	The president and the Brotherhood have refused to budge and the military has deployed troops around government buildings and along the shipping lanes of the Suez Canal .	13
+basis	0	0	These are the sort of hard decisions that hundreds of residents who live in the harsh , mesquite-speckled borderlands have had to make on a regular basis .	26
+piloting	1	6	Yet only in recent years has the significance of Twain 's time in the Mother Lode come into sharper relief , in particular the transformative role the friendships he developed here played in his decision to abandon youthful dreams of a career piloting paddleboats down the mighty Mississippi River and instead `` excite the laughter of God 's creatures . ''	42
+domes	0	0	Steam rose from the twin magma domes formed after Mount St. Helens ' cataclysmic eruption in 1980 and the quieter outburst that started in 2004 .	6
+stream	0	0	After beavers move to a new area , at night , they drag a tree across a shallow stream to start a dam .	18
+putter	1	3	The ball was a mere 5 feet from the hole , but when Chey Castro raised his putter for what should have been a clean shot , his hand spasmed and he missed the putt that would have won him $ 180 at the tournament .	17
+slowed	0	0	One clip , dated Wednesday , showed a woman driving in the traditional veil , with only her eyes showing , as other motorists slowed and gave a thumbs-up sign .	24
+park	0	0	Nora Prentice , who lives on Manhattan 's Upper West Side , has repeatedly complained to the city about a colony of about 200 rats in a neighborhood park .	28
+names	0	0	WICOMICO RIVER , Md. -- On the wall of the nutria eradication team 's drab office at the Blackwater National Wildlife Refuge , there 's a large whiteboard with names and numbers on it .	29
+Rather	0	0	Rather , they know they briefly existed because they are able to measure their decay products .	0
+chunks	0	0	Farther inside the pack there are kilometers-wide chunks that have been blown together into a nearly solid mass .	7
+strength	0	0	The act of walking may not seem like a feat of agility , balance , strength and brainpower .	15
+shunned	1	8	For the players , basketball is not merely a sport but an act of defiance in a country where female access to exercise is outright shunned by ultraconservatives ; physical education is still not on the curriculum for girls in Saudi public schools .	25
+clinically	1	7	Yawning in response to another yawn is n't an emotional reaction per se , but the tendency for yawns to be contagious has been `` clinically , psychologically , neurobiologically and behaviorally linked to our capacity for empathy , '' according to the Japanese researchers who conducted the study .	25
+expanding	1	7	But now , thanks in part to Nyong ` o , it 's the TWA , or teenie weenie Afro , that 's getting a second look and expanding notions of beauty into territory where it really has n't taken root before -- the larger culture .	28
+gratitude	1	5	France 's gratitude , he said , `` will never be extinguished . ''	2
+warns	0	0	Coach Steve Mask warns players not to post about injuries , which can scare away recruiters .	3
+happen	0	0	The study looks in detail at what will happen by 2065 , but the actual tipping point comes in 2055 .	8
+pattern	0	0	Going after the more valuable predators first , fishing them until there are n't enough left to support a fishery and then moving on to species lower in the food chain , a pattern sometimes observed in global fisheries , has been called `` fishing down the food web . ''	33
+worst	0	0	`` In no uncertain terms , it 's been the worst winter on the lakes in 35 years .	10
+transplants	1	4	While kidney transplants between family members are not uncommon , this was likely the first one between players linked to both sides of one of the NFL 's fiercest rivalries .	2
+prehistoric	1	7	What they found that Sunday in 1994 still fills Chauvet 's voice with wonder : an immense cave covered with prehistoric paintings of horses , mammoths and rhinos -- paintings so vivid , he says , it felt like the Stone Age artists had just moments ago put down their ochre and walked away .	20
+unclear	0	0	It is unclear how many of them are ethnic Russians , but local humanitarian workers confirmed that most aid recipients appeared to have ethnic or family ties to Russia .	2
+spends	0	0	So Yan , a widow since her husband 's death nearly a decade ago , spends every weekday at a modest community center near her home , where she plays mahjong and eats meals prepared by a volunteer staff .	15
+discovery	1	8	MANSFIELD , Texas -- Not every kid can say he made the discovery of a lifetime before he started kindergarten .	12
+momentum	1	8	Even as the children 's `` Bring Rodrigo Home '' campaign built momentum , it became clear that things would not move fast .	12
+federation	0	0	The acting head of the Russian athletics federation , Vadim Zelichenok , said the report 's conclusions appeared to have been `` made to order . ''	7
+peers	0	0	`` Children giving to children is really valuable , '' Oppenheimer said , praising Kyle 's ability not only to appeal to his peers but to motivate students in lower grades to be part of the project .	23
+coordinator	1	5	`` It 's growing in the last 10 years within the native communities in the United States , '' said Susen Fagrelius , coordinator of Little Earth 's community health initiatives .	23
+unlikely	0	0	Copeland , 32 , has become one of America 's most famous female athletes , revered for her unlikely ascendance in an arts world notorious for showcasing only lithe white ballerinas .	18
+solely	1	7	Dry farming relies solely on rainwater to keep crops growing throughout a dry season .	3
+Several	0	0	Several toymakers are on the case .	0
+Sand	0	0	The otolith collection , dating to the 1960s , had been sitting in an old Sand Point hangar belonging to the National Oceanic and Atmospheric Administration -LRB- NOAA -RRB- .	15
+Sports	0	0	`` Sports is one way that kids can be physically active in an enjoyable way .	1
+Strange	0	0	Strange though it may seem , scientific theory lends credence to this historical fiction .	0
+heretofore	1	5	They 're arguing that as sea ice continues to melt in the Arctic , passageways are opening for certain animals - heretofore restricted by the ice - to start moving through , enabling them to cross into new territories .	21
+ensnared	1	9	Black called the U.S. Coast Guard , which soon discovered that the whale was ensnared in a crab pot line .	14
+rapper	0	0	Soon enough , Rihanna and rapper King Los reposted a few of his snaps .	5
+feed	0	0	`` It would n't fluke up , '' Nancy Black , a marine biologist on board the ship that day said , referring to the picture-perfect tail flip that humpbacks display before diving to feed .	34
+humankind	1	3	The removal of top predators has been called `` humankind 's most pervasive influence on nature , '' and it is as detrimental in the sea as it is on land .	9
+guidelines	1	5	The state 's guidelines for teaching American history also do not mention the Ku Klux Klan or Jim Crow laws .	3
+cab	0	0	Each elevator operates using a pulley-like system that consists of a cab and counterweights connected by a cable .	11
+restriction	1	3	Tuesday 's landmark ruling extended the restriction to federal courts in California and courts in eight other Western states , lawyers said .	6
+Meat	0	0	ST. PAUL , Minn. -- Kadra Mohamed walks into an old haunt , the Grocery and Meat Market on the city 's north side , where as a girl she shopped with her mother .	16
+roaming	1	5	The nutria project leader is coming back from a site in Quantico , Md. , where four of his trappers are roaming the Wicomico River in jon boats .	21
+place	0	0	CARMEL VALLEY , Calif. -- High above the Big Sur coast , Ian Faloona is finding pollution on the edge of the continent , a place that should have some of the country 's cleanest air .	25
+observed	1	3	Northern gannets , a North Atlantic species , have been spotted off the coast of California several times in recent years , for instance , while several Pacific species of auks , a type of diving bird , have recently been observed in the Atlantic .	41
+former	0	0	The 5,000 residents of this former lumber town in Mendocino County on the edge of redwood country are now on a crash water diet .	5
+enabling	1	4	They 're arguing that as sea ice continues to melt in the Arctic , passageways are opening for certain animals - heretofore restricted by the ice - to start moving through , enabling them to cross into new territories .	32
+unexpected	0	0	&lt;img class="pull-right" src="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20150608_MIN_WAGE.png" /&gt; The reality is not that simple : An increase to $ 15 an hour would ripple through the U.S. economy in some unexpected ways that are , generally , not as bad nor as beneficial as each side claims .	23
+accepted	0	0	It had been generally accepted by Egyptologists that mummification did not start in Egypt until the time of the Old Kingdom -LRB- around 2500 B.C. -RRB- , and that it did n't reach its height until the Middle Kingdom -LRB- 2000-1600 B.C. -RRB- .	4
+supply	0	0	Now employed by a small defense company , he is part of a crash effort by U.S. Special Operations Command to produce a radically new protective suit for elite soldiers to wear into battle -- one with bionic limbs , head-to-toe armor , a built-in power supply and live data feeds projected on a see-through display inside the helmet .	46
+hopping	1	4	CHICAGO -- There 's only one thing that comes between the grade school kids hopping off the afternoon bus near Eve Pulver-Johnson 's Aurora , Ill. , house and their after-school snacks -- the Little Free Library on her family 's front lawn .	14
+native	0	0	`` Knowing that it is native should help guide restoration efforts . ''	5
+stands	0	0	CORNUCOPIA , Wis. -- On some days , Kevin Hunt stands at his Star North gas station in this eye-blink of a town on mighty Lake Superior , marveling at Mother Nature and his own dumb luck .	10
+Stay	0	0	WASHINGTON -- Whether belting out lyrics to Al Green 's `` Let 's Stay Together , '' leading a mournful congregation through `` Amazing Grace , '' or tweeting his Spotify music playlist that includes Stevie Wonder and Nina Simone , President Barack Obama has shown that he 's a pretty soulful guy .	13
+Mask	0	0	`` He came across as being not reliable , '' Mask said .	10
+itinerary	1	8	So Evans had slogged her way through traffic from her mother 's house to get to EFT Sports Performance in Highland Park , Illinois , a stop along the itinerary designed to get her to the 2014 Winter Olympics in Sochi , Russia .	29
+heard	0	0	Has she heard that grizzlies -- a larger , stronger and more dangerous cousin of black bears -- might be transplanted to California where they have n't been seen for nine decades ?	2
+chanted	1	5	BUDAPEST , Hungary -- Hundreds of migrants chanted defiant slogans outside Budapest 's main international train station Wednesday as Hungarian police blocked them for a second day from seeking asylum in Germany and other wealthy European Union countries .	7
+wink	1	4	It will also be a wink to his craft , the one he uses to capture this city , his `` beautiful ghetto , '' in powerful black-and-white photos that have made him a surprise media sensation .	5
+photographer	1	4	There was a greeting party when she arrived for another intense summer workout with 4-year-old niece Rihanna Reed in tow : a reporter and a photographer , whom Evans expected , and a surprise visitor from the U.S. Anti-Doping Agency .	25
+shorebirds	1	5	They 're endangering shorebirds , threatening city taps and quite possibly raising the crime rate .	3
+burden	1	5	`` They have not become a public charge or a burden on the community , though there may be some isolated cases of that . ''	10
+rainwater	0	0	Dry farming relies solely on rainwater to keep crops growing throughout a dry season .	5
+onerous	1	9	A year with a dry winter can devastate crop output and put an onerous dent in a farmer 's wallet .	13
+guests	0	0	WASHINGTON -- Welcoming guests with the traditional Muslim greeting of `` asalaam alaikum , '' first lady Michelle Obama announced a U.S. pledge of $ 70 million to help educate 200,000 adolescent girls in Pakistan .	3
+pressure	0	0	WASHINGTON -- Under pressure from Congress and international allies , President Barack Obama announced a change in what has been a central piece of his counterterrorism strategy , saying he would place new restrictions on the targeting of terrorists with missiles fired from -LSB- drones -RSB- -LRB- https://www.newsela.com/?tag=drone -RRB- .	3
+cleanest	0	0	CARMEL VALLEY , Calif. -- High above the Big Sur coast , Ian Faloona is finding pollution on the edge of the continent , a place that should have some of the country 's cleanest air .	34
+opens	0	0	When the observatory at One World Trade Center -LRB- 1 WTC -RRB- opens May 29 in lower Manhattan , visitors will be treated to a spectacular 360-degree view of New York City and the surrounding area from nearly 390 meters -LRB- 1,280 feet -RRB- above its bustling streets .	12
+owner	0	0	Shop owner Mary Ginocchio said she decided to show Jason Borders ' work after Lexington artist Bob Morgan suggested it .	1
+eye	0	0	At least 184 people , nearly all children , suffered eye injuries over the recent Eid al-Fitr holiday from toy weapons that fire BB pellets and rubber shot , health officials said .	10
+french	0	0	Imagine for a moment that all of the nation 's fast-food establishments -- all the striped awnings and golden arches , the drive-thru windows , the beckoning dollar deals and wafting odor of french fries -- were to vanish overnight .	33
+uploaded	1	3	Using the WiFi on his camera , he uploaded dozens of his raw photos to Instagram and Twitter , sharing them with his several thousand followers in real time .	8
+pledge	1	3	WASHINGTON -- Welcoming guests with the traditional Muslim greeting of `` asalaam alaikum , '' first lady Michelle Obama announced a U.S. pledge of $ 70 million to help educate 200,000 adolescent girls in Pakistan .	22
+making	0	0	The punishment comes days after the league announced results of an investigation that found Brady was `` likely generally aware '' that equipment assistants employed by the team had conspired to deflate the Patriots ' footballs for last season 's AFC championship game , making the balls easier to throw and catch .	44
+unearthed	0	0	The paleontologists , along with volunteers from the Dallas Paleontological Society , started digging April 3 and unearthed `` more than 50 percent '' of the Nodosaurus , one of only five ever found in the Metroplex and the first in decades .	17
+report	0	0	In a March report in Geophysical Research Letters , scientists at the U.S. Naval Research Laboratory -LRB- NRL -RRB- describe how large waves can penetrate more deeply into ice cover and break it up faster and more completely than anyone had suspected .	3
+servings	1	4	Here and there , some whole servings of apple slices got dumped , but otherwise empty trays and empty milk cartons filled the bins .	6
+placed	0	0	He pulled her close , placed a hand on her shoulder , and the two bopped back and forth in a two-step , laughing and giggling .	5
+members	0	0	Home Depot is one of a number of companies that have stepped up their efforts to recruit U.S. military veterans , helping ex-service members such as Miranda who have struggled to find work and to adjust to life back home .	23
+wallet	0	0	A year with a dry winter can devastate crop output and put an onerous dent in a farmer 's wallet .	19
+page	0	0	They created a Facebook page and posted videos to YouTube .	4
+edge	0	0	CARMEL VALLEY , Calif. -- High above the Big Sur coast , Ian Faloona is finding pollution on the edge of the continent , a place that should have some of the country 's cleanest air .	19
+shattered	0	0	`` I was raised on how to sell myself , which buttons to press , which phrases to drop , '' she added , until one day `` everything just shattered . ''	30
+remained	0	0	All the while , though , justice remained undone for some of the boys as they became men , went into hiding , and eventually died with the stigma of rape on their reputations .	7
+shorts	0	0	Women are bound by strict rules when it comes to their attire , so they can not be seen by men while jogging in sweat pants , much less wearing fitted or revealing shorts .	33
+stereotypes	1	7	CHICAGO -- For years a general complaint about dolls has been that they send the wrong messages to children , whether it 's promoting an unrealistic body image or reinforcing stereotypes about girly interests .	30
+spacecraft	0	0	Philae separated from the Rosetta orbiter at 3:35 a.m. EST Wednesday , after a decade of being attached to the spacecraft .	20
+blue-collar	1	3	Good-paying blue-collar jobs in the petroleum and natural gas fields are as plentiful as pickups here , and the unemployment rate -- 4.6 percent in July -- remains far below the 7.4 percent national average .	1
+notice	0	0	&lt;img class="pull-right" src="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140526_HUMPBACK_FREED_1.jpg" /&gt; SAN JOSE , Calif. -- After a morning spent whale watching in Monterey Bay , the passengers on the Point Sur Clipper on April 27 did n't notice anything amiss when they first spotted the humpback .	28
+Leaders	0	0	SAN FRANCISCO -- A public elementary school decided in 2011 to require students to wear a uniform with the school 's motto , `` Tomorrow 's Leaders , '' emblazoned in small letters on the shirts around a gopher , the campus mascot .	26
+continue	0	0	An Associated Press analysis of households in the 10 biggest economies shows that families continue to spend cautiously and have pulled hundreds of billions of dollars out of stocks , cut borrowing for the first time in decades and poured money into savings and bonds that offer puny interest payments , often too low to keep up with inflation .	14
+father-daughter	0	0	Bailey and his daughter were among dozens of father-daughter couples gathered on Chicago 's South Side recently at a party designed to spotlight the role of black fathers in their daughter 's lives .	8
+stores	0	0	The chain of home-improvement stores employs 35,000 veterans , around 10 percent of its workforce , and has committed to hire about 55,000 vets over the next five years .	4
+technique	1	4	A centuries-old farming technique called dry farming -- once the order of the day in California 's Central Valley -- is once again drawing the interest of some of the region 's farmers .	3
+hole	0	0	The ball was a mere 5 feet from the hole , but when Chey Castro raised his putter for what should have been a clean shot , his hand spasmed and he missed the putt that would have won him $ 180 at the tournament .	9
+Want	0	0	`` Want to know what my grandsons say about me ? ''	1
+baking	0	0	His mother ran out with a box of baking soda .	8
+gay	0	0	SAN FRANCISCO -- A federal appeals court became the first in the nation to rule that prospective jurors may not be excluded because of their sexual orientation , a decision that expands juror protections beyond race and gender and provides legal ammunition to challenge laws that limit gay rights .	47
+minors	0	0	The surge in unaccompanied minors shocked the nation as arrivals reached record levels .	4
+quick	0	0	The matches on this concrete court are quick .	7
+strikes	0	0	In a speech that takes stock of America 's long battle with al-Qaida , the president said he would continue ordering lethal drone strikes to stop potential terror attacks because the relative precision of drone warfare is preferable to major troop deployments or traditional bombing .	23
+tool	0	0	BEIJING -- Sitting at a desk in his small office here , Ma Jun , one of China 's best-known environmental advocates , shows off his latest tool in the fight against the nation 's crippling air pollution : a computer app .	27
+hibernate	1	8	Months ago , many warned him not to invest in a place where fair-weather tourists flee in the fall and the big lake 's waters turn cold and storm-tossed , forcing the 100 or so hardy full-time residents of Cornucopia to hibernate for the winter .	41
+self-described	1	5	Yan is one of a rapidly growing number of self-described `` orphan grandparents '' who feel personally or financially abandoned in a society that traditionally has treated its elders with a respect bordering on reverence .	9
+relating	1	3	There is no specific law to prevent women from driving in the kingdom , but they can not apply for driving licenses and have previously been arrested on charges relating to public order or political protest after getting behind the wheel .	29
+owlets	1	4	Owl catcher Hussein Mduduzi , jumping from roof strut to roof strut , managed to catch two owlets , but the eight grown owls flew off .	17
+lice	0	0	But something bigger bugged her : the district 's policy of sending children home when they were infested with head lice -- grayish-white insects that suck blood from the scalp and cause severe itching .	20
+dealing	0	0	Depending on who you talk to , some of the children are doing relatively well , others are dealing with various issues and still others are facing a crisis .	18
+islands	0	0	BEIJING -- In a sharp rebuff , China accused Washington on Wednesday of taking Japan 's side in a tense clash over disputed islands in the East China Sea , underscoring rising regional friction as visiting Vice President Joe Biden met with Beijing 's leaders .	23
+mounting	1	5	As the winter progresses with no break from last year 's parched conditions , concern is mounting that California may be headed for a replay of the big drought of the late 1980s through the early 1990s , or even worse , 1977 .	16
+niece	0	0	There was a greeting party when she arrived for another intense summer workout with 4-year-old niece Rihanna Reed in tow : a reporter and a photographer , whom Evans expected , and a surprise visitor from the U.S. Anti-Doping Agency .	15
+clear	0	0	Too often , the FTC said , parents were caught unaware that in-app purchases were being made and Apple did n't do enough to make it clear children were buying gems , coins , or treats for their virtual pets .	26
+no-food-or-drink	0	0	The school spent $ 100,000 turning a computer lab into an eSports Arena with fast-processing computers , large monitors , high-end ergonomic gaming chairs and a strict no-food-or-drink policy .	27
+based	0	0	Castañeda does n't choose participants based on grade-point average .	5
+noted	0	0	In people , contagious yawning is more common among those who get high scores on empathy tests , and it 's less common among those on the autism spectrum who lack empathy , the researchers noted .	35
+pathogens	1	7	Despite rising concerns about food safety and authenticity , contamination rates by salmonella , campylobacter , Escherichia coli and other common pathogens have not fallen or are actually on the increase , depending on the microbe , according to a 2013 report from the U.S. Centers for Disease Control and Prevention -LRB- CDC -RRB- .	21
+starred	0	0	She has authored a best-selling memoir , was featured this year on the cover of Time magazine 's `` 100 Most Influential People , '' and has starred in a viral Under Armour ad , twirling amid the reading of a rejection letter declaring she has `` the wrong body for ballet . ''	27
+mainly	0	0	BEIJING -- Nearly every day in China , women go to work in smoke-filled offices , exposed to the fumes of cigarettes smoked mainly by male colleagues .	23
+lower-income	1	3	The study also found the reading skills gap between children from lower-income and higher-income families has grown , and proficiency varies considerably across states .	11
+counting	0	0	`` Everybody is counting on crab to make it , so this is pretty disappointing , '' said Larry Collins , president of the San Francisco Crab Boat Owners Association .	3
+politicians	0	0	Second inaugural speeches tend to be trickier for politicians than the first , where the formula often is to highlight an agenda heading into office .	8
+risk	0	0	In an address transmitted on Brazilian television and radio Friday night , Rousseff asked for understanding about `` the political and economic limitations '' the country is facing and beseeched Brazilians not `` to put at risk all that we 've achieved .	36
+criticisms	1	4	But by focusing on the lack of opportunities in many of the city 's minority neighborhoods , and doing it through the lens of the city 's youth , Emanuel took on one of the top criticisms lobbed at him during the campaign : He 's a mayor who has perpetuated two Chicagos -- one for the wealthy and one for the rest .	36
+libraries	0	0	That leaves libraries as a crucial venue for their youngest patrons , but funding challenges , reduced hours on school nights and aging equipment have made it harder to meet the demand .	2
+station	0	0	CORNUCOPIA , Wis. -- On some days , Kevin Hunt stands at his Star North gas station in this eye-blink of a town on mighty Lake Superior , marveling at Mother Nature and his own dumb luck .	16
+outrage	0	0	In the months after the outrage stirred by the deaths of Brown and another unarmed African-American , Eric Garner , in New York , singer D'Angelo released his first album in more than a decade , `` Black Messiah , '' which included references both glancing and startlingly direct to the chain of events between Selma and Ferguson .	5
+whistling	1	5	PRIVAS , France -- Jean-Marie Chauvet noticed air whistling out from a crack on a plateau in southern France , so he and fellow cave enthusiasts went to investigate .	8
+appointee	1	6	The `` policy compels speech because it mandates the written motto , ` Tomorrow 's Leaders , ' on the uniform shirts , '' wrote Judge Jacqueline H. Nguyen , an Obama appointee , who was joined by two judges selected by Republican presidents .	32
+prematurely	1	9	The pups , hungry , struck out prematurely that winter .	7
+quarterbacks	1	4	STATE COLLEGE , Pa. -- At St. Paul 's Episcopal School in Mobile , Alabama , the high school that produced Crimson Tide quarterbacks AJ McCarron and Jake Coker , there 's a new preseason ritual for football players : the social media talk .	23
+higher-income	1	3	The study also found the reading skills gap between children from lower-income and higher-income families has grown , and proficiency varies considerably across states .	13
+tens	0	0	In the balconies , `` gamescasters '' in dark suits and bright ties are breathlessly narrating and analyzing the plays to tens of thousands of fans who are watching via a live video stream .	21
+analyze	1	3	Tools to analyze DNA in food items may soon help eliminate these problems .	2
+feathers	0	0	The youngsters , their baby fluff half replaced by feathers , looked tatty and nervous .	9
+Still	0	0	Still , she did n't want to break the law .	0
+bite	0	0	Climate change might have a nasty bite .	6
+highly	0	0	A GoldieBlox skydive action figure , also highly rated on Amazon , invites children to build a parachute pack .	7
+lecture	1	4	She recently spoke in Dallas about the brain science behind golf and the yips at the Center for BrainHealth 's public lecture series at the University of Texas at Dallas .	21
+though	0	0	The acuity of mental illness among students has sharpened , they say , and it 's striking ever younger children , though many quietly bear the stress for years before snapping .	21
+learning	0	0	In a pre-calculus class at John Champe High School in Loudoun County , Virginia , juniors and seniors are learning abstract mathematical concepts .	19
+football	0	0	CHICAGO -- The NFL 's concussion lawsuit was settled Thursday , but to get an idea of the confusion that still envelops the subject of football safety , consider the Guardian .	25
+levant	1	3	The group calls itself the Islamic State of Syria and the Levant -LRB- ISIL -RRB- and has also been called the Islamic State of Iraq and Syria -LRB- ISIS -RRB- .	11
+healthy	0	0	The School Nutrition Association is calling on Congress and the U.S. Department of Agriculture to ease up on the next round of federal healthy food requirements , due July 1 .	23
+hunting	0	0	NEW YORK -- It has been a big year for bears in the news , especially in Maine , where voters on Nov. 4 face a question that has bedeviled other bear-heavy states : how to keep the species ' population at bay in the face of pressure from animal rights groups lobbying to ban certain hunting methods .	56
+calculations	1	7	But lose a leg , as Zac Vawter did after a motorcycle accident in 2009 , and you will appreciate the myriad calculations that go into putting one foot in front of the other .	22
+traditionally	1	4	SHANGHAI -- Yan Meiyue , 90 , said her 72-year-old daughter rarely visited , even for the annual Spring Festival , when families traditionally reunite .	23
+unit	0	0	The firefighters belonged to the Granite Mountain Interagency Hotshot Crew , an elite unit sponsored by a fire department in nearby Prescott , where residents were grieving through social media after word of the deaths arrived Sunday night .	13
+practically	0	0	In Los Angeles , nonprofits and social service agencies report that the need for diapers is `` practically infinite '' and that diapers `` fly '' out of warehouses as soon as they 're delivered .	17
+chairwoman	1	3	`` You can not charge consumers for purchases they did not authorize , '' said Edith Ramirez , the commission chairwoman .	20
+crippling	1	8	BEIJING -- Sitting at a desk in his small office here , Ma Jun , one of China 's best-known environmental advocates , shows off his latest tool in the fight against the nation 's crippling air pollution : a computer app .	35
+cleanup	0	0	From the Dominican Republic in the north , to Barbados in the east , and Mexico 's Caribbean resorts to the west , officials are authorizing emergency money to fund cleanup efforts and clear stinking mounds of seaweed that in some cases have piled up nearly 10 feet high on beaches , choked scenic coves and cut off moored boats .	30
+speed	0	0	Even a minute miscalculation in its speed could have meant missing a safe landing , scientists had no control of steering the probe once it separated , and the operation relied on flawless communication between the two spacecraft , only one of which could send signals to Earth .	6
+eerie	1	7	The lack of any tangible clue to its fate was eerie , unsettling , bizarre -- a real-world echo of the TV show `` Lost '' and the wayward-jetliner mystery at the heart of its story .	10
+color	0	0	Fully pursue his dream to become an entrepreneur and literacy advocate for young people of color , to stop them from being sucked down the intoxicating pipeline that entrapped him .	15
+syndrome	0	0	Others have cerebral palsy , Down syndrome , attention deficit disorder and developmental delays .	6
+tropics	0	0	`` These temperatures exceed what we are expecting anywhere else in the world in the tropics over the next century , '' says John Burt , a marine biologist at a branch of New York University in the Emirates , who led the reef tour in 2012 .	15
+misbehavior	1	5	The decline comes on the heels of a nationwide push to roll back zero tolerance policies instituted after the deadly Columbine High School shootings that emphasize harsh discipline for even minor misbehavior in favor of support-focused alternatives .	31
+ISIL	0	0	The main target was the Islamic State -LRB- ISIL -RRB- .	8
+yips	1	3	Castro is among those experienced golfers plagued by an inexplicable phenomenon known as the yips .	14
+form	0	0	Investigators have used ground-penetrating radar and specialized GPS devices to peek below the landscape , but no one is entirely certain why the holes form along the surface of this landmark , which attracts thousands of visitors each year .	24
+beige	1	3	CHICAGO -- Geologist Erin Argyilan has in the last 10 months studied sediment , analyzed wind patterns and mapped terrain , but she has n't solved the mystery of the holes that appear and vanish in the beige sands of Mount Baldy at Indiana Dunes National Lakeshore .	37
+crowded	0	0	It could quickly become a public health disaster in a place where strangers huddle together on subway cars and pedestrians jostle for space on crowded sidewalks .	24
+proponents	1	6	Proponents of the requirement argued that American children were falling behind in financial literacy and that the increasingly complex world of consumer banking demanded a new kind of education .	0
+embrace	1	3	Nudged by local governments worried about water shortages , home builders and homeowners associations are showing increased willingness to embrace the drought-tolerant landscapes that more naturally suit California .	19
+unraveled	1	6	In an emergency , the bracelet can be unraveled and the parachute cord used in a variety of ways -- to create a shelter or make a tourniquet , for example .	8
+nutrition	1	3	In its most basic terms , the ballot measures pit coalitions of foodies , organic farmers and nutrition activists against many of the nation 's leading manufacturers including the biotechnology company Monsanto , Kraft Foods and Coca-Cola .	17
+pull	0	0	A few superstar professors pull in upward of 10,000 students around the globe into free , or nearly free , courses .	4
+tanks	0	0	KABUL , Afghanistan -- The weapons of Afghanistan 's long decades of war can be seen almost everywhere , from the burned-out hulks of Soviet tanks to the Kalashnikov assault rifles slung over policemen 's shoulders and helicopter gunships roaring overhead .	25
+troubles	0	0	It 's not a major cause of these troubles , but `` many parents are clueless '' about the profound impact media exposure can have on their children , said Dr. Victor Strasburger , lead author of the new American Academy of Pediatrics policy .	8
+Show	0	0	Governor Chis Christie of New Jersey chomped down on a jelly doughnut and mocked his own weight on `` The Late Show with David Letterman . ''	21
+objected	1	6	One parent objected to the uniforms and eventually sued , contending they violated the First Amendment 's guarantee of free speech .	2
+helicopter	0	0	KABUL , Afghanistan -- The weapons of Afghanistan 's long decades of war can be seen almost everywhere , from the burned-out hulks of Soviet tanks to the Kalashnikov assault rifles slung over policemen 's shoulders and helicopter gunships roaring overhead .	37
+Cookie	0	0	The Digital Cookie upgrade , announced Tuesday , comes amid persisting challenges for the 103-year-old organization .	2
+behaviors	0	0	The authors of the latest research combed through a national database of Americans ' health and nutrition behaviors and grouped 4,466 American kids -- from ages 2 to 18 -- according to what they ate when they were not eating food purchased at a fast-food restaurant .	17
+desk	0	0	BEIJING -- Sitting at a desk in his small office here , Ma Jun , one of China 's best-known environmental advocates , shows off his latest tool in the fight against the nation 's crippling air pollution : a computer app .	5
+government	0	0	The vice president drew an implicit contrast between the authoritarian rule of China 's government and the liberal , permissive intellectual culture he described in the United States .	14
+protein	0	0	Conservative estimates suggest the 2.3 billion pounds of seafood squandered each year would be enough to provide enough protein for more than 10 million men or 12 million women for an entire year .	18
+basins	1	3	And while animals do occasionally wander outside of their ranges , scientists are starting to believe that the recent flurry of movements between the Atlantic and Pacific ocean basins are early evidence of yet another consequence of climate change .	28
+embedded	1	6	For Scott , the most exciting finds have been a rock embedded with what appears to be part of a sea lion 's mouth -LRB- perhaps 2 million years old -RRB- and a non-fossilized 10-foot limb from a digger pine tree that would look right at home today in Central California woodlands .	11
+gazing	0	0	Their heart-shaped faces swiveled about , gazing with large , dark eyes at the creature who 'd taken them from their home .	6
+whisked	1	6	The afflicted physician , Craig Allen Spencer , was whisked into isolation , his fiancee and friends were clamped into quarantine , and his apartment was sealed and decontaminated by a biohazard crew .	9
+believe	0	0	`` I was very good at putting up a facade , '' said the Los Altos High student , now a senior , who later was diagnosed with major depression and attention deficit hyperactivity disorder , a diagnosis that her parents resisted for six months and that many who knew her could n't believe .	53
+racism	1	4	The recent killings of nine black parishioners in a South Carolina church sparked a broad backlash against the Confederate battle flag , to some a symbol of Southern heritage but to others a divisive sign of slavery and racism .	38
+shuddering	1	6	`` I was thinking of moving , '' Bagu said , shuddering .	11
+safest	0	0	LOS ANGELES -- The type of aircraft flown by Asiana Airlines that crash-landed at San Francisco International Airport on Saturday has long been regarded as one of the safest passenger jets ever developed .	28
+Beaver	0	0	Beaver dams benefit the environment in ways that humans ca n't easily copy .	0
+twirled	1	4	CHICAGO -- As the mellow sounds of soul music played , Willie Bailey grabbed his 7-year-old daughter 's hand and twirled her in a circle .	20
+performance	1	6	Team members brush it off , like they do their nerves right before a performance .	14
+stirred	0	0	In the months after the outrage stirred by the deaths of Brown and another unarmed African-American , Eric Garner , in New York , singer D'Angelo released his first album in more than a decade , `` Black Messiah , '' which included references both glancing and startlingly direct to the chain of events between Selma and Ferguson .	6
+unprecedented	1	9	COLORADO SPRINGS , Colo. -- In an unprecedented backlash , two state lawmakers who helped stiffen Colorado 's gun laws were ousted Tuesday in a recall that turned into a nationally watched referendum on gun control .	7
+gave	0	0	While she wanted to help , her husband worried they may be arrested or lose their land if they gave aid to the dozens of travelers , many of them desperate and dehydrated , and some nearly crippled by enormous blisters on the bottoms of their feet .	19
+daughters	0	0	Parents , perhaps mindful of their daughters ' futures , are helping to make STEM dolls a `` burgeoning category , '' said Jackie Breyer , editor-in-chief for gift guide Toy Insider .	6
+close	0	0	He pulled her close , placed a hand on her shoulder , and the two bopped back and forth in a two-step , laughing and giggling .	3
+visionary	1	9	`` He was a real visionary and inspirational leader who understood what it would take to make Toyota a successful company . ''	5
+Class	0	0	An economics and personal-finance class is now a required course for those who want a high school diploma in Virginia , and the Class of 2015 was the first that needed the course to graduate .	23
+feeling	0	0	Scientists believe it 's a sign that these animals are capable of feeling empathy -- and a new study of wolves suggests it 's more widespread among animals than experts had realized .	12
+cousin	0	0	Toyoda , a cousin of the Japanese automaker 's founder Kiichiro Toyoda , died of heart failure at Toyota Memorial Hospital in Toyota city , central Japan .	3
+wrong	0	0	CHICAGO -- For years a general complaint about dolls has been that they send the wrong messages to children , whether it 's promoting an unrealistic body image or reinforcing stereotypes about girly interests .	15
+encourage	1	3	Rather than prevent violence , Holder said , such laws can encourage it .	11
+targeting	1	5	&lt;img class="pull-right" src="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/AP597881584453_1.jpg" /&gt; MINNEAPOLIS -- Another group of former NHL players has joined the fight for compensation for head injuries they say they incurred while playing , while at the same time targeting the violence of the game that they believe brought about those injuries .	30
+cattle	0	0	The mutilated cattle , found this spring on Koski 's 1,000-acre farm in the tiny community of Matchwood in Ontonogan County , are the latest casualties in his ongoing war with wolves .	2
+told	0	0	Apple told her the charges were valid purchases from the game DragonVale .	1
+bald	0	0	Mark Twain saw one and described it as having a `` bald , red , queer-shaped head , featherless red places here and there on his body , intense great black eyes set in featherless rims of inflamed flesh . ''	11
+Going	0	0	Going after the more valuable predators first , fishing them until there are n't enough left to support a fishery and then moving on to species lower in the food chain , a pattern sometimes observed in global fisheries , has been called `` fishing down the food web . ''	0
+purchasers	1	4	Measure 92 in Oregon and Proposition 105 in Colorado call for labeling food so that purchasers know whether they are buying products that contain materials that have been genetically engineered or modified .	15
+princesses	1	3	But Dungan , then 13 , was shy and preferred nail polish and Disney princesses to running bases and wearing a batting helmet .	14
+majority	1	6	The majority of that is due to consumers -LRB- both families and food businesses -RRB- , who buy fresh and frozen fish , but never end up eating it or selling it .	1
+bristled	1	7	Bach bristled when asked at a news conference about the possibility of any voting irregularities .	1
+elevator	0	0	In the latest potential threat , officials said , a private security guard armed with a pistol rode in an elevator with the president during a Sept. 16 visit to the Centers for Disease Control and Prevention in Atlanta for a briefing on Ebola , surprising Secret Service agents and violating agency rules over who can carry a weapon near him .	20
+secret	0	0	ISLAMABAD -- Pakistani officials kept secret the acquittals of eight men accused of involvement in the October 2012 shooting of Nobel Peace Prize laureate Malala Yousafzai .	5
+overturned	1	6	Recent settlement deliberations between the league and the NFL Players Association failed to produce a compromise , and several people connected to the process said the NFLPA now plans to move swiftly to attempt to have Brady 's suspension overturned in court .	39
+legacy	1	6	But as `` Glory '' suggests , the legacy of Selma is hardly in the past .	8
+minds	0	0	`` The highest rank in a democracy is citizen , not Senate president , so soon along with many of you , I will hold that rank and there 's nothing citizens ca n't accomplish when they put their minds to accomplishing it , '' Morse told disconsolate supporters at a party that turned into a political wake .	39
+biomedical	1	8	Taking on the challenge , a team of software and biomedical engineers , neuroscientists , surgeons and prosthetists has designed a prosthetic limb that can reproduce a full repertoire of ambulatory tricks by communicating seamlessly with Vawter 's brain .	10
+Coach	0	0	Coach Steve Mask warns players not to post about injuries , which can scare away recruiters .	0
+victims	0	0	The infection is almost universally fatal : it kills more than 97 percent of its victims within days .	15
+muscle	0	0	He seemed not to move a muscle until the jurors were taken out of the courtroom .	6
+epidemiologist	1	8	`` We 're seeing it in states where we had n't seen cases before , '' says Jennifer Cope , an epidemiologist and expert in amoeba infections at the U.S. Centers for Disease Control and Prevention .	21
+snapshot	1	7	A layer of calcium carbonate laid down each year offers a snapshot of both the fish 's yearly growth and its surrounding ocean conditions .	11
+talks	0	0	Now 80 and a resident of the Park La Brea complex in the Fairfax district , Prochnik uses that vat of chocolate as a centerpiece during talks about the Holocaust that he gives to schoolchildren .	26
+promoted	1	3	Misty Copeland made history on Tuesday when she was promoted to principal dancer of the prestigious American Ballet Theatre -LRB- ABT -RRB- , becoming the first African-American ballerina to reach the elite dance company 's top rank .	9
+clinic	0	0	Lost in the debate about online learning , however , is its impact in far-flung regions of the globe , places like the electrical engineering department at the University of El Salvador and the modest walk-up apartment of the Palacios family , above the medical clinic of Dr. Roberto Palacios Navarro , Roosemberth 's father .	45
+games	0	0	ANCHORAGE , Alaska -- Many middle school students in south-central Alaska spent spring break playing video games , skiing in what little snow has fallen or just enjoying a lazy week away from school .	16
+left	0	0	The mayor 's decision to home in on one of Chicago 's most intractable problems meant he made only passing reference to another : crumbling finances that have left the city 's credit rated as `` junk '' and its pension funds woefully unfunded .	28
+5-4	0	0	Both cases were decided by 5-4 rulings , though different justices formed the majority in each decisions .	5
+proposal	1	7	White House advisers declined to say how much the proposal would cost or how the administration planned to pay for it , but experts said such a venture could cost the federal government tens of billions of dollars .	9
+patterns	1	4	WASHINGTON -- In a major shift in immigration patterns over the next 50 years , Asians will have surged past Hispanics to become the largest group of immigrants heading to the United States , according to estimates in a new immigration study .	8
+worsened	1	3	They do so even as some marine biologists and ocean advocates warn that such a compassion-laden response is little more than a futile attempt to wrap a Band-Aid on an oceanwide problem that could last decades and may have been worsened by overfishing .	40
+astronomer	1	5	How about a Lottie astronomer doll complete with a telescope , tripod and fact sheet about notable women stargazers , or a fossil hunter armed with a magnifying glass , geology hammer and ammonite fossils ?	4
+portable	1	3	The federal Fatality Analysis Reporting system attributes about a half-dozen pedestrians deaths a year to `` portable electronic devices , '' including phones and music players .	16
+otherworldly	1	8	The software , called Hyperion , simulates the physics of light , which can make animated films more lifelike or give them an otherworldly look .	23
+commotion	1	7	Onstage , the players are stone-faced and appear unfazed by the commotion around them .	11
+promoting	1	5	CHICAGO -- For years a general complaint about dolls has been that they send the wrong messages to children , whether it 's promoting an unrealistic body image or reinforcing stereotypes about girly interests .	23
+perpetrated	0	0	Because wildlife trafficking is often perpetrated by well-armed syndicates that thrive in regions with weak laws and porous borders , U.S. security officials say it poses a global security threat , just as the U.S. is seeking to combat growing extremism and violence in parts of Africa .	5
+narrating	1	5	In the balconies , `` gamescasters '' in dark suits and bright ties are breathlessly narrating and analyzing the plays to tens of thousands of fans who are watching via a live video stream .	15
+Next	0	0	WASHINGTON -- Next up for `` Let 's Move ? ''	2
+incentives	1	8	Now , 39 states and Puerto Rico have tax incentives of one kind or another , all aimed at the film and television industries , according to the National Conference of State Legislatures .	9
+torrent	1	8	Now , as a torrent of refugees flows out of the Middle East and into Europe , many people are wondering why rich Gulf nations and the United States are not doing more to help .	4
+AFC	0	0	The punishment comes days after the league announced results of an investigation that found Brady was `` likely generally aware '' that equipment assistants employed by the team had conspired to deflate the Patriots ' footballs for last season 's AFC championship game , making the balls easier to throw and catch .	40
+reducing	1	6	It 's a padded fabric shell that is strapped around the outside of a helmet with the aim of reducing the impact of collisions .	19
+brain	0	0	Once in the brain it causes a swelling called primary meningoencephalitis .	3
+subdivision	1	6	The developer is building the first major subdivision in decades in the slow-growth university town of Davis , Calif. .	7
+firearms	0	0	Afghans have grown familiar with firearms over long decades of war , from the 1979 Soviet invasion and the resulting insurgency to the civil war and the rise of the Taliban in the 1990s .	5
+tell	0	0	`` But kids love chocolate , and they pay attention when I tell them how that tub of chocolate helped me get through that dark chapter in human history . ''	12
+entrepreneurship	1	8	But with a passion for -LSB- entrepreneurship -RSB- -LRB- https://www.newsela.com/?tag=entrepreneur -RRB- , the Birmingham , Ala. , student dreamed of attending a college in the Northeast so he could be close to New York City and other major business centers .	6
+defying	1	7	RIYADH -- - Saudi women 's rights activists posted online photographs and video clips of themselves defying a ban on female driving on Thursday , two days after members of the influential Shoura Council called for an end to the prohibition .	16
+component	1	8	The ivory ban is a key component of a new , national strategy for combating wildlife trafficking , unveiled Tuesday by the White House , seven months after President Barack Obama issued a call to action during a visit to Tanzania .	6
+fossil	0	0	How about a Lottie astronomer doll complete with a telescope , tripod and fact sheet about notable women stargazers , or a fossil hunter armed with a magnifying glass , geology hammer and ammonite fossils ?	22
+indictment	1	8	Prosecutor Scarlett Wilson announced the indictment , which represents at least the fourth time in less than six months that a sitting grand jury in South Carolina has agreed that white officers should stand trial in the shootings of black men .	5
+surprise	0	0	It should be no surprise then that young children play `` police and Taliban , '' chasing each other around with toy guns and weaponry designed to mimic the real thing .	4
+oath	1	3	CHICAGO -- Chicago Mayor Rahm Emanuel took the oath of office to begin his second term Monday and took the unusual step of focusing his inaugural address on a single issue : The lack of opportunity facing the city 's disadvantaged youths .	8
+crossed	0	0	WASHINGTON -- Florida immigration courts , swamped by a growing stream of unaccompanied children who illegally crossed the Southwestern border , are creating `` rocket dockets '' to quickly decide whether they should be sent back to their turbulent homelands .	16
+speaks	0	0	That the campaign hired her speaks to the growing influence of the immigrant youth movement she helped lead , as well as the distinct demographics of Latino voters .	5
+sexy	0	0	Vultures are overshadowed by threatened `` sexy , charismatic species '' like the lion , rhinoceros and elephant , said Masumi Gudka , Kenya-based vulture conservation manager for BirdLife International , a group with branches in 120 countries .	6
+neighboring	1	3	The overnight assault marked the expansion of the U.S.-led air campaign from Iraq to neighboring Syria , signaling a significant escalation in the conflict .	14
+anthropologists	1	9	In an effort to understand how much of this concept is hard-wired into our biology and how much of it is cultural , a team of psychologists and anthropologists led by Harvard University professor Felix Warneken traveled to seven countries to study how different groups of children play fair .	28
+newest	0	0	The artifacts represent a significant addition to the 33,000-item collection of the newest Smithsonian museum , which is set to open next year on the Mall .	12
+literacy	1	5	Proponents of the requirement argued that American children were falling behind in financial literacy and that the increasingly complex world of consumer banking demanded a new kind of education .	13
+win	0	0	To win over Latinos for Clinton in key states such as Florida , Colorado and Nevada , Praeli will have to connect with people much like herself .	1
+near-record	0	0	Such moves have led industry profits to near-record levels .	7
+clearing	0	0	But Jupiter came swinging in , clearing the way for small worlds like Earth by destroying those older planets .	6
+monumental	0	0	But doing that is a monumental task .	5
+felon	1	3	## Liberation Day For the first time in 22 years -- since Briscoe was 14 years old -- the former Vice Lord gang member and five-time felon was free of any kind of state supervision .	26
+Steeler	0	0	`` I 'm a Raven and Chris is a Steeler , but for this procedure , we had to come together , '' said Ma'ake , 35 , a starting defensive tackle on the Ravens ' 2012 Super Bowl championship team .	9
+creatures	1	4	JOHANNESBURG -- Allyn Bagu lay in bed , listening to the creatures nesting under the roof of her new apartment in suburban Johannesburg .	11
+linked	0	0	It 's been linked with violence , cyberbullying , school woes , obesity , lack of sleep and a host of other problems .	3
+proper	1	3	A gun is a tool , and like any tool -- be it a circular saw or a kitchen knife -- requires proper instruction , he said .	22
+gives	0	0	The monitoring site , more than 5,000 feet above sea level on a pine-studded overlook above the lowest layer of the atmosphere , gives Faloona access to undisturbed air from across the Pacific before it is fouled by U.S. pollution sources .	23
+surgeries	1	5	On Wednesday , Kemoeatu -LRB- key-moy-AH-too -RRB- and his brother Ma'ake -LRB- ma-AH-kay -RRB- spoke at the University of Maryland Medical Center of the unusual circumstances surrounding their Aug. 27 surgeries there .	30
+seize	1	3	It is part of what Iraqi officials describe as a new `` brain drain '' as young graduates seize what they perceive as a rare opportunity to leave a country wracked by violence .	18
+treat	0	0	Crews has helped Castro and others treat the yips .	6
+waning	0	0	It has taken longer than expected -- news articles profiled the waning fight in 2011 -- but finally , the state is almost free of the invasive rodents .	11
+ag-related	1	5	Ag-minded students are in luck : Tens of thousands of jobs open up each year in the broader agriculture field , and roughly half are filled by college grads with actual ag-related degrees , observers say .	31
+boomed	1	6	The toy hissed and boomed , then the battery pack went shooting out of it .	4
+polarized	1	8	The chants echoed against distant cheers of support from Islamists who held rival rallies in what has become a dangerously polarized nation .	20
+jump	0	0	And since the stubby-legged louse does not fly or jump and needs close bodily contact to spread , it seemed reasonable that students under care for the infestation could remain in class without risk to others .	9
+high-speed	0	0	Eight 2.3-ton electric motors installed on 1 WTC 's roof power the high-speed elevators .	12
+disturbing	1	7	MIAMI -- It was in early 2014 that federal officials and immigrant rights activists noticed a disturbing trend at the U.S. border with Mexico .	16
+corners	0	0	A small smile began at the corners of his mouth and very slowly spread .	6
+deaths	0	0	While illicit border crossings in this southern Arizona corridor have plummeted , deaths are at an all-time high .	12
+salary	0	0	They 're young workers like Tyrel Wellmaker , a high school graduate who left the Army for a low-skill petroleum job , albeit one with a salary that outstripped even those of positions that require college educations .	26
+pardoned	1	8	On Thursday , Alabama 's parole board pardoned the last of the long-dead Scottsboro Boys , nine black teenagers falsely accused of rape in 1931 .	7
+overrun	1	7	During the day , the soccer field down the road at DeForest Park was overrun with youth leagues and when night fell , the unlighted field was dark .	14
+loss	0	0	In order to put the scale of seafood loss in the United States in perspective , consider what curbing it could mean for our collective diets .	8
+Ferry	0	0	The free fan village will feature concerts , interactive games and player appearances at the foot of Market Street across from the Ferry Building , and will be among the main images broadcast of San Francisco .	22
+adjust	1	3	Home Depot is one of a number of companies that have stepped up their efforts to recruit U.S. military veterans , helping ex-service members such as Miranda who have struggled to find work and to adjust to life back home .	35
+recommended	1	3	`` For the first time in history , states recommended by consensus that an international treaty be negotiated to address the urgent crisis of biodiversity loss on the high seas , '' says Daniela Diz , a marine policy expert at WWF -LRB- World Wildlife Fund -RRB- , who sat in on the consultations , `` It 's an important step forward . ''	9
+male	0	0	BEIJING -- Nearly every day in China , women go to work in smoke-filled offices , exposed to the fumes of cigarettes smoked mainly by male colleagues .	25
+Sitting	0	0	BEIJING -- Sitting at a desk in his small office here , Ma Jun , one of China 's best-known environmental advocates , shows off his latest tool in the fight against the nation 's crippling air pollution : a computer app .	2
+came	0	0	Prior to 2010 , more than half of the cases came from Florida , Texas and other Southern states .	10
+bearings	1	6	The Nizards complain that Sacha has lost his bearings , and that their leisurely Tuesday evenings , when the family could go out to dinner or Sacha could watch TV without worrying about class the next morning , have been sabotaged .	8
+inspirational	1	9	`` He was a real visionary and inspirational leader who understood what it would take to make Toyota a successful company . ''	7
+cemeteries	1	3	The new evidence , published in the journal PLOS One , comes from funerary textile remnants collected from two of the earliest known Egyptian cemeteries that date to 4500 B.C. .	24
+curiosities	1	6	`` I always had a little cabinet of curiosities in my room , and in the garage , '' Borders recalls .	8
+discipline	1	3	Pierson , a 30-year Secret Service veteran , was named director only 18 months ago after a prostitution scandal and other problems suggested poor discipline and inadequate oversight in the supposedly elite force responsible for protecting the president , his family and visiting foreign leaders .	24
+anonymous	1	8	Dozens of immigrants in Johannesburg and other cities shuttered their shops Wednesday as anonymous cellphone text messages warned that Zulu people were coming to kill immigrants in neighborhoods with large migrant populations .	13
+class	0	0	In a pre-calculus class at John Champe High School in Loudoun County , Virginia , juniors and seniors are learning abstract mathematical concepts .	3
+phobia	1	5	Educators are seeing more and more students suffering from depression , anxiety and social phobia .	14
+charges	0	0	Apple told her the charges were valid purchases from the game DragonVale .	4
+tenants	1	7	The 104-story 1 WTC -- which opened for tenants in November -- has 73 elevators , five of which will be express elevators with a top speed of more than 36.5 kilometers per hour -LRB- 22.6 miles per hour -RRB- .	8
+optimistic	1	6	`` I 've been struggling to stay optimistic , to stay encouraged , '' said Briscoe , married and the father of a 5-year-old son with whom he is working to rebuild a relationship .	7
+sometimes	0	0	ARLINGTON , Va. -- Teacher Michael Coughlin sometimes learns about his students ' harrowing trips across the border alone and what they left behind from the essays they write .	7
+find	0	0	Most of us have experienced writer 's block at some point , sitting down to write , paint or compose only to find we ca n't get the creative juices flowing .	22
+dominate	1	5	That issue will dominate much of Emanuel 's time in the coming weeks , as he works to persuade state lawmakers in Springfield to grant the city pension relief and a Chicago-owned casino to help stabilize the city 's finances .	3
+direct	1	4	`` It 's nobody else 's business , '' Christie said , adding that it became public only because a reporter from the New York Post asked him a direct question about the procedure .	29
+consumption	0	0	Participants were designated `` Western diet '' consumers if their consumption from non-fast-food sources was relatively high in saturated fats and added sugars .	10
+delta	0	0	Environmental and fishery groups say agriculture is manipulating the drought crisis to extract delta water , exposing even non-threatened fish and the fishing industry to catastrophic losses .	13
+records	0	0	There are no records of a human ever being killed by a wolf in the wild in Michigan .	3
+amount	0	0	The winning robots will complete eight different tasks on a DARPA obstacle course in the shortest amount of time .	16
+Deepwater	0	0	WASHINGTON -- Louisiana residents may go gaga over Mark Wahlberg , Kurt Russell and Kate Hudson when they arrive in the state later this year to film a movie about the 2010 Deepwater Horizon oil rig explosion .	32
+bobsled	1	6	Evans was thinking about how good she wanted to feel when she got back on it , how the success she tasted in her rookie season as a bobsled pusher still sent chills of excitement through her mind .	28
+downed	1	3	The plane maker issued a statement Saturday afternoon , saying it `` extends its concern for the safety '' of those aboard the downed aircraft .	23
+dehydrated	1	9	While she wanted to help , her husband worried they may be arrested or lose their land if they gave aid to the dozens of travelers , many of them desperate and dehydrated , and some nearly crippled by enormous blisters on the bottoms of their feet .	32
+spotlight	1	7	Bailey and his daughter were among dozens of father-daughter couples gathered on Chicago 's South Side recently at a party designed to spotlight the role of black fathers in their daughter 's lives .	22
+tails	0	0	With their industrial-strength buck teeth and flat tails , beavers and their dams offer a defense against drought .	7
+easy	0	0	It has n't been so easy this year .	5
+burgeoning	1	9	Parents , perhaps mindful of their daughters ' futures , are helping to make STEM dolls a `` burgeoning category , '' said Jackie Breyer , editor-in-chief for gift guide Toy Insider .	18
+agree	0	0	ARIVACA , Ariz. -- There was a time when Maggie Milinovitch and her husband did n't agree on whether to give food and water to the weary border crossers who traversed the couple 's desert land a few miles north of the Mexico border in southern Arizona .	16
+indict	1	5	The results of the review come a week after a grand jury in St. Louis County chose not to indict the Ferguson police officer , Darren Wilson , in the fatal shooting of Michael Brown .	19
+cottage	1	8	But a housing crash and a flood of Chinese money later , she 's part of a growing cottage industry of real estate agents , bankers and attorneys who specialize in helping wealthy foreigners buy a little patch of Southern California .	18
+analyst	1	5	Tom Captain , aerospace analyst with the financial firm Deloitte , said the passenger fatalities on the commercial flight were the first in three years .	4
+militant	1	3	`` The entire gang involved in the murder attempt ... has been busted , '' Bajwa said , adding that the `` terrorists '' were part of Tehrik-e-Taliban , an umbrella group encompassing militant organizations across the tribal areas .	33
+fastest-growing	1	3	As Latino outreach director , Praeli spends her days at Clinton 's headquarters in Brooklyn poring over polling data , winning endorsements from Latino leaders and fine-tuning the campaign 's messages to reach the nation 's fastest-growing bloc of voters .	36
+roughly	0	0	For the roughly 1 million Americans who have lost a leg or part of one due to injury or disease , Vawter and his robotic leg offer the hope that future prosthetics might return the feel of a natural gait , kicking a soccer ball or climbing into a car without hoisting an inert artificial limb into the vehicle .	2
+issues	0	0	`` It seems like there is a theme of wanting to really support artists who are working hard -- not just in their craft -- but communicating about the issues of our time , '' said Spalding , an advocate of human rights issues at the U.S. detention facility at Guantanamo Bay , Cuba .	43
+reapportionment	0	0	Texas , which gained four seats in the last round of congressional reapportionment , lagged behind only North Dakota and the District of Columbia in the rate of population growth since the 2010 census .	12
+cautiously	1	5	An Associated Press analysis of households in the 10 biggest economies shows that families continue to spend cautiously and have pulled hundreds of billions of dollars out of stocks , cut borrowing for the first time in decades and poured money into savings and bonds that offer puny interest payments , often too low to keep up with inflation .	17
+needed	0	0	An economics and personal-finance class is now a required course for those who want a high school diploma in Virginia , and the Class of 2015 was the first that needed the course to graduate .	30
+areas	0	0	Castañeda , who grew up in Delano , California , thought students in rural communities should have access to the same opportunities as those in more affluent areas .	27
+publication	0	0	One female activist , speaking on condition of anonymity , said the publication of the video clips and photographs was the first part of a two-stage campaign designed to change attitudes .	12
+computers	0	0	Ma and his colleagues at the Institute of Public and Environmental Affairs , a Beijing-based environmental group , have made that information available to millions of Chinese on their own computers and mobile devices .	30
+expand	1	4	With more than $ 40,000 in sales in three years , Grayson is looking to expand and hire people to make his paracord products .	15
+Jupiter	0	0	Jupiter still shepherds swarms of asteroids , occasionally sending some whizzing harmlessly into interstellar space or on destructive collision courses with Earth and other planets .	0
+evocative	0	0	`` The goal is to create an evocative space , with a few iconic pieces , almost like religious relics . ''	7
+obviously	1	6	That Rodrigo Guzman , 10 , could no longer be with his friends and attend Jefferson Elementary seemed so obviously unfair to these students .	19
+quickly	0	0	The discovery of the long-hidden artwork created a sensation , but the site was quickly closed to the public .	14
+relics	1	5	Amid the clatter of jackhammers and the whine of a mini-excavator , paleontologist Kim Scott scouted the tarry muck for relics from a long-buried beach .	20
+clatter	1	6	Amid the clatter of jackhammers and the whine of a mini-excavator , paleontologist Kim Scott scouted the tarry muck for relics from a long-buried beach .	2
+desert	0	0	ARIVACA , Ariz. -- There was a time when Maggie Milinovitch and her husband did n't agree on whether to give food and water to the weary border crossers who traversed the couple 's desert land a few miles north of the Mexico border in southern Arizona .	34
+ecosystems	1	5	It 's also roiling coastal tourism and marine ecosystems .	8
+materials	1	3	Measure 92 in Oregon and Proposition 105 in Colorado call for labeling food so that purchasers know whether they are buying products that contain materials that have been genetically engineered or modified .	24
+cash-strapped	1	4	The cash-strapped U.S. Postal Service released its Harry Potter stamps last November in 20-stamp booklets , and found another hit .	1
+pledged	1	3	But she pledged to create `` a grand pact '' to improve public services and said among her priorities would be to devote 100 percent of petroleum revenue to education , send thousands of doctors to rural areas , come up with a national urban transit plan , and meet with peaceful protest leaders .	2
+university	0	0	The developer is building the first major subdivision in decades in the slow-growth university town of Davis , Calif. .	13
+twists	1	3	For more than a decade , increasing numbers of black women have been wearing their natural hair in Afros , braids , locks and twists .	24
+persuade	1	4	That issue will dominate much of Emanuel 's time in the coming weeks , as he works to persuade state lawmakers in Springfield to grant the city pension relief and a Chicago-owned casino to help stabilize the city 's finances .	18
+goes	0	0	They hold hands as Giambalvo leads Dungan to first base after her hit goes airborne , and they giggle together in the outfield while waiting to make a catch .	13
+check	0	0	`` You can check out a laptop , and the next 30 minutes it 's dead .	3
+Mother	0	0	CORNUCOPIA , Wis. -- On some days , Kevin Hunt stands at his Star North gas station in this eye-blink of a town on mighty Lake Superior , marveling at Mother Nature and his own dumb luck .	30
+things	0	0	`` The evidence fully supports my findings that -LRB- 1 -RRB- Mr. Brady participated in a scheme to tamper with the game balls after they had been approved by the game officials for use in the AFC Championship Game and -LRB- 2 -RRB- Mr. Brady willfully obstructed the investigation by , among other things , affirmatively arranging for destruction of his cellphone knowing that it contained potentially relevant information that had been requested by the investigators , '' Goodell wrote in his ruling .	53
+time	0	0	ARIVACA , Ariz. -- There was a time when Maggie Milinovitch and her husband did n't agree on whether to give food and water to the weary border crossers who traversed the couple 's desert land a few miles north of the Mexico border in southern Arizona .	7
+outstripped	1	8	They 're young workers like Tyrel Wellmaker , a high school graduate who left the Army for a low-skill petroleum job , albeit one with a salary that outstripped even those of positions that require college educations .	28
+liked	0	0	WASHINGTON -- Jackie Nussbaum knew her son liked playing DragonVale on the family iPad -- a colorful game with soothing music and chirping birds where kids raise adorable baby dragons .	7
+froze	0	0	Then Lake Superior did something it had n't done to this degree in decades : It froze .	16
+glorious	1	4	MOSCOW -- The day after the 2014 Sochi Olympics ended with Russia atop the medals table , a beaming President Vladimir Putin presented his athletes with state awards for `` defending the honor '' of their country by showing that its `` great and glorious '' sports traditions were still strong .	44
+Laugh	0	0	Laugh if you will .	0
+consumers	1	4	`` You can not charge consumers for purchases they did not authorize , '' said Edith Ramirez , the commission chairwoman .	5
+flier	0	0	Two other quarrels diverted planes last week , including a United Airlines flight that was grounded when a passenger installed a plastic device known as a Knee Defender to prevent the flier in front from reclining .	31
+library	0	0	`` We do n't have any Internet at home , '' Morua said as her oldest , 11-year-old Abel , clicked through an assignment on a library laptop while Alina , 9 , waited for her turn at a desktop .	26
+competitions	1	3	One piece of that market , e-sport multiplayer video-gaming competitions , is expected to bring in $ 612 million this year for games such as Dota 2 and League of Legends .	9
+smile	0	0	BALTIMORE -- Devin Allen plans to get the word `` smile '' tattooed on his trigger finger .	10
+dropped	0	0	But when the company that makes Addison Trail 's football helmets declined to give its blessing , school officials dropped the idea , fearing that using the Guardian could expose the district to legal liability .	19
+lots	0	0	`` It 's hard out here , '' he says of Cutler-Orosi , adding that many people work as farm laborers and there are lots of gangs .	24
+emotionally	1	6	Argyilan is driven professionally and emotionally to try to help explain this curious occurrence .	5
+eighth-grader	0	0	Grayson Davey , an eighth-grader , spent most of his week off looking for employees .	4
+successful	1	8	The regular post-lunch parade of Dobbs Elementary children by the trash cans Monday showed that the school 's food team had mostly pulled off a successful meal .	25
+cheating	0	0	That 's why accusations of cheating -- widespread , state-sponsored doping -- drew such a harsh reaction Tuesday in Moscow .	5
+decisions	0	0	Those who want the label contend that consumers are entitled to know whether their food contains GMOs so that they can make informed decisions about their purchase .	23
+actually	0	0	An apple can kill , a sprinkle of sprouts can send you to the hospital and your succulent , pan-seared red snapper may actually be tilefish .	23
+autonomous	1	8	The world will see just how far robots have advanced in the subsequent years when the U.S. Defense Advanced Research Projects Agency -LRB- DARPA -RRB- hosts the final round of a robotics competition aimed at building autonomous machines that can step -- or roll -- in when disasters strike .	36
+editor-in-chief	0	0	Parents , perhaps mindful of their daughters ' futures , are helping to make STEM dolls a `` burgeoning category , '' said Jackie Breyer , editor-in-chief for gift guide Toy Insider .	26
+diagnoses	1	4	In the wake of the confusion and missteps that surrounded the first U.S. Ebola diagnoses in Dallas last month , public health officials in New York were ready .	14
+certain	0	0	They 're arguing that as sea ice continues to melt in the Arctic , passageways are opening for certain animals - heretofore restricted by the ice - to start moving through , enabling them to cross into new territories .	18
+reef	0	0	The waters off the United Arab Emirates -LRB- UAE -RRB- coast can be murky and only have 10 percent of the coral reef diversity found in the Indian Ocean or on the Great Barrier Reef .	22
+toes	0	0	Still , theme-park restaurants are just dipping their toes into the water compared with other restaurants .	8
+ballots	0	0	The North Carolina law is one of a series enacted in Republican-governed states imposing new requirements on casting ballots .	18
+toppling	1	7	NEW YORK -- A New York City commuter train rounding a riverside curve derailed Sunday , killing four people and injuring more than 60 in a crash that threw passengers from the toppling cars and left a snaking chain of twisted wreckage just inches from the water .	32
+argues	0	0	The International Monetary Fund certainly thinks so , according to a new report in which it argues Greece should get help .	16
+preparation	1	8	The 17-year-old participates in an after-school program called Tech Connect in Orosi that teaches computer repair , tax preparation and community service .	18
+belief	0	0	There is a scientific belief that the cerebral cortex is the part of the brain that `` makes us human , '' and that the two hemispheres of the cortex differentiate the creative thinkers from the logical thinkers -LRB- the `` right-brained '' from the `` left-brained '' -RRB- .	4
+treasured	1	8	Yet elsewhere in the world , one pencil is a rare and treasured thing .	12
+sandy	0	0	Officials had anticipated encountering a substantial cache : The dig is near the La Brea Tar Pits and features a sandy matrix with naturally occurring asphalt -- a fossil haven .	20
+alleging	1	6	Retired players Dave Christian , Reed Larson and William Bennett filed a class action lawsuit in federal court on Tuesday alleging that the league has promoted fighting and downplayed the risk of -LSB- head injuries -RSB- -LRB- https://www.newsela.com/?tag=concussions -RRB- that come from it .	20
+historic	1	5	As the gap between the world 's top 1 percent and the rest has increased to historic highs in recent years , fairness in material payoffs or inequality has become one of the most important issues of our time .	16
+agribusiness	1	8	The curriculums , taking hold as school budgets tighten and the numbers of farms in the United States decline , are rich in science and touted as stepping stones for college-bound students considering careers in everything from urban forestry to renewable natural resources and genetic engineering of crops , perhaps for giant agribusiness companies such as Monsanto , Dow , DuPont and Pioneer .	52
+squadron	1	9	Nowhere was this more painfully obvious than in Japan four years ago , after a small squadron of robots was sent to assist workers at the devastated Fukushima Daiichi nuclear plant .	16
+institutions	1	5	When a law discriminates on the basis of sexual orientation , it must be closely evaluated to `` ensure that our most fundamental institutions neither send nor reinforce messages of stigma or second-class status , '' Judge Stephen Reinhardt wrote for the court .	23
+Let	0	0	Let other octogenarians take it easy .	0
+Tech	0	0	The 17-year-old participates in an after-school program called Tech Connect in Orosi that teaches computer repair , tax preparation and community service .	8
+near-vertical	0	0	Rocks and boulders sloughed off the crater walls , kicking up plumes of dust as they clattered down the near-vertical slopes .	19
+sunny	0	0	But if monotonously sunny weather continues to curse the state , the pain of water shortages will spread , albeit unevenly .	3
+striking	1	6	The acuity of mental illness among students has sharpened , they say , and it 's striking ever younger children , though many quietly bear the stress for years before snapping .	16
+running	0	0	But Dungan , then 13 , was shy and preferred nail polish and Disney princesses to running bases and wearing a batting helmet .	16
+beautiful	0	0	Then , once again , their answer was unanimous : They agreed Nyong ' o was beautiful .	16
+gym	0	0	ST. LOUIS -- The girls huddled in the corner of the gym as the game clock ticked down to halftime , their arms linked , hands clutching the shiny bundles of silver and black .	11
+movies	0	0	Under the new policy , those two hours include using the Internet for entertainment , including Facebook , Twitter , TV and movies ; online homework is an exception .	22
+named	0	0	A Lego vet clinic with a mini-doll named Mia has five stars on Amazon .	7
+Granite	0	0	The firefighters belonged to the Granite Mountain Interagency Hotshot Crew , an elite unit sponsored by a fire department in nearby Prescott , where residents were grieving through social media after word of the deaths arrived Sunday night .	5
+artists	0	0	`` They are only as good as the tools they allow their artists to use . ''	12
+good-paying	0	0	`` Schools that understand we can get students in the ag program know they 're going to be taxpaying citizens with good-paying jobs . ''	21
+Advances	0	0	The findings , described in the journal Science Advances , reveals another complexity of the effects of climate change -- both the effects it has on animal populations and the way it affects human disease , in the context of socioeconomic disparities .	8
+experienced	1	4	Virginia was one of many states that moved to offer more personal-finance courses on the heels of the Great Recession , hoping to instill practical money-management skills to help the next generation avoid the pitfalls that many of their parents experienced .	40
+fourth-round	0	0	The Patriots also were fined $ 1 million -- equaling the largest in league history -- and stripped of their first-round draft pick next year and a fourth-round selection in 2017 .	27
+epithet	1	7	The Oneidas asked Goodell and Snyder to `` visit our homelands , '' and sought an amendment to league bylaws to prohibit franchises from naming a team with any term that is a racial epithet .	34
+progress	0	0	Rwanda has made stunning progress since what was one of the 20th century 's greatest crimes , when more than 800,000 Tutsis and moderate Hutus were slaughtered by Hutu extremists .	4
+innovative	1	9	And Home Depot is n't the only business that 's looking to beef up its staff , and find innovative ways beyond job fairs , to connect with veterans .	19
+deal	0	0	The machines spent a good deal of time on the sidelines , leaving humans to do the most hazardous work .	5
+Factory	0	0	LOS ANGELES -- His escape from the Nazis was more like `` Willy Wonka &amp; the Chocolate Factory '' than `` The Sound of Music , '' Leon Prochnik admits .	17
+wipe	0	0	WASHINGTON -- The United States is cracking down on the sale and purchase of ivory in hopes of curbing a surge in illicit poaching that 's threatening to wipe out elephants and other species in Africa .	28
+points	0	0	Techniques ranging from whole genome sequencing to the ability to create artificial DNA labels that indicate points of origin are surprisingly affordable now , and have led to novel global collaborations and inventions .	16
+Used	0	0	Used for centuries in the Mediterranean region to grow crops like olives and grapes , the technique is not for the faint of heart .	0
+eye-blink	1	8	CORNUCOPIA , Wis. -- On some days , Kevin Hunt stands at his Star North gas station in this eye-blink of a town on mighty Lake Superior , marveling at Mother Nature and his own dumb luck .	19
+nursery	1	3	PARIS -- If you think Wednesday 's child is full of woe , as the old nursery rhyme has it , try Wednesday 's parents .	16
+dedicated	0	0	The fine will be donated to organizations dedicated to anti-discrimination and tolerance efforts that will be jointly selected by the NBA and the Players Association , Silver said .	7
+canal	0	0	The French , flush with their success from digging and opening the Suez Canal in 1869 , started work on the canal in Panama in 1881 .	21
+team	0	0	For golfers , it 's an uncontrollable spasm that occurs in the hands right before impact , says Dr. Debbie Crews , a sports psychology consultant for the Arizona State University women 's golf team and a faculty research assistant in the professional golf management program .	34
+applauded	1	4	Thousands of onlookers applauded .	3
+entry	0	0	ANGELS CAMP , Calif. -- In the humble-looking notebook of a luckless prospector staying in a cabin on Jackass Hill near here in California 's Gold Country a century and a half ago , there 's an entry barely longer than a tweet .	37
+harder	0	0	Most frustrating of all , the more effort and thought we put into it , the harder it may become .	16
+decreasing	1	5	`` So if we 're decreasing opportunities for lower-income kids to participate in sports , we 're taking away one of our weapons in the fight against obesity and in the fight against drop out -LRB- rates -RRB- , '' she said .	5
+control	0	0	But it is Vawter 's ability to control the prosthetic with his thoughts that makes the latest case remarkable .	7
+ick	0	0	Aside from the `` ick '' factor , she wondered , was there a reason to quarantine the youngsters ?	4
+four-game	0	0	Tom Brady and the players ' union are headed to a legal clash with the NFL over Deflategate after Commissioner Roger Goodell rejected Brady 's appeal Tuesday and upheld the four-game suspension of the New England Patriots quarterback and reigning Super Bowl MVP .	30
+Mostly	0	0	Mostly , it 's about river water allowed to reach the Pacific Ocean through the Sacramento-San Joaquin River Delta -- a perennial California argument filled with suspicion , lawsuits and politics .	0
+gathered	1	5	Bailey and his daughter were among dozens of father-daughter couples gathered on Chicago 's South Side recently at a party designed to spotlight the role of black fathers in their daughter 's lives .	10
+dots	0	0	The pieces consist of animal bones , mostly skulls , into which Borders has engraved and inked complex designs of lines and dots that resemble traditional mehndi tattoos .	22
+clock	0	0	ST. LOUIS -- The girls huddled in the corner of the gym as the game clock ticked down to halftime , their arms linked , hands clutching the shiny bundles of silver and black .	15
+breaks	0	0	Instead , French children -- who , like their parents , already enjoy longer lunch breaks and summer vacations than their counterparts in many other countries -- have to show up for class Monday through Friday .	15
+pilots	0	0	The initiative , Tuskegee Next , is a special effort to increase the number of African-Americans who can work as pilots , said Stephen L. Davis , who owns a lighting company based in Wheaton and founded the organization .	20
+promotes	1	3	Their gnawing and nesting promotes richer soil and slows down water , improving imperiled fish habitat .	4
+guard	0	0	In the latest potential threat , officials said , a private security guard armed with a pistol rode in an elevator with the president during a Sept. 16 visit to the Centers for Disease Control and Prevention in Atlanta for a briefing on Ebola , surprising Secret Service agents and violating agency rules over who can carry a weapon near him .	12
+limited	1	3	## A Limited Ruling But the issue of gay marriage causes passionate arguments on both sides , as evidenced by the fact that more than two-thirds of the states do not allow gay marriage .	2
+uncontrollable	1	4	For golfers , it 's an uncontrollable spasm that occurs in the hands right before impact , says Dr. Debbie Crews , a sports psychology consultant for the Arizona State University women 's golf team and a faculty research assistant in the professional golf management program .	6
+rhythm	1	5	`` The movement is a rhythm to us , freedom is like religion to us , '' Common raps in `` Glory . ''	5
+helicopters	1	4	WASHINGTON -- One trained soldiers to use Stinger missiles to shoot down enemy jets and helicopters .	15
+streets	0	0	In late April , the then-26-year-old shot his Fuji X-T1 over and over again as demonstrators took to the streets to protest the death of Freddie Gray , who suffered a fatal injury in police custody .	19
+hassles	1	7	The space squeeze -- as airlines pack more people and profit into planes -- is only the latest frustration for travelers , already weary of security hassles and charges for checked baggage , food , in-flight entertainment and other once-free services .	26
+Harmful	0	0	Harmful fishing practices add to the threat .	0
+sucked	0	0	Fully pursue his dream to become an entrepreneur and literacy advocate for young people of color , to stop them from being sucked down the intoxicating pipeline that entrapped him .	22
+two-step	1	4	He pulled her close , placed a hand on her shoulder , and the two bopped back and forth in a two-step , laughing and giggling .	21
+environment	1	3	SEATTLE -- A tiny white sliver inside the heads of fish could hold evidence of a century 's worth of humans wrecking the environment : atomic bombs , overfishing , even climate change .	23
+activist	0	0	W.T. `` Dub '' Massey and seven other students at Rock Hill 's Friendship Junior College -- Willie McCleod , Robert McCullough , Clarence Graham , James Wells , David Williamson Jr. , John Gaines and Mack Workman -- were encouraged to violate the town 's Jim Crow laws by Thomas Gaither , who came to town as an activist with the Congress of Racial Equality .	59
+long-range	0	0	More than 1,100 of the planes have been delivered , and nearly all of the world 's most important airlines fly 777s on long-range routes .	23
+scrabbling	1	9	She could hear them scrabbling around and their ominous screeches .	4
+Stop	0	0	Charles Vacca , 39 , of Lake Havasu City was shot Monday at the Last Stop outdoor range in White Hills , in northern Arizona , about 60 miles south of Las Vegas .	15
+older	0	0	In Greco-Roman mythology Jupiter is the king of the gods , a deity who destroyed an older race of titans to become the jealous and vengeful lord of heaven and Earth .	16
+retorted	1	5	`` We was real hard workers was n't we , '' Coby retorted in a subsequent text .	12
+poor	0	0	NEW YORK -- They speak different languages , live in countries rich and poor , face horrible job markets and healthy ones .	13
+mentality	1	3	`` We 've always had powerful female athletes , but we 've never had a story as dynamic as Misty 's , with that underdog mentality she has ... bucking up against all these traditional norms , showing men , women and kids that athletes come in all shapes and sizes . ''	25
+perished	1	7	More than 2,000 migrants have perished in the last 13 years , according to the Pima County medical examiner 's office .	5
+emissions	1	6	He and other scientists at rural , high-altitude sites across the western U.S. have been documenting rising levels of ozone , which can trigger asthma attacks , worsen heart and lung disease and lead to premature deaths , even as emissions have plummeted nationwide over the last few decades .	40
+democracy	0	0	`` The highest rank in a democracy is citizen , not Senate president , so soon along with many of you , I will hold that rank and there 's nothing citizens ca n't accomplish when they put their minds to accomplishing it , '' Morse told disconsolate supporters at a party that turned into a political wake .	6
+factories	0	0	In about a week , winds carry ozone formed by emissions from cars , factories and power plants in Asia to the U.S. West Coast , where it can add to locally generated pollution , worsening smog in cities such as Bakersfield , Fresno and Los Angeles .	14
+pump	0	0	Carroll has Type 1 diabetes and wears a pump that delivers insulin directly into his body .	8
+adorns	1	8	The group vets the man-made elements seeking a permanent spot on the chart that adorns chemistry classrooms around the world .	14
+accepting	0	0	We should change this closed nature and consider accepting refugees from conflict zones proactively , '' the paper said .	8
+amphibious	1	8	Some survivors stood , somber-faced and proud , alongside President Barack Obama , French President Francois Hollande and other world leaders as they paid tribute Friday to history 's biggest amphibious invasion .	30
+twin	0	0	Steam rose from the twin magma domes formed after Mount St. Helens ' cataclysmic eruption in 1980 and the quieter outburst that started in 2004 .	4
+mandates	1	8	The `` policy compels speech because it mandates the written motto , ` Tomorrow 's Leaders , ' on the uniform shirts , '' wrote Judge Jacqueline H. Nguyen , an Obama appointee , who was joined by two judges selected by Republican presidents .	7
+keeps	0	0	`` It keeps your head fresh , keeps those headaches away .	2
+burned-out	1	3	KABUL , Afghanistan -- The weapons of Afghanistan 's long decades of war can be seen almost everywhere , from the burned-out hulks of Soviet tanks to the Kalashnikov assault rifles slung over policemen 's shoulders and helicopter gunships roaring overhead .	21
+open	0	0	Ag-minded students are in luck : Tens of thousands of jobs open up each year in the broader agriculture field , and roughly half are filled by college grads with actual ag-related degrees , observers say .	11
+citizenship	1	6	A Peruvian immigrant who lived in the United States without legal status until three years ago , when she obtained a green card through marriage , Praeli hopes to obtain citizenship in time to vote in the election that she is helping shape .	30
+eons	1	3	Eons ago , while flinging leftover debris from planetary formation out of our solar system , Jupiter probably also tossed some down toward our primordial globe , delivering some of the water that now fills our oceans .	0
+hack	1	3	WASHINGTON -- Chris Carroll wo n't forget the first time he saw someone hack into an insulin pump and make it deliver a lethal dose .	13
+thumping	1	6	A sold-out crowd from around the nation is screaming for the elite e-athletes and thumping inflated cheer sticks in a collective thunder .	14
+audits	1	6	Blistering audits have faulted efforts to fight what one official called a `` rat crisis . ''	1
+restrictive	1	6	Attorney General Eric Holder said the North Carolina law imposes several `` troubling new restrictions '' on voters including reducing early voting days , eliminating same-day registration during the early-voting period and imposing a restrictive photo-identification requirement for in-person voting .	34
+entrapped	1	5	Fully pursue his dream to become an entrepreneur and literacy advocate for young people of color , to stop them from being sucked down the intoxicating pipeline that entrapped him .	28
+Connect	0	0	The 17-year-old participates in an after-school program called Tech Connect in Orosi that teaches computer repair , tax preparation and community service .	9
+COLLEGE	0	0	STATE COLLEGE , Pa. -- At St. Paul 's Episcopal School in Mobile , Alabama , the high school that produced Crimson Tide quarterbacks AJ McCarron and Jake Coker , there 's a new preseason ritual for football players : the social media talk .	1
+indoor	0	0	Last fall , China 's State Council proposed the nation 's toughest restrictions yet on indoor smoking and the marketing of tobacco .	15
+looters	1	6	Violence spread in central Durban on Tuesday , after looters attacked shops owned by immigrants , some of whom armed themselves with machetes and knives .	9
+accolades	1	8	One school science fair victory , a few national accolades , $ 35,000 of his parents ' savings and a visit to the White House later , Shubham today is the founder of Palo Alto startup Braigo Labs , which aims to become the first purveyor of low-cost , compact Braille printers .	9
+separate	1	5	The court also opened the door for gay marriages to resume in California , in a separate ruling on narrow legal grounds .	16
+Team	0	0	Team members brush it off , like they do their nerves right before a performance .	0
+lurched	1	4	When the motion stopped , four or five of the seven cars had lurched off the rails .	13
+actress	0	0	But when Brumfield , the director of a project empowering young girls , passed around a photograph of Lupita Nyong ` o , the dark-brown-skinned actress who sports an extra-short natural , the girls were silent for a moment .	25
+chills	0	0	Evans was thinking about how good she wanted to feel when she got back on it , how the success she tasted in her rookie season as a bobsled pusher still sent chills of excitement through her mind .	32
+north	0	0	Since then , however , infections have popped up as far north as Minnesota .	11
+residents	1	5	An increase in Asian and Hispanic immigration also will drive U.S. population growth , with foreign-born residents expected to make up 18 percent of the country 's projected 441 million people in 50 years , the Pew Research Center said in a report being released Monday .	16
+heaven	0	0	In Greco-Roman mythology Jupiter is the king of the gods , a deity who destroyed an older race of titans to become the jealous and vengeful lord of heaven and Earth .	28
+uncomfortable	1	4	Surveys show that uncomfortable seats and shrinking legroom have become the top gripes of travelers , surpassing ticket prices and security lines .	3
+psychological	1	6	`` The Afghan Interior Ministry orders all police forces to confiscate toy guns , which can lead to physical and psychological damage to people , '' the order read .	20
+measured	0	0	From an astronomical observatory on Chews Ridge in the Santa Lucia Mountains , the University of California , Davis atmospheric scientist has for the last three years measured ozone , the lung-damaging gas in smog , as it arrives to California .	27
+outbursts	1	9	`` There 's to be no outbursts upon the reading of the verdict or afterwards , '' Judge Debra S. Nelson warned the packed courtroom in Seminole County awaiting the verdict from the jury of six women who began deliberating on Friday and worked a 13-hour day Saturday .	6
+unusual	1	3	CHICAGO -- Chicago Mayor Rahm Emanuel took the oath of office to begin his second term Monday and took the unusual step of focusing his inaugural address on a single issue : The lack of opportunity facing the city 's disadvantaged youths .	20
+started	0	0	Miguel Castañeda started Tech Connect in 2009 , inspired by a similar program in San Francisco .	2
+five-time	0	0	## Liberation Day For the first time in 22 years -- since Briscoe was 14 years old -- the former Vice Lord gang member and five-time felon was free of any kind of state supervision .	25
+host	0	0	It 's been linked with violence , cyberbullying , school woes , obesity , lack of sleep and a host of other problems .	19
+classes	0	0	She found out about the incident with her son on Dec. 22 , the last day of classes before winter break , and her son later told her it was n't his first time in isolation .	17
+explain	0	0	It means being able to read the different tastes of buyers from Hong Kong versus those from mainland China , and to explain the nuances of Irvine versus Tustin to people who have never set foot in the United States .	22
+potentially	1	7	There are many similar designs for sale on the Internet , but Grayson 's products , which he currently makes himself at his home , hide some unique and potentially lifesaving items .	29
+tattoos	0	0	The pieces consist of animal bones , mostly skulls , into which Borders has engraved and inked complex designs of lines and dots that resemble traditional mehndi tattoos .	27
+judge	0	0	The judge ordered him to undergo a mental evaluation .	1
+drug	0	0	The sweeping , unanimous decision Tuesday by a three-judge panel of the 9th U.S. Circuit Court of Appeals overturned a mixed jury verdict in an antitrust case involving an AIDS drug .	30
+outcomes	1	4	Eating them is associated with all sorts of beneficial health outcomes .	10
+operator	1	4	The train operator was among the injured , Cuomo said .	2
+Moving	0	0	Moving like a woman half her age , she pounces on top of him , pinning his arms .	0
+flags	0	0	They also showed images of more than a dozen bodies lying under sheets and Egyptian flags .	15
+positive	0	0	Instead , he spoke of a `` new model of major country cooperation , '' saying U.S.-China relations must hinge on trust and a positive notion of each other 's motives .	24
+website	0	0	A sample letter on her group 's website argued that nurses should be part of every school 's safety plan .	7
+indications	1	8	All indications are that he will do just that .	1
+None	0	0	None of them were on medications , and none had consumed alcohol or caffeine in the 24 hours before each test .	0
+recorded	0	0	The chance encounter of a Norwegian research vessel with the largest waves ever recorded amid floating packs of Arctic ice shows how such rollers could reroute shipping , damage oil platforms and threaten coastal communities with erosion .	13
+shootings	0	0	The recall was the first in the 100 years since Colorado adopted the constitutional provision and grew out of sweeping measures passed last winter after mass shootings at a school in Newtown , Connecticut , and at a movie theater in Aurora , outside Denver .	26
+originally	0	0	The passage is , of course , the literary skeleton of what down-on-his-luck Samuel Clemens would transform into literary gold , a wildly improbable story originally called Jim Smiley and His Jumping Frog , '' which introduced much of the 19th-century world to Mark Twain .	25
+solved	0	0	CHICAGO -- Geologist Erin Argyilan has in the last 10 months studied sediment , analyzed wind patterns and mapped terrain , but she has n't solved the mystery of the holes that appear and vanish in the beige sands of Mount Baldy at Indiana Dunes National Lakeshore .	25
+industrial-strength	1	4	With their industrial-strength buck teeth and flat tails , beavers and their dams offer a defense against drought .	2
+exploration	1	5	The agency made space exploration history with the landing .	4
+murmurs	1	8	The murmurs from onlookers -- `` nice '' and `` wow '' -- swell after each dazzling play .	1
+expansion	1	8	NEW YORK -- As the Girl Scouts ' membership continues a sharp decline , its leaders are betting on technology to reverse the trend , including a major expansion of its year-old program enabling Girl Scout cookies to be sold via mobile apps and the girls ' personalized websites .	28
+mat	0	0	Dressed in a red uniform in a Lenexa , Kansas , martial arts studio , Helen Dugan puts an opponent 73 years her junior in a choke hold , then throws him to the mat .	34
+triage	1	8	Egyptian television showed chaotic scenes of bloodied , unconscious protesters lying in makeshift triage facilities .	13
+enter	0	0	The course is designed to simulate a disaster area too dangerous for humans to enter .	14
+various	1	3	The photos and footage showed various women driving on busy streets in the capital Riyadh .	5
+student	0	0	SAN JOSE , Calif. -- A popular and accomplished Los Altos High student received a parent 's text message at school last year , to come home to talk about her grades .	12
+scam	1	5	`` My mom thought it was a scam , '' said Michaeu , a 20-year-old freshman from Olympia , Washington .	7
+card	0	0	When she opened her credit card statement , she saw a slew of charges from Apple , totaling $ 600 in one day .	5
+younger	0	0	The acuity of mental illness among students has sharpened , they say , and it 's striking ever younger children , though many quietly bear the stress for years before snapping .	18
+city	0	0	It will also be a wink to his craft , the one he uses to capture this city , his `` beautiful ghetto , '' in powerful black-and-white photos that have made him a surprise media sensation .	17
+patient	0	0	NEW YORK -- City officials here had long worried that a patient infected with Ebola would eventually appear somewhere in this dense , bustling and chaotic city .	11
+clue	0	0	Now , at least , neuroscientists might have found a clue about why it is so hard to force that creative spark .	10
+syrup	0	0	Far from access to natural maple syrup , wild rice and game , the residents at Little Earth of United Tribes -- a south Minneapolis low-income housing complex -- are finding new old ways to grow crops that existed long before European settlers arrived .	6
+patrons	1	7	That leaves libraries as a crucial venue for their youngest patrons , but funding challenges , reduced hours on school nights and aging equipment have made it harder to meet the demand .	10
+disparity	0	0	That disparity has n't gone unnoticed .	1
+authoritarian	1	7	The vice president drew an implicit contrast between the authoritarian rule of China 's government and the liberal , permissive intellectual culture he described in the United States .	9
+limitations	1	5	In an address transmitted on Brazilian television and radio Friday night , Rousseff asked for understanding about `` the political and economic limitations '' the country is facing and beseeched Brazilians not `` to put at risk all that we 've achieved .	22
+order	0	0	`` The Afghan Interior Ministry orders all police forces to confiscate toy guns , which can lead to physical and psychological damage to people , '' the order read .	27
+organization	1	5	In 2014 , Oceana , an international conservation organization , published a two-year study of 1,215 seafood samples and 46 fish types from 674 retailers in 21 states .	8
+iconic	0	0	`` The goal is to create an evocative space , with a few iconic pieces , almost like religious relics . ''	13
+youth	0	0	But by focusing on the lack of opportunities in many of the city 's minority neighborhoods , and doing it through the lens of the city 's youth , Emanuel took on one of the top criticisms lobbed at him during the campaign : He 's a mayor who has perpetuated two Chicagos -- one for the wealthy and one for the rest .	27
+serve	0	0	Morse thanked his constituents for the chance to serve them and said `` the Democratic Party will continue to fight . ''	8
+monthlong	1	3	He kept playing in defiance of his family 's disapproval , with clandestine jam sessions his only outlet until the day he was selected for a monthlong U.S. cultural program that would allow him to perform in California , New Mexico and other states he 'd heard about only in movies .	26
+plesiosaur	1	6	They thought the bone was probably from a plesiosaur , which `` we have all over the Metroplex , '' SMU paleontologist Dale Winkler said .	8
+divisive	1	8	The recent killings of nine black parishioners in a South Carolina church sparked a broad backlash against the Confederate battle flag , to some a symbol of Southern heritage but to others a divisive sign of slavery and racism .	33
+emblazoned	1	8	SAN FRANCISCO -- A public elementary school decided in 2011 to require students to wear a uniform with the school 's motto , `` Tomorrow 's Leaders , '' emblazoned in small letters on the shirts around a gopher , the campus mascot .	29
+bears	0	0	NEW YORK -- It has been a big year for bears in the news , especially in Maine , where voters on Nov. 4 face a question that has bedeviled other bear-heavy states : how to keep the species ' population at bay in the face of pressure from animal rights groups lobbying to ban certain hunting methods .	10
+performances	1	4	The latest installment of the PBS series `` In Performance at the White House '' celebrated the history of American music with performances by Queen Latifah , Smokey Robinson , Usher , Trombone Shorty and Esperanza Spalding , among others .	22
+response	0	0	In response , authorities have banned toy guns .	1
+banker	0	0	It might mean not asking too many questions about how a million dollars is getting here , or prodding people accustomed to financial privacy to open their books to a mortgage banker .	31
+better	0	0	And as the number of `` buddy '' or `` inclusion companion '' sporting opportunities continues to proliferate across the country , advocates for children with special needs say young people today are growing up with a better understanding and openness toward people with disabilities than the generations before them .	37
+plummet	1	6	Would the number of our kids who carry an unhealthful amount of extra weight plummet ?	14
+northwest	0	0	In a paper published recently in the Canadian Journal of Archaeology , researchers examined artifacts recovered at Riparo Bombrini , in northwest Italy , and concluded that their dwelling was organized around such activities as butchering animals , shaping tools and building fires .	21
+accepts	0	0	It now accepts more than 11,000 different items .	2
+preseason	1	7	STATE COLLEGE , Pa. -- At St. Paul 's Episcopal School in Mobile , Alabama , the high school that produced Crimson Tide quarterbacks AJ McCarron and Jake Coker , there 's a new preseason ritual for football players : the social media talk .	34
+looks	0	0	The fire starter bracelet looks like many other woven bracelets being sold online to outdoor enthusiasts .	4
+large	0	0	In a March report in Geophysical Research Letters , scientists at the U.S. Naval Research Laboratory -LRB- NRL -RRB- describe how large waves can penetrate more deeply into ice cover and break it up faster and more completely than anyone had suspected .	21
+beat	0	0	`` Well , you know how kids in school say , ` My dad can beat up your dad ' ?	15
+detrimental	1	9	The NFL delivered that message in a resounding way Monday , suspending the New England Patriots star without pay for the first four games of next season for `` conduct detrimental to the integrity of the NFL . ''	30
+winds	0	0	In about a week , winds carry ozone formed by emissions from cars , factories and power plants in Asia to the U.S. West Coast , where it can add to locally generated pollution , worsening smog in cities such as Bakersfield , Fresno and Los Angeles .	5
+flying	0	0	In a brief appearance before reporters in which he took no questions , Biden did not go into details on differences over China 's newly declared restricted flying zone .	27
+entitled	0	0	Those who want the label contend that consumers are entitled to know whether their food contains GMOs so that they can make informed decisions about their purchase .	9
+foods	0	0	And yet , few foods are discarded so frequently .	4
+lifetime	0	0	Kajencki , who 's 41 and is known to his students as `` Capt. K , '' said one reason he chose to become a high school math teacher was a commitment he made after West Point to a lifetime of service .	39
+migration	1	5	An estimated 814,000 Ukrainians have entered Russia since the beginning of the year , according to the United Nations High Commissioner for Refugees , citing data from Russian migration authorities .	28
+marked	0	0	The overnight assault marked the expansion of the U.S.-led air campaign from Iraq to neighboring Syria , signaling a significant escalation in the conflict .	3
+estate	0	0	But a housing crash and a flood of Chinese money later , she 's part of a growing cottage industry of real estate agents , bankers and attorneys who specialize in helping wealthy foreigners buy a little patch of Southern California .	22
+snakebite	0	0	A new study on snakebite rates in Costa Rica has found that the bite rate shoots up during El Nino -- at both the hot and cold parts of the cycle -- and that the problem disproportionately affects poor , rural populations .	4
+director	0	0	`` Mother Nature is n't ready to give up the ice , '' said Mark Gill , director of vessel traffic for the Coast Guard .	17
+essence	1	9	`` It may be days or longer before an investigation reveals how this tragedy occurred , but the essence we already know in our hearts : fighting fires is dangerous work . ''	18
+representatives	1	5	That 's why there was cause for celebration a few weeks ago when , after a decade of hair-pulling discussions , national representatives at the United Nations finally agreed that the high seas need protection .	22
+revealing	0	0	Women are bound by strict rules when it comes to their attire , so they can not be seen by men while jogging in sweat pants , much less wearing fitted or revealing shorts .	32
+same-sex	0	0	The decision will also make it harder to justify laws that treat gays differently from others , including bans on same-sex marriage , lawyers said .	20
+microscopic	1	7	A massive bloom of microscopic algae -- which produced a natural toxin called domoic acid that is harmful to wildlife and fish -- in the Pacific Ocean is threatening the crab industry during a time when many fishing outfits make their most money .	4
+valued	1	3	That kind of power shopping has made the Chinese tourist the highest-spending overseas visitor to the U.S. and one of the most valued customers for U.S. outlet malls , shopping centers and tour bus operators .	22
+carvings	0	0	Since most modern humans will never get to see the masterpieces in what is widely known as the Chauvet Cave , scientists , artists and the French government have spent 56 million euros -LRB- about $ 60 million -RRB- and several years creating the next best thing : a near-exact replica of the cave about 2 kilometers -LRB- 1.2 miles -RRB- away , including more than 400 paintings of horses , bears , rhinoceros and mammoths , handprints and carvings .	79
+estimates	1	7	WASHINGTON -- In a major shift in immigration patterns over the next 50 years , Asians will have surged past Hispanics to become the largest group of immigrants heading to the United States , according to estimates in a new immigration study .	36
+panels	0	0	Soon it shot into the sky , soaring thousands of feet with a payload of sophisticated radio gear , processors and solar panels .	22
+multitude	1	7	They 're now embarking on a new series of tests in California 's Central Valley , aimed at working out the answers to a multitude of technical questions that must be resolved to make the project work .	24
+tragedy	1	4	`` It may be days or longer before an investigation reveals how this tragedy occurred , but the essence we already know in our hearts : fighting fires is dangerous work . ''	13
+birds	0	0	WASHINGTON -- Jackie Nussbaum knew her son liked playing DragonVale on the family iPad -- a colorful game with soothing music and chirping birds where kids raise adorable baby dragons .	23
+already-troubled	0	0	CAIRO -- Hundreds of thousands of protesters swelled through villages and cities Sunday , denouncing Egypt 's Islamist president and raising fears of a new revolution that could divide the nation , threaten its young democracy and unhinge its already-troubled economy .	39
+valuable	0	0	`` Children giving to children is really valuable , '' Oppenheimer said , praising Kyle 's ability not only to appeal to his peers but to motivate students in lower grades to be part of the project .	7
+lowest	0	0	The monitoring site , more than 5,000 feet above sea level on a pine-studded overlook above the lowest layer of the atmosphere , gives Faloona access to undisturbed air from across the Pacific before it is fouled by U.S. pollution sources .	17
+inches	0	0	NEW YORK -- A New York City commuter train rounding a riverside curve derailed Sunday , killing four people and injuring more than 60 in a crash that threw passengers from the toppling cars and left a snaking chain of twisted wreckage just inches from the water .	43
+unknown	0	0	BEIRUT , Lebanon -- U.S.-led airstrikes across a broad swath of northern Syria appear to have caused extensive damage to militant positions on the ground and left an unknown number of casualties , according to initial reports emerging Tuesday .	28
+player	0	0	Sterling is immediately barred from attending any NBA games or practices , be present at any Clippers office or facility , or participate in any business or player personnel decisions involving the team .	27
+chart	0	0	The group vets the man-made elements seeking a permanent spot on the chart that adorns chemistry classrooms around the world .	12
+understand	0	0	`` Schools that understand we can get students in the ag program know they 're going to be taxpaying citizens with good-paying jobs . ''	3
+opted	1	3	-LSB- -RSB- -LRB- https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140602_Europe_royals.jpg -RRB- MADRID -- Spain 's King Juan Carlos I told his compatriots Monday he had opted to abdicate to his son Felipe , arguing that `` a new generation demands , with justice , the leading role . ''	19
+tectonic	1	9	At Los Angeles Unified School District , the nation 's second largest , the shift has been tectonic .	17
+floor	1	6	Seattle , San Francisco and most recently Los Angeles have adopted a floor of $ 15 an hour to take effect over the next few years .	12
+hearing	0	0	Goodell kept the suspension intact after hearing Brady 's appeal , and revealed Tuesday the league had learned that Brady had directed that his cellphone be destroyed shortly before meeting with the NFL 's investigators in March .	6
+dogs	0	0	It remains the only state in the Lower 48 where hunters may use bait , traps and dogs to nab bears .	17
+careers	0	0	ST. LOUIS -- High school agriculture programs sprouting across the nation 's Corn Belt are teaching teenagers , many of them in urban environments , that careers in the field often have nothing to do with cows and plows .	26
+animal	0	0	NEW YORK -- It has been a big year for bears in the news , especially in Maine , where voters on Nov. 4 face a question that has bedeviled other bear-heavy states : how to keep the species ' population at bay in the face of pressure from animal rights groups lobbying to ban certain hunting methods .	49
+molecular	1	6	On this sun-blasted tract of sand 14 miles south of Baker , Calif. , molecular biologist and -LSB- entrepreneur -RSB- -LRB- https://www.newsela.com/?tag=entrepreneur -RRB- J. Craig Venter is field-testing a technology that he says will revolutionize the search for extraterrestrial life .	14
+object	0	0	As the largest , heaviest object orbiting our sun , Jupiter 's namesake world is the lord of planets , a dominant force in the solar system .	5
+addiction	1	8	China is known as the Smoking Dragon , but its addiction to tobacco is n't shared between the sexes .	10
+workforce	1	3	The chain of home-improvement stores employs 35,000 veterans , around 10 percent of its workforce , and has committed to hire about 55,000 vets over the next five years .	14
+sister	0	0	Disney Animation 's sister company , Pixar , has long been a trailblazer , producing the first feature-length computer-animated film , 1995 's `` Toy Story . ''	3
+agricultural	1	8	In a section titled `` Patterns of Immigration , '' a speech bubble pointing to the continent of Africa read : `` The Atlantic Slave Trade between the 1500s and 1800s brought millions of workers from Africa to the southern United States to work on agricultural plantations . ''	45
+fraud	1	3	For years , it appeared to many here that Jonathan 's People 's Democratic Party would rule Nigeria for the foreseeable future , thanks to a powerful patronage network and the use of electoral fraud .	34
+stolen	0	0	`` I thought it was a mistake , that someone had stolen my credit card , '' said Nussbaum , a mother of two children in Westerville , Ohio .	11
+diaper	0	0	According to a report published Monday in the journal Pediatrics , diaper need -- the inability to afford to keep a child in clean diapers -- affects a `` substantial '' number of low-income Americans , with nearly 30 percent of mothers questioned in New Haven , Conn. , reporting that they did not have enough for their children .	11
+monotonously	0	0	But if monotonously sunny weather continues to curse the state , the pain of water shortages will spread , albeit unevenly .	2
+whales	0	0	But unlike the other whales , the 25-foot-long young adult stuck near the surface -- and it did n't dive down to feast on the blooms of krill that attract humpbacks to the bay .	4
+stories	0	0	Maybe somebody put one of Mo Willems ' popular children 's stories in there .	11
+video	0	0	ANCHORAGE , Alaska -- Many middle school students in south-central Alaska spent spring break playing video games , skiing in what little snow has fallen or just enjoying a lazy week away from school .	15
+right-brained	0	0	There is a scientific belief that the cerebral cortex is the part of the brain that `` makes us human , '' and that the two hemispheres of the cortex differentiate the creative thinkers from the logical thinkers -LRB- the `` right-brained '' from the `` left-brained '' -RRB- .	41
+member	0	0	Knudtson said her son has had trouble controlling his behavior in the past and ended up in time out , suspension or in a `` buddy room '' alone with a school staff member until he could calm down .	33
+neighbors	0	0	But in their impoverished quarter of the city , neighbors shared their food .	9
+thrills	0	0	The reality thrills him -- and keeps him awake at night .	2
+gains	0	0	Maryland , the District of Columbia and Rhode Island saw the biggest gains , while reading levels declined in Alaska , Michigan , South Dakota and West Virginia .	12
+crusts	0	0	One would require all grain servings to be rich in whole grains -- or more than 50 percent whole-grain -- affecting such items as pastas , bread , rolls and pizza crusts .	31
+humanity	1	4	Humanity had slammed spacecraft into comets before , but it had never gently landed on one .	0
+dream	0	0	The Mighty Makers line from K'nex , for example , includes a construction set in which two small female dolls get to build their dream house from the ground up .	24
+unifying	1	6	There was early evidence that Ryan might be the unifying force most Republicans hoped he would be .	9
+postponed	1	9	In response to the protests , Brazilian President Dilma Rousseff postponed a trip she had planned to Japan and called an emergency meeting Friday morning in Brasilia .	10
+eradicate	1	9	The river is the site of the final battle in the long-running quest to eradicate the beaver-like rodents -LRB- `` nutria '' means `` otter '' in Spanish -RRB- that have destroyed thousands of acres of the state 's wetlands over the past 40 years .	14
+entice	1	6	The movie is being made in Louisiana largely because the state offers unlimited tax credits to entice film companies to shoot on location there .	16
+academia	1	6	The Special Operations Command began soliciting ideas for the suit this year from industry , academia and government labs , and has held two conferences where potential bidders , including Dowling 's company , Revision Military , demonstrated their products .	15
+effectively	1	4	The 1953 agreement , in which Greece and about 20 other countries effectively wrote off a large chunk of Germany 's loans and restructured the rest , is a landmark case that shows how effective debt relief can be .	12
+complain	0	0	The Nizards complain that Sacha has lost his bearings , and that their leisurely Tuesday evenings , when the family could go out to dinner or Sacha could watch TV without worrying about class the next morning , have been sabotaged .	2
+mandatory	1	6	New York and New Jersey announced mandatory quarantines for anyone traveling from three West African nations who has had direct contact with an Ebola patient , including health care workers .	6
+judiciary	1	8	The app is part of an ambitious effort by environmentalists to use data and social media to use the power of public opinion in a country that lacks other routes to social change , such as elections or an independent judiciary .	40
+reduce	1	4	ORLANDO , Fla. -- Theme parks are using technology to reduce waits , but not just for rides .	10
+improve	1	3	So , too , is a movement among Native Americans across the nation to improve their health by rediscovering ancestral foods and connections to lands once lost .	14
+venue	1	7	That leaves libraries as a crucial venue for their youngest patrons , but funding challenges , reduced hours on school nights and aging equipment have made it harder to meet the demand .	6
+physically	1	3	`` Sports is one way that kids can be physically active in an enjoyable way .	9
+hinge	1	4	Instead , he spoke of a `` new model of major country cooperation , '' saying U.S.-China relations must hinge on trust and a positive notion of each other 's motives .	19
+begun	0	0	That 's almost 2,000 years before prehistoric Europeans started work on Stonehenge , and about 1,500 years earlier than the art of mummification in Egypt was believed to have begun .	29
+civil	0	0	Afghans have grown familiar with firearms over long decades of war , from the 1979 Soviet invasion and the resulting insurgency to the civil war and the rise of the Taliban in the 1990s .	23
+Yawning	0	0	Yawning in response to another yawn is n't an emotional reaction per se , but the tendency for yawns to be contagious has been `` clinically , psychologically , neurobiologically and behaviorally linked to our capacity for empathy , '' according to the Japanese researchers who conducted the study .	0
+brother	0	0	Three weeks after receiving a kidney transplant from his brother , a former Ravens ' player , Chris Kemoeatu has heard all of the wisecracks .	9
+suit	0	0	Now employed by a small defense company , he is part of a crash effort by U.S. Special Operations Command to produce a radically new protective suit for elite soldiers to wear into battle -- one with bionic limbs , head-to-toe armor , a built-in power supply and live data feeds projected on a see-through display inside the helmet .	26
+sentenced	1	4	It was widely reported all 10 had been convicted by an anti-terrorist court in Malala 's native Swat and sentenced to life imprisonment or 25 years .	19
+prices	0	0	Surveys show that uncomfortable seats and shrinking legroom have become the top gripes of travelers , surpassing ticket prices and security lines .	18
+thanked	0	0	Morse thanked his constituents for the chance to serve them and said `` the Democratic Party will continue to fight . ''	1
+truth	0	0	That universal truth is something that children seem to understand almost intuitively at a young age , but the path through which they develop a sense of what 's fair and what is n't -- and how they act on injustices -- is something that has been a puzzle for social scientists .	2
+disappearance	1	3	`` The appearance of at least some wreckage takes it out of the realm of ` vanished without a trace , cue the music , ' with ` OK , sure , it did go down in the ocean , ' '' said Ric Gillespie , a former U.S. aviation accident investigator who wrote a book about Earhart 's still-unsolved 1937 disappearance over the Pacific Ocean .	61
+sizable	1	5	The coalition fighting against labeling has also included large grocery chains and some farmers , and some of the labeling advocates are sizable companies in their own right .	22
+Limit	0	0	CHICAGO -- Doctors 2 parents : Limit kids ' tweeting , texting &amp; keep smartphones , laptops out of bedrooms .	6
+regularly	1	3	There are regularly more than 100 high school students in the Cutler-Orosi Joint Unified School District who apply for 30 slots in his yearlong Tech Connect class .	2
+strict	0	0	Women are bound by strict rules when it comes to their attire , so they can not be seen by men while jogging in sweat pants , much less wearing fitted or revealing shorts .	4
+bathroom	0	0	With the bathroom formalities out of the way , Evans , 25 , went into the gym to begin a workout with her EFT trainer , Jacob Ross .	2
+hot-shot	1	3	He says he 's aced a course called `` Machine Learning '' by hot-shot Stanford professor Andrew Ng , scoring a perfect 100 .	13
+gaming	0	0	The gaming industry has exploded in recent years , with streaming sites such as Twitch and YouTube creating celebrities out of the best players and launching careers for people who are expert at talking about the games .	1
+elephants	0	0	WASHINGTON -- The United States is cracking down on the sale and purchase of ivory in hopes of curbing a surge in illicit poaching that 's threatening to wipe out elephants and other species in Africa .	30
+assignment	1	8	`` We do n't have any Internet at home , '' Morua said as her oldest , 11-year-old Abel , clicked through an assignment on a library laptop while Alina , 9 , waited for her turn at a desktop .	23
+success	0	0	Despite such fast-dollar success , heavy reliance on a single industry known for its dramatic downturns could one day help paint the state into a precarious financial corner , they say .	3
+dazzling	1	5	The murmurs from onlookers -- `` nice '' and `` wow '' -- swell after each dazzling play .	16
+reflected	1	3	WASHINGTON -- The American public is unusually pessimistic about the direction of the country and increasingly fed up with Washington gridlock , a sour mood reflected in the worst disapproval ratings for President Barack Obama since he took office nearly five years ago .	25
+enthusiasts	1	9	The fire starter bracelet looks like many other woven bracelets being sold online to outdoor enthusiasts .	15
+out-of-competition	1	5	That showed just how far Evans had traveled in a year , because only top-ranked athletes in Olympic sports are in the pool for unannounced , out-of-competition controls .	26
+clean	0	0	The ball was a mere 5 feet from the hole , but when Chey Castro raised his putter for what should have been a clean shot , his hand spasmed and he missed the putt that would have won him $ 180 at the tournament .	24
+speech	0	0	The awkward kickoff for a series of official meetings in Beijing followed Biden 's speech earlier Wednesday urging young Chinese citizens to challenge orthodoxy and the status quo .	14
+dating	0	0	The otolith collection , dating to the 1960s , had been sitting in an old Sand Point hangar belonging to the National Oceanic and Atmospheric Administration -LRB- NOAA -RRB- .	4
+Guest	0	0	Disney World recently started allowing online preordering for its Be Our Guest restaurant , and this month it tested smartphone ordering at the Backlot Express restaurant and during the Fantasmic !	11
+authorities	1	4	In response , authorities have banned toy guns .	3
+locations	0	0	After firing 87 volleys of tear gas at protesters at nine locations on Sunday evening , police backed away from engaging as directly with the demonstrators during the daytime on Monday .	11
+collected	0	0	A youth movement , known as Rebel , has collected more than 22 million signatures on petitions calling for Morsi to step aside for early elections .	9
+requiring	1	3	Other cities , including Des Moines , Iowa ; Montville , New Jersey ; Lincoln , Nebraska ; and Columbia City , Indiana , have taken less drastic measures , banning sledding only on the most dangerous hills , requiring helmets , outlawing jumping ramps and thin sledding sheets or posting sternly worded warning signs that inform thrill seekers that they are sledding at their own risk .	39
+creative	0	0	There is a scientific belief that the cerebral cortex is the part of the brain that `` makes us human , '' and that the two hemispheres of the cortex differentiate the creative thinkers from the logical thinkers -LRB- the `` right-brained '' from the `` left-brained '' -RRB- .	32
+sci-fi	0	0	They are sitting on ergonomic swivel chairs in front of computer screens and tapping away at keyboards and mouses as they try to kill rival factions on the military sci-fi strategy game StarCraft .	29
+extremists	1	7	The couple , who fled Iraq 's second-largest city of Mosul after it was captured by Sunni extremists earlier this month , has always been poor .	17
+blind	0	0	An editorial in the state media China Daily charged , however , that Washington `` is turning a blind eye to Tokyo 's provocations , '' calling that the `` root cause of the tensions . ''	18
+remnants	1	7	The new evidence , published in the journal PLOS One , comes from funerary textile remnants collected from two of the earliest known Egyptian cemeteries that date to 4500 B.C. .	15
+support	0	0	The chants echoed against distant cheers of support from Islamists who held rival rallies in what has become a dangerously polarized nation .	7
+tests	0	0	They 're now embarking on a new series of tests in California 's Central Valley , aimed at working out the answers to a multitude of technical questions that must be resolved to make the project work .	9
+minor	0	0	The decline comes on the heels of a nationwide push to roll back zero tolerance policies instituted after the deadly Columbine High School shootings that emphasize harsh discipline for even minor misbehavior in favor of support-focused alternatives .	30
+infestation	1	7	And since the stubby-legged louse does not fly or jump and needs close bodily contact to spread , it seemed reasonable that students under care for the infestation could remain in class without risk to others .	27
+happy	0	0	`` I feel so happy , '' Bailey 's daughter , Taniya , said after they stopped moving .	4
+portrait	1	6	Marching alongside the protesters , Allen snapped portrait after portrait that offered a view from the front lines in the days after Gray 's death .	7
+McClatchy-Marist	0	0	People give elected officials unusually low grades -- 31 percent rated them `` D '' and 38 percent gave them an `` F , '' according to a new McClatchy-Marist poll .	29
+deliberating	1	8	`` There 's to be no outbursts upon the reading of the verdict or afterwards , '' Judge Debra S. Nelson warned the packed courtroom in Seminole County awaiting the verdict from the jury of six women who began deliberating on Friday and worked a 13-hour day Saturday .	39
+engaged	0	0	Twice as many Latinos will be eligible to vote next year as in 2000 , but Latinos tend to turn out at lower rates than other groups , in part because many young Latinos are n't engaged in politics .	36
+street	0	0	WASHINGTON -- They walk in front of cars , and into tree limbs and street signs .	14
+precarious	1	5	Despite such fast-dollar success , heavy reliance on a single industry known for its dramatic downturns could one day help paint the state into a precarious financial corner , they say .	25
+two-thirds	0	0	Their results show that in the 20th century humans reduced the biomass of predatory fish by more than two-thirds and that most of this alarming decline has occurred since the 1970s .	18
+restructured	1	7	The 1953 agreement , in which Greece and about 20 other countries effectively wrote off a large chunk of Germany 's loans and restructured the rest , is a landmark case that shows how effective debt relief can be .	23
+branches	0	0	Vultures are overshadowed by threatened `` sexy , charismatic species '' like the lion , rhinoceros and elephant , said Masumi Gudka , Kenya-based vulture conservation manager for BirdLife International , a group with branches in 120 countries .	34
+tapping	0	0	They are sitting on ergonomic swivel chairs in front of computer screens and tapping away at keyboards and mouses as they try to kill rival factions on the military sci-fi strategy game StarCraft .	13
+ground	0	0	The Mighty Makers line from K'nex , for example , includes a construction set in which two small female dolls get to build their dream house from the ground up .	28
+drastic	1	9	Other cities , including Des Moines , Iowa ; Montville , New Jersey ; Lincoln , Nebraska ; and Columbia City , Indiana , have taken less drastic measures , banning sledding only on the most dangerous hills , requiring helmets , outlawing jumping ramps and thin sledding sheets or posting sternly worded warning signs that inform thrill seekers that they are sledding at their own risk .	27
+Lord	0	0	## Liberation Day For the first time in 22 years -- since Briscoe was 14 years old -- the former Vice Lord gang member and five-time felon was free of any kind of state supervision .	21
+Industry	0	0	The I am Elemental line of female action figures features a character named Industry who can `` repair anything that is broken . ''	13
+stiffen	1	5	COLORADO SPRINGS , Colo. -- In an unprecedented backlash , two state lawmakers who helped stiffen Colorado 's gun laws were ousted Tuesday in a recall that turned into a nationally watched referendum on gun control .	15
+ran	0	0	His mother ran out with a box of baking soda .	2
+sad	0	0	The sad part is , if you do n't have a computer , you ca n't do your homework . ''	1
+commissioners	1	7	WASHINGTON -- Parents in Charlotte , North Carolina , celebrated this month when their county commissioners approved a budget that includes $ 1.8 million to make sure every public school has a full-time nurse .	15
+rulings	0	0	Both cases were decided by 5-4 rulings , though different justices formed the majority in each decisions .	6
+shipping	0	0	The chance encounter of a Norwegian research vessel with the largest waves ever recorded amid floating packs of Arctic ice shows how such rollers could reroute shipping , damage oil platforms and threaten coastal communities with erosion .	26
+joy	0	0	`` He gets a little joy out of the attention , but it 's not worth it . ''	5
+populated	1	3	And they once populated most of California until fur traders nearly wiped them out in the 19th century .	3
+scoring	0	0	He says he 's aced a course called `` Machine Learning '' by hot-shot Stanford professor Andrew Ng , scoring a perfect 100 .	19
+immediately	1	4	Sterling is immediately barred from attending any NBA games or practices , be present at any Clippers office or facility , or participate in any business or player personnel decisions involving the team .	2
+dockets	1	6	WASHINGTON -- Florida immigration courts , swamped by a growing stream of unaccompanied children who illegally crossed the Southwestern border , are creating `` rocket dockets '' to quickly decide whether they should be sent back to their turbulent homelands .	25
+counterparts	1	9	Instead , French children -- who , like their parents , already enjoy longer lunch breaks and summer vacations than their counterparts in many other countries -- have to show up for class Monday through Friday .	21
+equality	1	7	Fairness , a willingness to sacrifice for the sake of greater equality , is an ideal that supports cooperation , resource sharing and sacrifice .	11
+ascendance	1	9	Copeland , 32 , has become one of America 's most famous female athletes , revered for her unlikely ascendance in an arts world notorious for showcasing only lithe white ballerinas .	19
+rats	0	0	NEW YORK -- To many in New York City , the rats are winning .	11
+crabs	0	0	California delayed the Nov. 15 start of its commercial crab season after finding dangerous levels of a toxin in crabs .	19
+brought	0	0	Skeen brought her hand to her mouth .	1
+waves	0	0	The chance encounter of a Norwegian research vessel with the largest waves ever recorded amid floating packs of Arctic ice shows how such rollers could reroute shipping , damage oil platforms and threaten coastal communities with erosion .	11
+biohazard	1	7	The afflicted physician , Craig Allen Spencer , was whisked into isolation , his fiancee and friends were clamped into quarantine , and his apartment was sealed and decontaminated by a biohazard crew .	31
+engineering	1	5	The curriculums , taking hold as school budgets tighten and the numbers of farms in the United States decline , are rich in science and touted as stepping stones for college-bound students considering careers in everything from urban forestry to renewable natural resources and genetic engineering of crops , perhaps for giant agribusiness companies such as Monsanto , Dow , DuPont and Pioneer .	45
+candy	0	0	`` There was this big , giant tub of chocolate in the factory '' that was used in Milka candy bars , Prochnik said .	19
+surprising	1	4	Researchers at Stanford University recently set out to explore the neural basis of creativity and came up with surprising findings .	18
+fairness	0	0	As the gap between the world 's top 1 percent and the rest has increased to historic highs in recent years , fairness in material payoffs or inequality has become one of the most important issues of our time .	22
+microbe	1	6	Despite rising concerns about food safety and authenticity , contamination rates by salmonella , campylobacter , Escherichia coli and other common pathogens have not fallen or are actually on the increase , depending on the microbe , according to a 2013 report from the U.S. Centers for Disease Control and Prevention -LRB- CDC -RRB- .	35
+Minister	0	0	His message to the nation was broadcast 2 1/2 hours after Spanish Prime Minister Mariano Rajoy announced the king 's decision to step out . ''	12
+salvo	1	4	It 's the latest salvo in a technological arms race among animation houses .	4
+accumulating	1	8	`` Over the last several days , we 've seen recent and accumulating reports raising questions about the performance of the agency , and the president concluded that new leadership of that agency was required , '' said Josh Earnest , the White House spokesman .	12
+views	0	0	`` We stand together in condemning Mr. Sterling 's views , '' Silver said .	9
+casualties	1	6	And like the real war , there have been casualties .	9
+active	0	0	Although NOAA scientists had been doing active research on the collection , the thousands of flammable Styrofoam boxes -- piled 20 feet high and filled with ethanol for preservation -- were a huge fire hazard .	6
+middle	0	0	ANCHORAGE , Alaska -- Many middle school students in south-central Alaska spent spring break playing video games , skiing in what little snow has fallen or just enjoying a lazy week away from school .	5
+knitting	1	4	The passenger in front of her wanted to relax with some knitting .	11
+budget	0	0	`` The airlines have been so focused on the bottom line that they do n't realize you ca n't balance your budget on the back of passengers , '' said Alex Gerwer , a frequent business traveler from Long Beach , California .	21
+mournful	1	8	WASHINGTON -- Whether belting out lyrics to Al Green 's `` Let 's Stay Together , '' leading a mournful congregation through `` Amazing Grace , '' or tweeting his Spotify music playlist that includes Stevie Wonder and Nina Simone , President Barack Obama has shown that he 's a pretty soulful guy .	19
+straightforward	1	4	`` The science is very powerful and straightforward , '' said Stephen Buckley , a chemical archaeologist at the University of York in England .	7
+inexplicable	1	8	Castro is among those experienced golfers plagued by an inexplicable phenomenon known as the yips .	9
+eastern	0	0	WASHINGTON -- Army Capt. Brian Dowling was leading his Special Forces team through a steep mountain pass in eastern Afghanistan when insurgents ambushed his patrol , leaving two of his soldiers pinned down with life-threatening wounds .	18
+imprint	1	7	The president 's address to lawmakers and a prime-time television audience was meant to both shape his legacy and put his imprint squarely on the race to succeed him .	21
+scrambled	1	5	Shouting men scrambled Sunday to reach pots of rice , meat and chicken stew in this dusty , hot encampment some 60 miles -LRB- 100 kilometers -RRB- from the northern city of Irbil , the capital of Iraq 's self-ruled Kurdish region .	2
+responders	1	3	As an added challenge , DARPA will deliberately degrade communication links between robots and operators for each team as it competes in order to create a scenario closer to the one responders experienced in Fukushima .	31
+fast	0	0	Even as the children 's `` Bring Rodrigo Home '' campaign built momentum , it became clear that things would not move fast .	22
+question	0	0	NEW YORK -- It has been a big year for bears in the news , especially in Maine , where voters on Nov. 4 face a question that has bedeviled other bear-heavy states : how to keep the species ' population at bay in the face of pressure from animal rights groups lobbying to ban certain hunting methods .	26
+Voters	0	0	Voters in two Western states are caught in fierce battles over whether consumers will know what is deep inside their food .	0
+economic	1	5	About a million people took to the streets of 100 Brazilian cities as their protests against corruption and social and economic injustice saw their first two deaths .	20
+soil	0	0	Their gnawing and nesting promotes richer soil and slows down water , improving imperiled fish habitat .	6
+two-stage	0	0	One female activist , speaking on condition of anonymity , said the publication of the video clips and photographs was the first part of a two-stage campaign designed to change attitudes .	25
+steep	0	0	In Paxton , Illinois , park officials even removed a steep sledding mound .	10
+wizened	1	7	The veterans ' hands , which once wrested France from Nazi occupation , saluted wizened faces .	14
+screaming	0	0	The resulting screaming match caused an unscheduled landing in Jacksonville , Florida , the third diversion in nine days caused by passenger fights over shrinking legroom .	2
+wand	0	0	The stamps display images from some of the eight wildly popular films , including Harry reading his acceptance letter to Hogwarts , the school for young witches and wizards , and firing his wand in battle .	33
+Bear	0	0	The Humane Society supports the coalition backing the initiative , which is led by a group called Mainers for Fair Bear Hunting .	20
+marks	0	0	On the chain-link fence that surrounds the courts , spray paint marks the goals .	11
+part	0	0	But now , thanks in part to Nyong ` o , it 's the TWA , or teenie weenie Afro , that 's getting a second look and expanding notions of beauty into territory where it really has n't taken root before -- the larger culture .	5
+Elements	0	0	Elements of this size are not routinely found in nature , and it can take years to make them in specialized laboratories .	0
+bedrooms	0	0	It expands the academy 's longstanding recommendations on banning televisions from children 's and teens ' bedrooms and limiting entertainment screen time to no more than two hours daily .	16
+vintners	1	8	Many are small farmers and vintners who either lack irrigated water or believe that dry farming produces better-tasting fruits and vegetables .	5
+irrigated	1	9	Many are small farmers and vintners who either lack irrigated water or believe that dry farming produces better-tasting fruits and vegetables .	9
+drive-thru	0	0	Imagine for a moment that all of the nation 's fast-food establishments -- all the striped awnings and golden arches , the drive-thru windows , the beckoning dollar deals and wafting odor of french fries -- were to vanish overnight .	22
+joined	0	0	&lt;img class="pull-right" src="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/AP597881584453_1.jpg" /&gt; MINNEAPOLIS -- Another group of former NHL players has joined the fight for compensation for head injuries they say they incurred while playing , while at the same time targeting the violence of the game that they believe brought about those injuries .	10
+cheers	0	0	The chants echoed against distant cheers of support from Islamists who held rival rallies in what has become a dangerously polarized nation .	5
+traders	0	0	And they once populated most of California until fur traders nearly wiped them out in the 19th century .	9
+nutritionist	1	8	KANSAS CITY , Mo. -- Hickman Mills school nutritionist Leah Schmidt has always loved solving that puzzle of serving up healthy meals that nose-wrinkling children actually will eat .	8
+handcrafted	1	9	Little Free Libraries are handcrafted structures full of books for children and adults , a free-books movement that has spread not only around Illinois but onto lawns around the world .	4
+born	0	0	LOS ANGELES -- There have been days since her son Ezekiel was born 11 months ago that Los Angeles mom Beth Capper has gone without food to keep up her supply .	12
+galleries	1	4	Years later , Borders still is collecting bones and curiosities , only now they are his canvas for intricate designs and hang in galleries where they sell for hundreds and thousands of dollars each .	23
+inform	1	4	Other cities , including Des Moines , Iowa ; Montville , New Jersey ; Lincoln , Nebraska ; and Columbia City , Indiana , have taken less drastic measures , banning sledding only on the most dangerous hills , requiring helmets , outlawing jumping ramps and thin sledding sheets or posting sternly worded warning signs that inform thrill seekers that they are sledding at their own risk .	56
+sustained	1	7	They are distracted walkers who , while calling or texting on mobile phones , have suffered cuts and bruises , sustained serious head injuries or even been killed .	20
+decisively	1	6	Only two of the 10 men tried were convicted , but the officials chose not to clear up confusion caused by inaccurate media reporting in April -- probably to gain political mileage for acting decisively against Malala 's attackers .	34
+shoulders	0	0	KABUL , Afghanistan -- The weapons of Afghanistan 's long decades of war can be seen almost everywhere , from the burned-out hulks of Soviet tanks to the Kalashnikov assault rifles slung over policemen 's shoulders and helicopter gunships roaring overhead .	35
+snacks	0	0	CHICAGO -- There 's only one thing that comes between the grade school kids hopping off the afternoon bus near Eve Pulver-Johnson 's Aurora , Ill. , house and their after-school snacks -- the Little Free Library on her family 's front lawn .	31
+club	0	0	That led to the creation of Jiddah United in 2006 , the first sports club in Saudi Arabia to include women .	14
+tongue-dragging	1	7	-LSB- -RSB- -LRB- https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/AP93848837894.jpg -RRB- It was a steamy August morning , one of those tongue-dragging days when you ca n't stop imagining how good a mouthful of ice would feel .	15
+chances	0	0	Five years after U.S. investment bank Lehman Brothers collapsed , triggering a global financial crisis and shattering confidence worldwide , families in countries as varied as the United States , Japan , the United Kingdom and Germany remain hunkered down , too spooked and distrustful to take chances with their money .	47
+perceive	1	5	It is part of what Iraqi officials describe as a new `` brain drain '' as young graduates seize what they perceive as a rare opportunity to leave a country wracked by violence .	21
+mature	0	0	-LRB- Felipe -RRB- is mature , well-prepared and has the sense of responsibility necessary to become head of state and launch a new stage of hope , '' Juan Carlos said .	4
+planets	0	0	As the largest , heaviest object orbiting our sun , Jupiter 's namesake world is the lord of planets , a dominant force in the solar system .	18

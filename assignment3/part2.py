@@ -101,7 +101,7 @@ if __name__ == "__main__":
     train_file = "data/complex_words_training.txt"
     test_file = "data/complex_words_test.txt"
 
-    train_data = load_file(training_file)
+    train_data = load_file(train_file)
     test_file = load_file(test_file)
 
     # should take around 20 seconds due to size
