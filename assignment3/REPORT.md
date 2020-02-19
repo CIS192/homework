@@ -1,5 +1,5 @@
 # Report
-> [Names and Pennkeys]
+> [Name and PennKey for each member]
 
 ## Baseline Models
 
