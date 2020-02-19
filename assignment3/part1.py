@@ -2,19 +2,6 @@
     Do not distribute. Collaboration is NOT permitted.
 """
 
-'''
-Problem 0. Installing Packages
-Make sure you install the necessary pip packages for this assignment and the code below runs properly. 
-Feel free to add in your own imports here.
-'''
-
-import nltk
-import string
-from collections import Counter
-from nltk.corpus import inaugural
-from nltk.corpus import stopwords
-from nltk.stem.snowball import SnowballStemmer
-from nltk.tokenize import RegexpTokenizer
 
 '''
 # Problem 1. Text Analysis
@@ -48,6 +35,22 @@ Feel free to look things up on the NLTK documentation: https://www.nltk.org/.
 '''
 
 
+'''
+Installing Packages
+Make sure you install the necessary pip packages for this assignment and the code below runs properly. 
+Feel free to add in your own imports here.
+'''
+
+
+
+
+import nltk
+import string
+from collections import Counter
+from nltk.corpus import inaugural
+from nltk.corpus import stopwords
+from nltk.stem.snowball import SnowballStemmer
+from nltk.tokenize import RegexpTokenizer
 def get_tokens():
     ''' Returns a list of lowercase strings representing the tokens for input str `text`. 
     The regex automatically removes punctuation for you.
@@ -131,5 +134,3 @@ def compute_tfidf(document_tf, idfs):
     What do you notice about words with low or 0 tf-idf scores in both documents?
     '''
     pass
-
-# 3 feedback Strings
