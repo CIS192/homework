@@ -87,11 +87,13 @@ def word_frequency_threshold(train_file, test_file, counts):
 
 def naive_bayes(train_file, test_file, counts):
     # TODO: train a Naive Bayes classification model
+    
     return training_performance, test_performance
 
 
 def logistic_regression(train_file, test_file, counts):
     # TODO: train a Logistic Regression classification model
+
     return training_performance, test_performance
 
 
