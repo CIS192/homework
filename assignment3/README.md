@@ -1,8 +1,8 @@
 # Homework 2: Natural Language Processing
-
 In our third assignment, we will be exploring the field of computational linguistics, otherwise known as **Natural Language Processing**. The goal of this assignment is to have you become familiar with working with reading/writing to files, and working with third party packages. We'll explore these Python ideas through the lens of Data Science and Machine Learning.
 
 ## Part 1: NLP Basics
+For the first part of the homework you will be implementing a couple of basic NLP tasks, including raw text analysis with CSV, text tokenizing, and word importance with a score called TF-IDF. The data file `raven.txt` is located in the `data folder`, so make sure to unzip it! The other files will be used for Part 2.
 
 ## Part 2: Classification with Sci-Kit Learn
 > Adapted from CIS 530 - Computational Linguistics
