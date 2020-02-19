@@ -1,7 +1,3 @@
----
-path: "/assignments/3"
----
-
 # Homework 2: Natural Language Processing
 
 In our third assignment, we will be exploring the field of computational linguistics, otherwise known as **Natural Language Processing**. The goal of this assignment is to have you become familiar with working with reading/writing to files, and working with third party packages. We'll explore these Python ideas through the lens of Data Science and Machine Learning.
