@@ -1,18 +1,16 @@
-""" CIS 192 Python Programming 
+"""
+    CIS 192 Python Programming
     Do not distribute. Collaboration is permitted with one person.
 """
 
 from collections import defaultdict
 import gzip
 
-'''
-# 0. Data
-We have provided the function below that takes in the file name `data_file` of one of the datasets 
-and returns the words and labels of that dataset.
 
-The second provided helper function loads Google N-Gram counts from our provided file `ngram_counts.txt` as 
-a dictionary of word frequencies.
-'''
+"""
+    Section 0: Data
+"""
+
 
 def load_file(data_file):
     words = []
@@ -27,6 +25,7 @@ def load_file(data_file):
             i += 1
     return words, labels
 
+
 def load_ngram_counts(ngram_counts_file):
     counts = defaultdict(int)
     with gzip.open(ngram_counts_file, 'rt') as f:
@@ -36,114 +35,83 @@ def load_ngram_counts(ngram_counts_file):
                 counts[token] = int(count)
     return counts
 
-'''
-# 1. Evaluation Metrics
 
-Input: 
-predictions (a list of length n with the predicted labels),
-labels (a list of length n with the true labels)
-'''
+"""
+    Section 1: Evaluation Metrics
+"""
+
 
 def get_accuracy(predictions, labels):
-    # Write your code to calculate accuracy of the predicted labels
+    # TODO: write your code to calculate the accuracy of the predicted labels,
+    # according to the true labels that are provided.
     pass
 
 
-'''
-# 2. Baseline Models
+"""
+    Section 2: Baseline Models
+"""
 
-In the following functions, you will implement 3 baseline models. The first 
-classifies ALL words as complex (think back to the coin-flipping example from class). 
-The second uses word length thresholding: if a word is longer than the given threshold, 
-we consider to be complex, and vice versa. The third baseline is similar to the second,
-but we will use frequencies from the Google N-Gram counts dataset as the metric
-to threshold against.
-'''
 
-'''
-# 2.1 All Complex
-'''
-
-def all_complex(data_file):
-    # Write your code here to return the accuracy performance score of the all_complex baseline model 
+def all_complex(test_file):
+    # TODO: write your code here to return the accuracy performance score
+    # of the baseline model that classifies each instance as being complex.
     pass
 
 
-'''
-# 2.2 Length threshold
-'''
+def word_length_threshold(train_file, test_file):
+    # TODO: write your code here to classify words based on their length
+    # and a given threshold. e.g. if the threshold is 9, any words with
+    # less than 9 characters will be labeled simple, and any words with 9
+    #  characters or more will be labeled complex.
 
-def word_length_threshold(training_file, test_file):
+    
+def word_length_threshold(train_file, test_file):
     # Write your code here to classify words based on their length and a given threshold.
     # e.g. if the threshold is 9, any words with less than 9 characters will be labeled simple,
     # and any words with 9 characters or more will be labeled complex.
     
-    # Write your code to return the training and test accuracy score. Your code should find
-    # the best length threshold by accuracy, and uses this threshold to classify the training and test set
+    # Write your code to return the training and testing accuracy score. Your
+    # code should find the best length threshold by accuracy, and uses this
+    # threshold to classify the training and test set.
 
     return training_performance, test_performance
 
 
-'''
-# 2.3 Frequency threshold
-
-'''
-
-def word_frequency_threshold(training_file, test_file, counts):
-    # Write your code to return the training and test accuracy score. Your code should find
-    # the best frequency threshold by accuracy, and uses this threshold to classify the
-    # training and test set
+def word_frequency_threshold(train_file, test_file, counts):
+    # TODO: write your code to return the training and development
+    # accuracy score. Your code should find the best frequency threshold by
+    # accuracy, and uses this threshold to classify the training
+    # and testing set.
 
     return training_performance, test_performance
 
 
-'''
-# 3 Naive Bayes and Logistic Regression
-For our first actual machine learning classifier, use the built-in Naive Bayes model from sklearn to train 
-a classifier. Refer to the sklearn documentation: 
-https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.GaussianNB.html
+"""
+    Section 3: Machine Learning Models
+"""
 
-Some important notes:
--- Make sure you use these imports: `from sklearn.naive_bayes import GaussianNB`
-    and `from sklearn.linear_model import LogisticRegression`
--- To train a classifier, you need two numpy arrays:
-    1. X_train: (m x n), where m is the number of words and n is the nubmer of features for each word
-    2. Y: (m x 1) for the labels of each of the m words
--- Since sklearn classifiers take in numpy arrays, always wrap your lists in a `np.array`: `X = np.array([1, 2, 3, 4, 5])`
-'''
 
-# Trains a Naive Bayes classifier using length and frequency features
-
-def naive_bayes(training_file, test_file, counts):
+def naive_bayes(train_file, test_file, counts):
     # TODO: train a Naive Bayes classification model
-    # using word length and word frequency as features
-
+    
     return training_performance, test_performance
 
-# Trains a Logistic Regression classifier using length and frequency features
 
-def logistic_regression(training_file, test_file, counts):
+def logistic_regression(train_file, test_file, counts):
     # TODO: train a Logistic Regression classification model
 
     return training_performance, test_performance
 
 
-'''
-# 4 Comparing Naive Bayes and Logistic Regression
-Write a few comments here comparing the performace of your Naive Bayes classifier and your 
-Logistic Regression classifier. Also include the performance of your 3 baseline models.
-Additionally, write code below to print out the testing performance for all 5 models.
-'''
-
 if __name__ == "__main__":
-    training_file = "data/complex_words_training.txt"
+    train_file = "data/complex_words_training.txt"
     test_file = "data/complex_words_test.txt"
 
     train_data = load_file(training_file)
+    test_file = load_file(test_file)
 
     # should take around 20 seconds due to size
     ngram_counts_file = "data/ngram_counts.txt.gz"
     counts = load_ngram_counts(ngram_counts_file)
 
-    # TODO:
-    # write your code for Part 4 here
+    # TODO: your testing code here
