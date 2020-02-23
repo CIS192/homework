@@ -1,5 +1,5 @@
 """ CIS 192 Python Programming 
-    Do not distribute. Collaboration is NOT permitted.
+    Do not distribute. 
 """
 
 
