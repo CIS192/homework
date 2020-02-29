@@ -125,8 +125,8 @@ def compute_tfidf(document_tf, idfs):
     document1 = 'hello world'
     document2 = 'hello cis192'
     bow = get_bow(document1, document2)
-    d1 = compute_tf(document1, bow)
-    d2 = compute_tf(document2, bow)
+    d1 = get_word_count(document1, bow)
+    d2 = get_word_count(document2, bow)
     print(compute_tfidf(compute_tf(d1, bow), compute_idf([d1, d2])))
     # should print {'cis192': 0.0, 'hello': 0.0, 'world': 0.34657359027997264} 
     print(compute_tfidf(compute_tf(d2, bow), compute_idf([d1, d2])))
