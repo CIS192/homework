@@ -51,18 +51,19 @@ from nltk.corpus import inaugural
 from nltk.corpus import stopwords
 from nltk.stem.snowball import SnowballStemmer
 from nltk.tokenize import RegexpTokenizer
-def get_tokens():
+def get_tokens(text):
     ''' Returns a list of lowercase strings representing the tokens for input str `text`. 
     The regex automatically removes punctuation for you.
+    e.g. text = inaugural.raw('1789-Washington.txt')
+    get_tokens(text) returns ['fellow', 'citizens', 'of', 'the', 'senate'...]
     '''
-    text = inaugural.raw('1789-Washington.txt')
     text = text.lower()
     tokenizer = RegexpTokenizer(r'\w+')
     tokens = tokenizer.tokenize(text)
     return tokens
 
 
-def tokenize():
+def tokenize(text):
     '''Given input str `text`, return a list of lowercase, no punctuation, filtered, and stemmed tokens. 
     Make sure you use `get_tokens()`.
     '''
