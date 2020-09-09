@@ -2,7 +2,8 @@
     Do not distribute. Collaboration is NOT permitted.
 """
 
-def all_factors(num):
+
+def all_factors(n):
     """ Return the set of factors of n (including 1 and n).
     You may assume n is a positive integer. Do this in one line for extra credit.
 
@@ -13,6 +14,7 @@ def all_factors(num):
     {1, 5}
     """
     pass
+
 
 def get_student_avg(gradebook_dict, student):
     """ Given a dictionary where each key-value pair is of the form: (student_name, [scores]),
@@ -37,6 +39,7 @@ def every_other(seq):
     """
     pass
 
+
 def all_but_last(seq):
     """ Returns a new sequence containing all but the last element of the input sequence.
     If the input sequence is empty, a new empty sequence of the same type should be returned.
@@ -47,6 +50,7 @@ def all_but_last(seq):
     """
     pass
 
+
 def substrings(seq):
     """ Returns a set of all the substrings of s.
     Recall we can compute a substring using s[i:j] where 0 <= i, j < len(s).
@@ -56,6 +60,7 @@ def substrings(seq):
     "a", "ab", "abc", "b", "bc", "c"
     """
     pass
+
 
 def many_any(lst, k):
     """ Returns True if at least k elements of lst are True;
@@ -70,6 +75,7 @@ def many_any(lst, k):
     """
     pass
 
+
 def alphabet_construct(seq, alphabet):
     """ Returns True if string s can be constructed from the set of length-1 strings
     alphabet and False otherwise.
@@ -81,6 +87,7 @@ def alphabet_construct(seq, alphabet):
     False
     """
     pass
+
 
 def common_chars(seq, k):
     """ Returns the set of characters that appear more than k times in
@@ -102,5 +109,6 @@ def dict_to_tuple_list(my_dict):
     [(x, 1), (x, 2), (x, 3), (y, 4), (y, 5), (y, 6)]
     """
     pass
+
 
 "You're done! Wahoo!"
