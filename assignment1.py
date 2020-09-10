@@ -57,7 +57,7 @@ def substrings(seq):
 
     Example:
     >>> substrings("abc")
-    "a", "ab", "abc", "b", "bc", "c"
+    {"", "a", "ab", "abc", "b", "bc", "c"}
     """
     pass
 
