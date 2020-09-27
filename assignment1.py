@@ -5,6 +5,7 @@
 # Pro tip: think long and hard about testing your code.
 # In this assignment, we aren't giving you example function calls.
 
+
 def my_sort(lst):
     ''' Return a sorted copy of a list. Do not modify the original list. Do
     not use Python's built in sorted method or [].sort(). You may use
@@ -12,11 +13,13 @@ def my_sort(lst):
     '''
     pass
 
+
 def sort_dict(d):
     ''' Sort a dictionary by value. The function should return
     (not print) a list of key, value tuples, in the form (key, value).
     '''
     pass 
+
 
 def prefixes(seq):
     ''' Create a generator that yields all the prefixes of a 
@@ -25,12 +28,14 @@ def prefixes(seq):
     '''
     pass
 
+
 def suffixes(seq):
     ''' Create a generator that yields all the suffixes of a 
     given sequence. Extra credit will be rewarded for doing this 
     in a single line.
     '''
     pass
+
 
 def slices(seq):
     ''' Create a generator that yields all the slices of a 
@@ -39,7 +44,9 @@ def slices(seq):
     '''
     pass
 
+
 # HALF WAY POINT! Wahoo!
+
 
 def extract_and_apply(l, p, f):
     '''
@@ -56,6 +63,7 @@ def extract_and_apply(l, p, f):
     '''
     pass
 
+
 def my_reduce(function, l, initializer=None):
     '''Apply function of two arguments cumulatively to the items of list l, from left to right,
     so as to reduce l to a single value. This is equivalent to the 'fold' function from CIS 120.
@@ -66,6 +74,7 @@ def my_reduce(function, l, initializer=None):
     be empty.
     '''
     pass
+
 
 class BSTree(object):
     ''' Implement a binary search tree.
