@@ -1,4 +1,4 @@
-# Assignment 4: Learning Machine Learning
+# Assignment 3: Learning Machine Learning
 > Due Tuesday, March 31st at 11:59 PM on Gradescope
 
 ### Preface
