@@ -98,4 +98,4 @@ Be sure to complete the report in [Markdown](https://github.com/adam-p/markdown-
 Submit all your code and potentially extra data to Gradescope. If you have a partner, YOU MUST MARK THEM AS A COLLABORATOR ON GRADESCOPE. If you fail to do this, you may get a 0 on this assignment.
 
 ## Attributions
-<small> This homework was adapted from [CIS 530: Computational Linguistics at the University of Pennsylvania](computational-linguistics-class.org/) by Arun Kirubarajan and Kevin Sun.</small>
+<small> This homework was adapted from [CIS 530: Computational Linguistics at the University of Pennsylvania](https://computational-linguistics-class.org/) by Arun Kirubarajan and Kevin Sun.</small>
