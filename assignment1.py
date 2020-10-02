@@ -79,8 +79,7 @@ def my_reduce(function, l, initializer=None):
 class BSTree(object):
     ''' Implement a binary search tree.
     See here: http://en.wikipedia.org/wiki/Binary_search_tree
-    or https://www.seas.upenn.edu/~cis120/current/notes/120notes.pdf
-    The examples in the test file illustrate the desired behavior.
+    or https://www.cis.upenn.edu/~cis120/current/files/120notes.pdf
 
     Each method you need to implement has its own docstring
     with further instruction. You'll want to move most of the
