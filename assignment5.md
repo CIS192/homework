@@ -2,7 +2,7 @@
 > Due December 1st at 11:59 PM. Start early and make use of office hours!
 
 ## Introduction
-The beauty of web development is its ability to create software that anybody with an internet connection can use. In this assignment, you will implement a clone of my favourite social media - Twitter! An implementation of the website is available [here](https://twitter.kirubarajan.com) and you are expected to recreate all the functionality from the site. This might seem a little daunting - but I assure you that everything you need to know has been covered in lecture.
+The beauty of web development is its ability to create software that anybody with an internet connection can use. In this assignment, you will implement a clone of my favourite social media - Twitter! An implementation of the website is available [here](https://cis192twitter.herokuapp.com) and you are expected to recreate all the functionality from the site. This might seem a little daunting - but I assure you that everything you need to know has been covered in lecture.
 
 In particular, you must be able to sign in and create tweets that support hashtagging (i.e. the tweet “I love #programming in #cis192” contains two hashtags) such that accessing the page for a given hashtag will return the tweets that contain the hashtag. In addition, you must be able to delete tweets (if you are signed in as the author). You also need to create profile pages for each user that display their username and the tweets they wrote (all tweets must be displayed in order of recency). For this assignment, all tweets will be public (in essence, all users follow each other by default).
 
